@@ -22,7 +22,7 @@
 |[cci01.05][lcci01.05]|[面试题 01.05. 一次编辑（中等）][]|![rs]&nbsp;&nbsp;|
 |[cci16.15][lcci16.15]|[面试题 16.15. 珠玑妙算 （中等）][]|![rs]&nbsp;&nbsp;|
 |[cci16.04][lcci16.04]|[面试题 16.04. 井字游戏（中等）][cci16.04]|![rs]&nbsp;&nbsp;|
-|[55][55l]|[55. 跳跃游戏 （中等）][55]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
+|[55][55l]|[55. 跳跃游戏 （中等）][55]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![ts]&nbsp;&nbsp;|
 |[48][48l]|[48. 旋转图像 （中等）][]|![rs]&nbsp;&nbsp;|
 |[54][54l]|[54. 螺旋矩阵（中等，字节电商 22 届暑期实习，出处）][]|![rs]&nbsp;&nbsp;|
 |[240][240l]|[240. 搜索二维矩阵 II （中等）][]|![rs]&nbsp;&nbsp;|
