@@ -13,7 +13,7 @@
 |[58][58l]|[58. 最后一个单词的长度（简单）][58]|![rs]&nbsp;&nbsp;|
 |[offer05][offer05l]|[剑指 Offer 05. 替换空格（简单）][]|![rs]&nbsp;&nbsp;|
 |[offer58-2][offer58-2l]|[剑指 Offer 58 - II. 左旋转字符串（简单）][offer58-2]|![rs]&nbsp;&nbsp;|
-|[26][26l]|[26. 删除排序数组中的重复项（简单）][]|![rs]&nbsp;&nbsp;|
+|[26][26l]|[26. 删除排序数组中的重复项（简单）][26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[offer67][offer67l]|[剑指 Offer 67. 把字符串转换成整数（中等）][]经典atoi()，注意范围越界处理|![rs]&nbsp;&nbsp;|
 |题型|找规律题|第一课：复杂度分析、纯编程题、找规律题|
 |[cci01.08][lcci01.08]|[面试题 01.08. 零矩阵 （简单）][]|![rs]&nbsp;&nbsp;|
@@ -37,6 +37,7 @@
 
 [1]:./0001-Two-Sum
 [9]:./0009-palindrome-number
+[26]:./0026-remove-duplicates-from-sorted-array
 [48]:./0048-rotate-image
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
