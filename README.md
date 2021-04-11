@@ -10,7 +10,7 @@
 |[offer58-1][offer58-1l]|[剑指 Offer 58 - I. 翻转单词顺序（简单）][]|![rs]&nbsp;&nbsp;|
 |[125][125l]|[125. 验证回文串（简单）][125]|![rs]&nbsp;&nbsp;|
 |[9][9l]|[9. 回文数（简单）][9]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[58][58l]|[58. 最后一个单词的长度（简单）][]|![rs]&nbsp;&nbsp;|
+|[58][58l]|[58. 最后一个单词的长度（简单）][58]|![rs]&nbsp;&nbsp;|
 |[offer05][offer05l]|[剑指 Offer 05. 替换空格（简单）][]|![rs]&nbsp;&nbsp;|
 |[offer58-2][offer58-2l]|[剑指 Offer 58 - II. 左旋转字符串（简单）][]|![rs]&nbsp;&nbsp;|
 |[26][26l]|[26. 删除排序数组中的重复项（简单）][]|![rs]&nbsp;&nbsp;|
@@ -40,6 +40,7 @@
 [48]:./0048-rotate-image
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
+[58]:./0058-length-of-last-word
 [125]:./0125-valid-palindrome
 [240]:./0240-search-a-2d-matrix-ii
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
