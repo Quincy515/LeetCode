@@ -24,20 +24,22 @@
 |[cci16.04][lcci16.04]|[面试题 16.04. 井字游戏（中等）][cci16.04]|![rs]&nbsp;&nbsp;|
 |[55][55l]|[55. 跳跃游戏 （中等）][55]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![ts]&nbsp;&nbsp;|
 |[48][48l]|[48. 旋转图像 （中等）][48]|![rs]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
-|[54][54l]|[54. 螺旋矩阵（中等，字节电商 22 届暑期实习，出处）][]|![rs]&nbsp;&nbsp;|
-|[240][240l]|[240. 搜索二维矩阵 II （中等）][]|![rs]&nbsp;&nbsp;|
+|[54][54l]|[54. 螺旋矩阵（中等，字节电商 22 届暑期实习，出处）][54]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
+|[240][240l]|[240. 搜索二维矩阵 II （中等）][240]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 
 [rs]:./ico/rust.png
-[go]:./ico/go.ico 
+[go]:./ico/go.ico
 [py]:./ico/python.ico
 [js]:./ico/javascript.png
-[ts]:./ico/typescript.png 
+[ts]:./ico/typescript.png
 [c]:./ico/c++.png
 [java]:./ico/java.png
 
 [1]:./0001-Two-Sum
 [48]:./0048-rotate-image
+[54]:./0054-spiral-matrix
 [55]:./0055-jump-game
+[240]:./0240-search-a-2d-matrix-ii
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
