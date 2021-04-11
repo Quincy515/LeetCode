@@ -14,7 +14,7 @@
 |[offer05][offer05l]|[剑指 Offer 05. 替换空格（简单）][]|![rs]&nbsp;&nbsp;|
 |[offer58-2][offer58-2l]|[剑指 Offer 58 - II. 左旋转字符串（简单）][offer58-2]|![rs]&nbsp;&nbsp;|
 |[26][26l]|[26. 删除排序数组中的重复项（简单）][26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[offer67][offer67l]|[剑指 Offer 67. 把字符串转换成整数（中等）][]经典atoi()，注意范围越界处理|![rs]&nbsp;&nbsp;|
+|[offer67][offer67l]|[剑指 Offer 67. 把字符串转换成整数（中等）][offer67]经典atoi()，注意范围越界处理|![rs]&nbsp;&nbsp;|
 |题型|找规律题|第一课：复杂度分析、纯编程题、找规律题|
 |[cci01.08][lcci01.08]|[面试题 01.08. 零矩阵 （简单）][]|![rs]&nbsp;&nbsp;|
 |[offer61][offer61l]|[剑指 Offer 61. 扑克牌中的顺子(中等)][]|![rs]&nbsp;&nbsp;|
@@ -46,6 +46,7 @@
 [240]:./0240-search-a-2d-matrix-ii
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
+[offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
