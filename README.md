@@ -29,7 +29,7 @@
 |题型|链表|第三讲：数组、链表|
 |[203][203l]|[203. 移除链表元素 （简单）][203]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[876][876l]|[876. 链表的中间结点（简单）][876]|![rs]&nbsp;&nbsp;![py]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
-|[83][83l]|[83. 删除排序链表中的重复元素（简单）][]|![rs]&nbsp;&nbsp;|
+|[83][83l]|[83. 删除排序链表中的重复元素（简单）][83]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
 |[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][]|![rs]&nbsp;&nbsp;|
 |[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
@@ -75,6 +75,7 @@
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
+[83]:./0083-remove-duplicates-from-sorted-list
 [125]:./0125-valid-palindrome
 [203]:./0203-remove-linked-list-elements
 [240]:./0240-search-a-2d-matrix-ii
