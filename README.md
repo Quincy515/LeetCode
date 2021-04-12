@@ -33,7 +33,7 @@
 |[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][offer25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
-|[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
+|[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][offer22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][]|![rs]&nbsp;&nbsp;|
 |[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
 |[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][]|![rs]&nbsp;&nbsp;|
@@ -83,13 +83,14 @@
 [240]:./0240-search-a-2d-matrix-ii
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 [offer09l]:https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
-[offer22l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+[offer22l]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 [offer25l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
 [offer31l]:https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
