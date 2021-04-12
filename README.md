@@ -3,7 +3,7 @@
 ## 王争的算法课堂
 |#|Title|Languages|
 | --- | --- | :---: |
-|题型|纯编程题|第一课：复杂度分析、纯编程题、找规律题|
+|题型|纯编程题|第一讲：纯编程题|
 |[1][1l]|[1.两数之和（简单）][1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[1108][1108l]|[1108. IP 地址无效化（简单）][]|![rs]&nbsp;&nbsp;|
 |[344][344l]|[344. 反转字符串（简单）][]|![rs]&nbsp;&nbsp;|
@@ -15,7 +15,7 @@
 |[offer58-2][offer58-2l]|[剑指 Offer 58 - II. 左旋转字符串（简单）][offer58-2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[26][26l]|[26. 删除排序数组中的重复项（简单）][26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[offer67][offer67l]|[剑指 Offer 67. 把字符串转换成整数（中等）][offer67]经典atoi()，注意范围越界处理|![rs]&nbsp;&nbsp;|
-|题型|找规律题|第一课：复杂度分析、纯编程题、找规律题|
+|题型|找规律题|第二讲：找规律题|
 |[cci01.08][lcci01.08]|[面试题 01.08. 零矩阵 （简单）][]|![rs]&nbsp;&nbsp;|
 |[offer61][offer61l]|[剑指 Offer 61. 扑克牌中的顺子(中等)][]|![rs]&nbsp;&nbsp;|
 |[cci16.04][lcci16.04]|[面试题 16.11. 跳水板（简单）][]|![rs]&nbsp;&nbsp;|
@@ -26,6 +26,39 @@
 |[48][48l]|[48. 旋转图像 （中等）][48]|![rs]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[54][54l]|[54. 螺旋矩阵（中等，字节电商 22 届暑期实习，出处）][54]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[240][240l]|[240. 搜索二维矩阵 II （中等）][240]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
+|题型|链表|第三讲：数组、链表|
+|[203][203l]|[203. 移除链表元素 （简单）][203]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
+|[876][876l]|[876. 链表的中间结点（简单）][]|![rs]&nbsp;&nbsp;|
+|[83][83l]|[83. 删除排序链表中的重复元素（简单）][]|![rs]&nbsp;&nbsp;|
+|[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
+|[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][]|![rs]&nbsp;&nbsp;|
+|[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
+|[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
+|[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][]|![rs]&nbsp;&nbsp;|
+|[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
+|[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][]|![rs]&nbsp;&nbsp;|
+|[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][]|![rs]&nbsp;&nbsp;|
+|[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][]|![rs]&nbsp;&nbsp;|
+|[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][]|![rs]&nbsp;&nbsp;|
+|[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
+|题型|栈|第四讲：栈、队列|
+|[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][]|![rs]&nbsp;&nbsp;|
+|[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][]|![rs]&nbsp;&nbsp;|
+|[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|![rs]&nbsp;&nbsp;|
+|[20][20l]|[20. 有效的括号（简单）][]|![rs]&nbsp;&nbsp;|
+|[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][]|![rs]&nbsp;&nbsp;|
+|[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|![rs]&nbsp;&nbsp;|
+|[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][]|![rs]&nbsp;&nbsp;|
+|[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][]|![rs]&nbsp;&nbsp;|
+|[155][155l]|[155. 最小栈（简单）][]|![rs]&nbsp;&nbsp;|
+|[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][]|![rs]&nbsp;&nbsp;|
+|题型|以下选做||
+|[739][739l]|[739. 每日温度（中等）单调栈][]|![rs]&nbsp;&nbsp;|
+|[42][42l]|[42. 接雨水（困难）单调栈][]|![rs]&nbsp;&nbsp;|
+|[84][84l]|[84. 柱状图中最大的矩形（困难）单调栈][]|![rs]&nbsp;&nbsp;|
+|[cci03.06][lcci03.06]|[面试题 03.06. 动物收容所（中等） 队列][]|![rs]&nbsp;&nbsp;|
+|[offer59-2][offer59-2l]|[剑指 Offer 59 - II. 队列的最大值（中等） 单调队列][]|![rs]&nbsp;&nbsp;|
+|[offer59-1][offer59-1l]|[剑指 Offer 59 - I. 滑动窗口的最大值 （困难）单调队列][]|![rs]&nbsp;&nbsp;|
 
 [rs]:./ico/rust.png
 [go]:./ico/go.ico
@@ -43,22 +76,33 @@
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
 [125]:./0125-valid-palindrome
+[203]:./0203-remove-linked-list-elements
 [240]:./0240-search-a-2d-matrix-ii
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+[offer09l]:https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+[offer22l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+[offer25l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+[offer31l]:https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
 [offer58-2l]:https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
+[offer59-1l]:https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
+[offer59-2l]:https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
 [offer61l]:https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 [offer67l]:https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 
 [lcci01.05]:https://leetcode-cn.com/problems/one-away-lcci/
 [lcci01.08]:https://leetcode-cn.com/problems/zero-matrix-lcci/
+[lcci03.01]:https://leetcode-cn.com/problems/three-in-one-lcci/
+[lcci03.05]:https://leetcode-cn.com/problems/sort-of-stacks-lcci/
+[lcci03.06]:https://leetcode-cn.com/problems/animal-shelter-lcci/
 [lcci16.04]:https://leetcode-cn.com/problems/tic-tac-toe-lcci/
 [lcci16.11]:https://leetcode-cn.com/problems/diving-board-lcci/
 [lcci16.15]:https://leetcode-cn.com/problems/master-mind-lcci/
+[lcci16.26]:https://leetcode-cn.com/problems/calculator-lcci/
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -79,6 +123,7 @@
 [21l]:https://leetcode-cn.com/problems/merge-two-sorted-lists/
 [22l]:https://leetcode-cn.com/problems/generate-parentheses/
 [24l]:https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+[25l]:https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 [26l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode-cn.com/problems/remove-element/
 [28l]:https://leetcode-cn.com/problems/implement-strstr/
@@ -87,6 +132,7 @@
 [36l]:https://leetcode-cn.com/problems/valid-sudoku/
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
 [38l]:https://leetcode-cn.com/problems/count-and-say/
+[42l]:https://leetcode-cn.com/problems/trapping-rain-water/
 [46l]:https://leetcode-cn.com/problems/permutations/
 [47l]:https://leetcode-cn.com/problems/permutations-ii/
 [48l]:https://leetcode-cn.com/problems/rotate-image/
@@ -252,6 +298,7 @@
 [357l]:https://leetcode-cn.com/problems/count-numbers-with-unique-digits/
 [365l]:https://leetcode-cn.com/problems/water-and-jug-problem/
 [367l]:https://leetcode-cn.com/problems/valid-perfect-square/
+[369l]:https://leetcode-cn.com/problems/plus-one-linked-list/
 [371l]:https://leetcode-cn.com/problems/sum-of-two-integers/
 [372l]:https://leetcode-cn.com/problems/super-pow/
 [374l]:https://leetcode-cn.com/problems/guess-number-higher-or-lower/
@@ -416,6 +463,7 @@
 [763l]:https://leetcode-cn.com/problems/partition-labels/
 [766l]:https://leetcode-cn.com/problems/toeplitz-matrix/
 [771l]:https://leetcode-cn.com/problems/jewels-and-stones/
+[772l]:https://leetcode-cn.com/problems/calculator-lcci/
 [779l]:https://leetcode-cn.com/problems/k-th-symbol-in-grammar/
 [781l]:https://leetcode-cn.com/problems/rabbits-in-forest/
 [783l]:https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
