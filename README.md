@@ -31,7 +31,7 @@
 |[876][876l]|[876. 链表的中间结点（简单）][876]|![rs]&nbsp;&nbsp;![py]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[83][83l]|[83. 删除排序链表中的重复元素（简单）][83]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][]|![rs]&nbsp;&nbsp;|
+|[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][offer25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
 |[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
 |[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][]|![rs]&nbsp;&nbsp;|
@@ -71,6 +71,7 @@
 [1]:./0001-Two-Sum
 [2]:./0002-add-two-numbers
 [9]:./0009-palindrome-number
+[21]:./0021-merge-two-sorted-lists
 [26]:./0026-remove-duplicates-from-sorted-array
 [48]:./0048-rotate-image
 [54]:./0054-spiral-matrix
@@ -82,6 +83,7 @@
 [240]:./0240-search-a-2d-matrix-ii
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
