@@ -34,7 +34,7 @@
 |[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][offer25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
 |[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][offer22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][]|![rs]&nbsp;&nbsp;|
+|[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][19]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][]|![rs]&nbsp;&nbsp;|
 |[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][]|![rs]&nbsp;&nbsp;|
 |[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][]|![rs]&nbsp;&nbsp;|
@@ -71,6 +71,7 @@
 [1]:./0001-Two-Sum
 [2]:./0002-add-two-numbers
 [9]:./0009-palindrome-number
+[19]:./0019-remove-nth-node-from-end-of-list
 [21]:./0021-merge-two-sorted-lists
 [26]:./0026-remove-duplicates-from-sorted-array
 [48]:./0048-rotate-image
