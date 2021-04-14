@@ -44,8 +44,8 @@
 |题型|栈|第四讲：栈、队列|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][255]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|![rs]&nbsp;&nbsp;|
-|[20][20l]|[20. 有效的括号（简单）][]|![rs]&nbsp;&nbsp;|
+|[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|未完成|
+|[20][20l]|[20. 有效的括号（简单）][20]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][]|![rs]&nbsp;&nbsp;|
 |[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|![rs]&nbsp;&nbsp;|
 |[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][]|![rs]&nbsp;&nbsp;|
@@ -72,6 +72,7 @@
 [2]:./0002-add-two-numbers
 [9]:./0009-palindrome-number
 [19]:./0019-remove-nth-node-from-end-of-list
+[20]:./0020-valid-parentheses
 [21]:./0021-merge-two-sorted-lists
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
