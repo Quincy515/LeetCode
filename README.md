@@ -37,7 +37,7 @@
 |[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][19]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][160]|![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][141]|![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][]|![rs]&nbsp;&nbsp;|
+|[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][206]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][]|![rs]&nbsp;&nbsp;|
 |[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][]|![rs]&nbsp;&nbsp;|
 |[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
@@ -83,6 +83,7 @@
 [141]:./0141-linked-list-cycle
 [160]:./0160-intersection-of-two-linked-lists
 [203]:./0203-remove-linked-list-elements
+[206]:./0206-reverse-linked-list
 [240]:./0240-search-a-2d-matrix-ii
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
