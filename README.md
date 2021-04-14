@@ -40,7 +40,7 @@
 |[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][206]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][234]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][328]|![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
-|[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
+|[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][25]|![rs]&nbsp;&nbsp;[!go]&nbsp;&nbsp;|
 |题型|栈|第四讲：栈、队列|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][]|![rs]&nbsp;&nbsp;|
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][]|![rs]&nbsp;&nbsp;|
@@ -73,6 +73,7 @@
 [9]:./0009-palindrome-number
 [19]:./0019-remove-nth-node-from-end-of-list
 [21]:./0021-merge-two-sorted-lists
+[25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
 [48]:./0048-rotate-image
 [54]:./0054-spiral-matrix
