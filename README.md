@@ -39,7 +39,7 @@
 |[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][141]|![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][206]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][234]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][]|![rs]&nbsp;&nbsp;|
+|[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][328]|![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][]|![rs]&nbsp;&nbsp;|
 |题型|栈|第四讲：栈、队列|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][]|![rs]&nbsp;&nbsp;|
@@ -86,6 +86,7 @@
 [206]:./0206-reverse-linked-list
 [234]:./0234-palindrome-linked-list
 [240]:./0240-search-a-2d-matrix-ii
+[328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
