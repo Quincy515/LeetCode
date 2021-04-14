@@ -43,7 +43,7 @@
 |[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |题型|栈|第四讲：栈、队列|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][]|![rs]&nbsp;&nbsp;|
+|[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][255]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|![rs]&nbsp;&nbsp;|
 |[20][20l]|[20. 有效的括号（简单）][]|![rs]&nbsp;&nbsp;|
 |[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][]|![rs]&nbsp;&nbsp;|
@@ -87,6 +87,7 @@
 [206]:./0206-reverse-linked-list
 [234]:./0234-palindrome-linked-list
 [240]:./0240-search-a-2d-matrix-ii
+[255]:./0255-implement-stack-using-queues
 [328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
