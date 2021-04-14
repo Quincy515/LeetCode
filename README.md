@@ -32,7 +32,7 @@
 |[83][83l]|[83. 删除排序链表中的重复元素（简单）][83]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][offer25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[369][369l]|[369. 给单链表加一（中等）][]|![rs]&nbsp;&nbsp;|
+|[369][369l]|[369. 给单链表加一（中等）][]|未完成|
 |[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][offer22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][19]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][160]|![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
@@ -40,9 +40,9 @@
 |[206][206l]|[206. 反转链表 （中等，阿里云存储 22 届暑期实习，出处）][206]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][234]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][328]|![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
-|[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][25]|![rs]&nbsp;&nbsp;[!go]&nbsp;&nbsp;|
+|[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |题型|栈|第四讲：栈、队列|
-|[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][]|![rs]&nbsp;&nbsp;|
+|[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][]|![rs]&nbsp;&nbsp;|
 |[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|![rs]&nbsp;&nbsp;|
 |[20][20l]|[20. 有效的括号（简单）][]|![rs]&nbsp;&nbsp;|
@@ -90,6 +90,7 @@
 [328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
