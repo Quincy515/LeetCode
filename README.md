@@ -49,7 +49,7 @@
 |[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][cci16.26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|**未完成**|
 |[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][1047]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][]|![rs]&nbsp;&nbsp;|
+|[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][cci03.05]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[155][155l]|[155. 最小栈（简单）][]|![rs]&nbsp;&nbsp;|
 |[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][]|![rs]&nbsp;&nbsp;|
 |题型|以下选做||
@@ -93,6 +93,7 @@
 [328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
+[cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.26]:./cci16.26-calculator-lcci
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
