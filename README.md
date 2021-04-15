@@ -32,7 +32,7 @@
 |[83][83l]|[83. 删除排序链表中的重复元素（简单）][83]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[2][2l]|[2. 两数相加 （中等，腾讯 WXG 21 届秋招）][2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[offer25][offer25l]|[剑指 Offer 25. 合并两个排序的链表 （中等）][offer25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[369][369l]|[369. 给单链表加一（中等）][]|未完成|
+|[369][369l]|[369. 给单链表加一（中等）][]|**未完成**|
 |[offer22][offer22l]|[剑指 Offer 22. 链表中倒数第k个节点 （简单，百度 22 届暑期实习）][offer22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[19][19l]|[19. 删除链表的倒数第 N 个结点 （中等）][19]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习）][160]|![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
@@ -44,11 +44,11 @@
 |题型|栈|第四讲：栈、队列|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][255]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|未完成|
+|[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|**未完成**|
 |[20][20l]|[20. 有效的括号（简单）][20]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][cci16.26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|![rs]&nbsp;&nbsp;|
-|[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][]|![rs]&nbsp;&nbsp;|
+|[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|**未完成**|
+|[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][1047]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][]|![rs]&nbsp;&nbsp;|
 |[155][155l]|[155. 最小栈（简单）][]|![rs]&nbsp;&nbsp;|
 |[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][]|![rs]&nbsp;&nbsp;|
@@ -92,6 +92,7 @@
 [255]:./0255-implement-stack-using-queues
 [328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
+[1047]:./1047-remove-all-adjacent-duplicates-in-string
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.26]:./cci16.26-calculator-lcci
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
@@ -481,7 +482,7 @@
 [763l]:https://leetcode-cn.com/problems/partition-labels/
 [766l]:https://leetcode-cn.com/problems/toeplitz-matrix/
 [771l]:https://leetcode-cn.com/problems/jewels-and-stones/
-[772l]:https://leetcode-cn.com/problems/calculator-lcci/
+[772l]:https://leetcode-cn.com/problems/basic-calculator-iii/
 [779l]:https://leetcode-cn.com/problems/k-th-symbol-in-grammar/
 [781l]:https://leetcode-cn.com/problems/rabbits-in-forest/
 [783l]:https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
