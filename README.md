@@ -46,7 +46,7 @@
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][255]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|未完成|
 |[20][20l]|[20. 有效的括号（简单）][20]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][]|![rs]&nbsp;&nbsp;|
+|[cci16.26][lcci16.26]|[面试题 16.26. 计算器（中等）][cci16.26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[772][772l]|[772. 基本计算器 III（困难 包含括号 力扣会员）][]|![rs]&nbsp;&nbsp;|
 |[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][]|![rs]&nbsp;&nbsp;|
 |[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][]|![rs]&nbsp;&nbsp;|
@@ -64,6 +64,7 @@
 [go]:./ico/go.ico
 [py]:./ico/python.ico
 [js]:./ico/javascript.png
+
 [ts]:./ico/typescript.png
 [c]:./ico/c++.png
 [java]:./ico/java.png
@@ -92,6 +93,7 @@
 [328]:./0328-odd-even-linked-list
 [876]:./0876-middle-of-the-linked-list
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[cci16.26]:./cci16.26-calculator-lcci
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
