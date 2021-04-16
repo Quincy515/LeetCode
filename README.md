@@ -53,7 +53,7 @@
 |[155][155l]|[155. 最小栈（简单）][155]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][offer31]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
 |题型|以下选做||
-|[739][739l]|[739. 每日温度（中等）单调栈][]|![rs]&nbsp;&nbsp;|
+|[739][739l]|[739. 每日温度（中等）单调栈][739]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
 |[42][42l]|[42. 接雨水（困难）单调栈][]|![rs]&nbsp;&nbsp;|
 |[84][84l]|[84. 柱状图中最大的矩形（困难）单调栈][]|![rs]&nbsp;&nbsp;|
 |[cci03.06][lcci03.06]|[面试题 03.06. 动物收容所（中等） 队列][]|![rs]&nbsp;&nbsp;|
@@ -92,6 +92,7 @@
 [240]:./0240-search-a-2d-matrix-ii
 [255]:./0255-implement-stack-using-queues
 [328]:./0328-odd-even-linked-list
+[739]:./0739-daily-temperatures
 [876]:./0876-middle-of-the-linked-list
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
