@@ -51,7 +51,7 @@
 |[1047][1047l]|[1047. 删除字符串中的所有相邻重复项（简单）][1047]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][cci03.05]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[155][155l]|[155. 最小栈（简单）][155]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
-|[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][]|![rs]&nbsp;&nbsp;|
+|[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][offer31]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
 |题型|以下选做||
 |[739][739l]|[739. 每日温度（中等）单调栈][]|![rs]&nbsp;&nbsp;|
 |[42][42l]|[42. 接雨水（困难）单调栈][]|![rs]&nbsp;&nbsp;|
@@ -84,6 +84,7 @@
 [83]:./0083-remove-duplicates-from-sorted-list
 [125]:./0125-valid-palindrome
 [141]:./0141-linked-list-cycle
+[155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
@@ -99,6 +100,7 @@
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
+[offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
