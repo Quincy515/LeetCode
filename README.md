@@ -91,6 +91,7 @@
 [234]:./0234-palindrome-linked-list
 [240]:./0240-search-a-2d-matrix-ii
 [255]:./0255-implement-stack-using-queues
+[283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
 [739]:./0739-daily-temperatures
 [876]:./0876-middle-of-the-linked-list
