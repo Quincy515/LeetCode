@@ -1,7 +1,8 @@
 struct MinStack {
   stack: Vec<i32>,
-  min: Vec<i32>,
+  min_stack: Vec<i32>,
 }
+
 
 /**
  * `&self` means the method takes an immutable reference.
@@ -10,32 +11,32 @@ struct MinStack {
 impl MinStack {
   /** initialize your data structure here. */
   fn new() -> Self {
-    Self {
+    MinStack {
       stack: Vec::new(),
-      min: Vec::new(),
+      min_stack: Vec::new(),
     }
   }
 
   fn push(&mut self, val: i32) {
     self.stack.push(val);
-    if self.min.is_empty() || val <= self.get_min() {
-      self.min.push(val)
+    if self.min_stack.is_empty() || val <= *self.min_stack.last().unwrap() {
+      self.min_stack.push(val);
     }
   }
 
   fn pop(&mut self) {
-    if *self.stack.last_mut().unwrap() == self.get_min() {
-      self.min.pop();
+    if self.stack.is_empty() { return; }
+    if self.stack.pop().unwrap() == *self.min_stack.last().unwrap() {
+      self.min_stack.pop();
     }
-    self.stack.pop();
   }
 
-  fn top(&mut self) -> i32 {
-    *self.stack.last_mut().unwrap()
+  fn top(&self) -> i32 {
+    return *self.stack.last().unwrap();
   }
 
-  fn get_min(&mut self) -> i32 {
-    *self.min.last_mut().unwrap()
+  fn get_min(&self) -> i32 {
+    return *self.min_stack.last().unwrap();
   }
 }
 
@@ -51,6 +52,7 @@ impl MinStack {
 #[cfg(test)]
 mod tests {
   use super::*;
+
   #[test]
   fn it_works() {
     let mut min_stack = MinStack::new();
