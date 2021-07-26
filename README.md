@@ -1,6 +1,17 @@
 # LeetCode
 
-## 王争的算法课堂
+<details>
+  <summary><mark>AlgoMooc算法训练营</mark></summary>
+
+[AlgoMooc 算法训练营](https://t.1yb.co/wauG)
+
+|#|Title|Languages|
+| --- | --- | :---: |
+</details>
+
+<details>
+  <summary><mark>王争的算法课堂第一期</mark></summary>
+
 |#|Title|Languages|
 | --- | --- | :---: |
 |题型|纯编程题|第一讲：纯编程题|
@@ -60,6 +71,42 @@
 |[offer59-2][offer59-2l]|[剑指 Offer 59 - II. 队列的最大值（中等） 单调队列][]|![rs]&nbsp;&nbsp;|
 |[offer59-1][offer59-1l]|[剑指 Offer 59 - I. 滑动窗口的最大值 （困难）单调队列][]|![rs]&nbsp;&nbsp;|
 
+</details>
+
+<details>
+  <summary><mark>王争的算法课堂第三期</mark></summary>
+
+|#|Title|Languages|
+| --- | --- | :---: |
+</details>
+
+<details>
+    <summary><mark>Rust Programming in Action</mark></summary>
+
+|#|Title|Languages|
+| --- | --- | :---: |
+</details>
+
+<details>
+    <summary><mark>《玩转算法面试》练习题</mark></summary>
+
+慕课网实战课程 [《玩转算法面试》](https://coding.imooc.com/class/82.html)
+
+官方代码仓 https://github.com/liuyubobobo/Play-with-Algorithm-Interview 
+
+课程练习题的参考答案可以在刘宇波老师的 [Leetcode](https://github.com/liuyubobobo/Play-Leetcode) 题解代码仓 中查询参考代码。
+
+|#|Title|Languages|
+| --- | --- | :---: |
+</details>
+
+<details>
+    <summary><mark>《极客大学》「算法训练营第四期」</mark></summary>
+
+|#|Title|Languages|
+| --- | --- | :---: |
+</details>
+
 [rs]:./ico/rust.png
 [go]:./ico/go.ico
 [py]:./ico/python.ico
@@ -81,6 +128,7 @@
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
+[66]:./0066-plus-one
 [83]:./0083-remove-duplicates-from-sorted-list
 [125]:./0125-valid-palindrome
 [141]:./0141-linked-list-cycle
