@@ -83,6 +83,8 @@
 <details>
     <summary><mark>Rust Programming in Action</mark></summary>
 
+《Rust编程：入门、实战与进阶》源码 [inrust/Rust-Programming-in-Action](https://github.com/inrust/Rust-Programming-in-Action)
+
 |#|Title|Languages|
 | --- | --- | :---: |
 |12.1|数据结构实战|数组|
@@ -188,6 +190,7 @@
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
 [234]:./0234-palindrome-linked-list
+[239]:./0239-sliding-window-maximum
 [240]:./0240-search-a-2d-matrix-ii
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
