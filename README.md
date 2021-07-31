@@ -7,6 +7,42 @@
 
 |#|Title|Languages|
 | --- | --- | :---: |
+|第一周：数组、栈和队列|||
+|第一天课程内容|||
+|[88][88l]|[88. 合并两个有序数组（简单）][88]|![rs]&nbsp;&nbsp;|
+|[75][75l]|[75. 颜色分类（中等）][75]|![rs]&nbsp;&nbsp;|
+|[16.16][lcci16.16]|[面试题 16.16. 部分排序（中等）][cci16.16]|![rs]&nbsp;&nbsp;|
+|第二天课程内容|||
+|[977][977l]|[977. 有序数组的平方（简单）][977]|![rs]&nbsp;&nbsp;|
+|[164][164l]|[164. 最大间距（困难）][164]|![rs]&nbsp;&nbsp;|
+|第三天课程内容|||
+|[739][739l]|[739. 每日温度（中等）][739]|![rs]&nbsp;&nbsp;|
+|[20][20l]|[20. 有效的括号（简单）][20]|![rs]&nbsp;&nbsp;|
+|[232][232l]|[232. 用栈实现队列（简单）][232]|![rs]&nbsp;&nbsp;|
+|[155][155l]|[155. 最小栈（简单）][155]|![rs]&nbsp;&nbsp;|
+|[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;|
+
+
+3、部分排序(点击前往学习)
+
+2) 第二天课程内容
+   4、有序数组的平方(课程待上传)
+
+5、最大间距(课程待上传)
+
+3）第三天课程内容
+0、队列和栈的相关知识(课程待上传)
+
+1、每日温度(课程待上传)
+
+2、有效的括号(课程待上传)
+
+3、用栈实现队列(课程待上传)
+
+4、最小栈(课程待上传)
+
+5、用两个栈实现队列(课程待上传)
+
 </details>
 
 <details>
@@ -178,11 +214,14 @@
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
 [48]:./0048-rotate-image
+[49]:./0049-group-anagrams
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
 [66]:./0066-plus-one
+[75]:./0075-sort-colors
 [83]:./0083-remove-duplicates-from-sorted-list
+[88]:./0088-merge-sorted-array
 [125]:./0125-valid-palindrome
 [141]:./0141-linked-list-cycle
 [155]:./0155-min-stack
@@ -201,6 +240,7 @@
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[cci16.16]:./cci16.16-sub-sort-lcci
 [cci16.26]:./cci16.26-calculator-lcci
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
@@ -229,6 +269,7 @@
 [lcci16.04]:https://leetcode-cn.com/problems/tic-tac-toe-lcci/
 [lcci16.11]:https://leetcode-cn.com/problems/diving-board-lcci/
 [lcci16.15]:https://leetcode-cn.com/problems/master-mind-lcci/
+[lcci16.16]:https://leetcode-cn.com/problems/sub-sort-lcci/
 [lcci16.26]:https://leetcode-cn.com/problems/calculator-lcci/
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
