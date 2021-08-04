@@ -230,6 +230,7 @@
 [164]:./0164-maximum-gap
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
+[232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
 [239]:./0239-sliding-window-maximum
 [240]:./0240-search-a-2d-matrix-ii
