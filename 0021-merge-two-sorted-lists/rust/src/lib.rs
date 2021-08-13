@@ -20,25 +20,45 @@ impl Solution {
     l2: Option<Box<ListNode>>,
   ) -> Option<Box<ListNode>> {
     let (mut l1, mut l2) = (l1, l2);
+    // 一开始设置一个虚拟节点，它的值为 -1，它的值可以设置为任何的数，因为我们根本不需要使用它的值
     let mut dummy = Some(Box::new(ListNode::new(0)));
+    // 设置一个指针，指向虚拟节点
     let mut p = &mut dummy;
 
+    // 通过一个循环，不断的比较 l1 和 l2 中当前节点值的大小，直到 l1 或者 l2 遍历完毕为止
     while l1.is_some() && l2.is_some() {
+      // 如果 l1 当前节点的值小于等于 l2 当前节点的值
       if l1.as_ref().unwrap().val < l2.as_ref().unwrap().val {
+        // 让 pre 指向节点的 next 指针指向这个更小值的节点，即指向 l1
         p.as_mut().unwrap().next = l1.take();
+        // 让 l1 向后移动
         l1 = p.as_mut().unwrap().next.as_mut().unwrap().next.take();
       } else {
+        // 让 pre 指向节点的 next 指针指向这个更小值的节点，即指向 l2
         p.as_mut().unwrap().next = l2.take();
+        // 让 l2 向后移动
         l2 = p.as_mut().unwrap().next.as_mut().unwrap().next.take();
       }
+      // 让 pre 向后移动
       p = &mut p.as_mut().unwrap().next;
     }
+
+    // 跳出循环后，l1 或者 l2 中可能有剩余的节点没有被观察过
+    // 直接把剩下的节点加入到 pre 的 next 指针位置
+
+    // 如果 l1 中还有节点
     if !l1.is_none() {
+      // 把 l1 中剩下的节点全部加入到 pre 的 next 指针位置
       p.as_mut().unwrap().next = l1;
     }
+
+    // 如果 l2 中海油节点
     if !l2.is_none() {
+      // 把 l2 中剩下的节点全部加入到 pre 的 next 指针位置
       p.as_mut().unwrap().next = l2;
     }
+
+    // 最后返回虚拟节点的 next 指针
     dummy.unwrap().next
   }
 }
