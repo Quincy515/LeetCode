@@ -56,7 +56,7 @@
 
 |#|Title|Languages|
 | --- | --- | :---: |
-|题型|纯编程题|第一讲：纯编程题|
+|**题型**|**纯编程题**|**第一讲：纯编程题**|
 |[1][1l]|[1.两数之和（简单）][1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[1108][1108l]|[1108. IP 地址无效化（简单）][]|![rs]&nbsp;&nbsp;|
 |[344][344l]|[344. 反转字符串（简单）][]|![rs]&nbsp;&nbsp;|
@@ -68,7 +68,7 @@
 |[offer58-2][offer58-2l]|[剑指 Offer 58 - II. 左旋转字符串（简单）][offer58-2]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[26][26l]|[26. 删除排序数组中的重复项（简单）][26]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[offer67][offer67l]|[剑指 Offer 67. 把字符串转换成整数（中等）][offer67]经典atoi()，注意范围越界处理|![rs]&nbsp;&nbsp;|
-|题型|找规律题|第二讲：找规律题|
+|**题型**|**找规律题**|**第二讲：找规律题**|
 |[cci01.08][lcci01.08]|[面试题 01.08. 零矩阵 （简单）][]|![rs]&nbsp;&nbsp;|
 |[offer61][offer61l]|[剑指 Offer 61. 扑克牌中的顺子(中等)][]|![rs]&nbsp;&nbsp;|
 |[cci16.04][lcci16.04]|[面试题 16.11. 跳水板（简单）][]|![rs]&nbsp;&nbsp;|
@@ -79,7 +79,7 @@
 |[48][48l]|[48. 旋转图像 （中等）][48]|![rs]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[54][54l]|[54. 螺旋矩阵（中等，字节电商 22 届暑期实习，出处）][54]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[240][240l]|[240. 搜索二维矩阵 II （中等）][240]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
-|题型|链表|第三讲：数组、链表|
+|**题型**|**链表**|**第三讲：数组、链表**|
 |[203][203l]|[203. 移除链表元素 （简单）][203]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[876][876l]|[876. 链表的中间结点（简单）][876]|![rs]&nbsp;&nbsp;![py]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[83][83l]|[83. 删除排序链表中的重复元素（简单）][83]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
@@ -94,7 +94,7 @@
 |[234][234l]|[234. 回文链表 （中等，蚂蚁金服社招，我当年被Google同事面到的）][234]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[328][328l]|[328. 奇偶链表（中等，腾讯 WXG 21 届秋招][328]|![go]&nbsp;&nbsp;![java]&nbsp;&nbsp;|
 |[25][25l]|[25. K 个一组翻转链表（困难，腾讯 WXG 21 届秋招）][25]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
-|题型|栈|第四讲：栈、队列|
+|**题型**|**栈**|**第四讲：栈、队列**|
 |[offer09][offer09l]|[剑指 Offer 09. 用两个栈实现队列（简单）][offer09]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[225][225l]|[225. 用队列实现栈（简单，字节实习，出处）][255]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[cci03.01][lcci03.01]|[面试题 03.01. 三合一（简单）][]|**未完成**|
@@ -105,13 +105,213 @@
 |[cci03.05][lcci03.05]|[面试题 03.05. 栈排序（中等）][cci03.05]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[155][155l]|[155. 最小栈（简单）][155]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;|
 |[offer31][offer31l]|[剑指 Offer 31. 栈的压入、弹出序列（中等）][offer31]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
-|题型|以下选做||
+|**题型**|**以下选做**||
 |[739][739l]|[739. 每日温度（中等）单调栈][739]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
 |[42][42l]|[42. 接雨水（困难）单调栈][]|![rs]&nbsp;&nbsp;|
 |[84][84l]|[84. 柱状图中最大的矩形（困难）单调栈][]|![rs]&nbsp;&nbsp;|
 |[cci03.06][lcci03.06]|[面试题 03.06. 动物收容所（中等） 队列][]|![rs]&nbsp;&nbsp;|
 |[offer59-2][offer59-2l]|[剑指 Offer 59 - II. 队列的最大值（中等） 单调队列][]|![rs]&nbsp;&nbsp;|
 |[offer59-1][offer59-1l]|[剑指 Offer 59 - I. 滑动窗口的最大值 （困难）单调队列][]|![rs]&nbsp;&nbsp;|
+|**题型**|**递归和分治**|**第五讲：递归和分治**|
+|[offer10-1][offer10-1l]|[剑指 Offer 10- I. 斐波那契数列 （简单）][offer10-1]|![rs]&nbsp;&nbsp;|
+|[offer10-2][offer10-2l]|[剑指 Offer 10- II. 青蛙跳台阶问题（简单）][offer10-2]|![rs]&nbsp;&nbsp;|
+|[cci08.01][lcci08.01]|[面试题 08.01. 三步问题 （简单）][cci08.01]|![rs]&nbsp;&nbsp;|
+|[offer06][offer06l]|[剑指 Offer 06. 从尾到头打印链表 （简单）][offer06]|![rs]&nbsp;&nbsp;|
+|[offer24][offer24l]|[剑指 Offer 24. 反转链表 （简单）][offer24]|![rs]&nbsp;&nbsp;|
+|[offer16][offer16l]|[剑指 Offer 16. 数值的整数次方 （中等）][offer16]|![rs]&nbsp;&nbsp;|
+|[cci08.05][lcci08.05]|[面试题 08.05. 递归乘法 （中等）][cci08.05]|![rs]&nbsp;&nbsp;|
+|**题型**|**排序**|**第六讲: 排序**|
+|[cci10.01][lcci10.01]|[面试题 10.01. 合并排序的数组 （简单）][cci10.01]|![rs]&nbsp;&nbsp;|
+|[21][21l]|[21. 合并两个有序链表 （简单）][21]|![rs]&nbsp;&nbsp;|
+|[242][242l]|[242. 有效的字母异位词（简单）][242]|![rs]&nbsp;&nbsp;|
+|[1502][1502l]|[1502. 判断能否形成等差数列（简单）][1502]|![rs]&nbsp;&nbsp;|
+|[252][252l]|[252. 会议室 （简单）][252]|![rs]&nbsp;&nbsp;|
+|[56][56l]|[56. 合并区间（中等） ][56]|![rs]&nbsp;&nbsp;|
+|[offer21][offer21l]|[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 （简单）][offer21]|![rs]&nbsp;&nbsp;|
+|[75][75l]|[75. 颜色分类（中等）][75]|![rs]&nbsp;&nbsp;|
+|[147][147l]|[147. 对链表进行插入排序（中等）][147]|![rs]&nbsp;&nbsp;|
+|[148][148l]|[148. 排序链表（中等） 链表上的归并排序][148]|![rs]&nbsp;&nbsp;|
+|[215][215l]|[215. 数组中的第K个最大元素（中等） ][215]|![rs]&nbsp;&nbsp;|
+|[cci17.14][lcci17.14]|[面试题 17.14. 最小K个数 （中等）][cci17.14]|![rs]&nbsp;&nbsp;|
+|[offer51][offer51l]|[剑指 Offer 51. 数组中的逆序对（困难）][offer51]|![rs]&nbsp;&nbsp;|
+|**题型**|**二分查找**|**第七讲: 二分查找**|
+|[704][704l]|[704. 二分查找（简单） 标准二分查找][704]|![rs]&nbsp;&nbsp;|
+|[374][374l]|[374. 猜数字大小（简单）][374]|![rs]&nbsp;&nbsp;|
+|[744][744l]|[744. 寻找比目标字母大的最小字母（简单）][744]|![rs]&nbsp;&nbsp;|
+|[35][35l]|[35. 搜索插入位置（简单）][35]|![rs]&nbsp;&nbsp;|
+|[34][34l]|[34. 在排序数组中查找元素的第一个和最后一个位置 （中等）][34]|![rs]&nbsp;&nbsp;|
+|[cci10.05][lcci10.05]|[面试题 10.05. 稀疏数组搜索（简单） ][cci10.05]|![rs]&nbsp;&nbsp;|
+|[33][33l]|[33. 搜索旋转排序数组（中等）无重复数据 ][33]|![rs]&nbsp;&nbsp;|
+|[81][81l]|[81. 搜索旋转排序数组 II（中等）有重复数据][81]|![rs]&nbsp;&nbsp;|
+|[153][153l]|[153. 寻找旋转排序数组中的最小值（中等） 无重复数据][153]|![rs]&nbsp;&nbsp;|
+|[154][154l]|[154. 寻找旋转排序数组中的最小值 II （困难） 有重复数据][154]|![rs]&nbsp;&nbsp;|
+|[852][852l]|[852. 山脉数组的峰顶索引（简单）峰值二分][852]|![rs]&nbsp;&nbsp;|
+|[162][162l]|[162. 寻找峰值（中等）峰值二分][162]|![rs]&nbsp;&nbsp;|
+|[367][367l]|[367. 有效的完全平方数（简单）二分答案][367]|![rs]&nbsp;&nbsp;|
+|[69][69l]|[69. x 的平方根（简单）二分答案][69]|![rs]&nbsp;&nbsp;|
+|[875][875l]|[875. 爱吃香蕉的珂珂（中等）二分答案][875]|![rs]&nbsp;&nbsp;|
+|[658][658l]|[658. 找到 K 个最接近的元素（中等）][658]|![rs]&nbsp;&nbsp;|
+|[74][74l]|[74. 搜索二维矩阵（中等） 二维转一维，二分查找][74]|![rs]&nbsp;&nbsp;|
+|**题型**|**哈希表**|**第八讲: 哈希表**|
+|[1][1l]|[1. 两数之和 （简单） 两数之和][1]|![rs]&nbsp;&nbsp;|
+|[15][15l]|[15. 三数之和（中等）三数之和][15]|![rs]&nbsp;&nbsp;|
+|[160][160l]|[160. 相交链表（简单，新华智云 22 届暑期实习） ][160]||![rs]&nbsp;&nbsp;
+|[141][141l]|[141. 环形链表（简单） 判断链表中是否存在环 ][141]|![rs]&nbsp;&nbsp;|
+|[cci02.01][lcci02.01]|[面试题 02.01. 移除重复节点（中等） 借助哈希表][cci02.01]|![rs]&nbsp;&nbsp;|
+|[cci16.02][lcci16.02]|[面试题 16.02. 单词频率 （简单）][cci16.02]|![rs]&nbsp;&nbsp;|
+|[cci01.02][lcci01.02]|[面试题 01.02. 判定是否互为字符重排（简单）][cci01.02]|![rs]&nbsp;&nbsp;|
+|[offer03][offer03l]|[剑指 Offer 03. 数组中重复的数字 （简单） ][offer03]|![rs]&nbsp;&nbsp;|
+|[242][242l]|[242. 有效的字母异位词（简单）][242]|![rs]&nbsp;&nbsp;|
+|[49][49l]|[49. 字母异位词分组（中等）][49]|![rs]&nbsp;&nbsp;|
+|[136][136l]|[136. 只出现一次的数字（简单）][136]|![rs]&nbsp;&nbsp;|
+|[349][349l]|[349. 两个数组的交集 （简单）][349]|![rs]&nbsp;&nbsp;|
+|[1122][1122l]|[1122. 数组的相对排序（中等）][1122]||![rs]&nbsp;&nbsp;
+|[706][706l]|[706. 设计哈希映射（简单）][706]|![rs]&nbsp;&nbsp;|
+|[146][146l]|[146. LRU 缓存机制 （中等）标准的LRU][146]|![rs]&nbsp;&nbsp;|
+|[cci16.21][lcci16.21]|[面试题 16.21. 交换和（中等） 找规律，可以借助哈希表优化][cci16.21]|![rs]&nbsp;&nbsp;|
+|**题型**|**二叉树**|**第九讲: 二叉树**|
+|||**题型1：二叉树前中后序遍历**|
+|[144][144l]|[144. 二叉树的前序遍历（简单）][144]|![rs]&nbsp;&nbsp;|
+|[94][94l]|[94. 二叉树的中序遍历 （简单）][94]|![rs]&nbsp;&nbsp;|
+|[145][145l]|[145. 二叉树的后序遍历（简单）][145]|![rs]&nbsp;&nbsp;|
+|[589][589l]|[589. N 叉树的前序遍历（简单）][589]|![rs]&nbsp;&nbsp;|
+|[590][590l]|[590. N 叉树的后序遍历（简单）][590]|![rs]&nbsp;&nbsp;|
+|||**题型2：二叉树按层遍历**|
+|[offer32-1][offer32-1l]|[剑指 Offer 32 - I. 从上到下打印二叉树（中等） ][offer32-1]|![rs]&nbsp;&nbsp;|
+|[102][102l]|[102. 二叉树的层序遍历（中等） ][102]|![rs]&nbsp;&nbsp;|
+|[offer32-3][offer32-3l]|[剑指 Offer 32 - III. 从上到下打印二叉树 III （中等）][offer32-3]|![rs]&nbsp;&nbsp;|
+|[429][429l]|[429. N 叉树的层序遍历（中等）][429]|![rs]&nbsp;&nbsp;|
+|[513][513l]|[513. 找树左下角的值（中等）][513]|![rs]&nbsp;&nbsp;|
+|||**题型3：二叉树上的递归**|
+|[104][104l]|[104. 二叉树的最大深度（简单） ][104]|![rs]&nbsp;&nbsp;|
+|[543][543l]|[543. 二叉树的直径（简单）][543]|![rs]&nbsp;&nbsp;|
+|[559][559l]|[559. N 叉树的最大深度（简单）][559]|![rs]&nbsp;&nbsp;|
+|[offer55-2][offer55-2l]|[剑指 Offer 55 - II. 平衡二叉树（中等）][offer55-2]|![rs]&nbsp;&nbsp;|
+|[617][617l]|[617. 合并二叉树（简单）][617]|![rs]&nbsp;&nbsp;|
+|[226][226l]|[226. 翻转二叉树 （简单）][226]|![rs]&nbsp;&nbsp;|
+|[101][101l]|[101. 对称二叉树（中等）][101]|![rs]&nbsp;&nbsp;|
+|[98][98l]|[98. 验证二叉搜索树（中等）][98]|![rs]&nbsp;&nbsp;|
+|||**题型4：二叉查找树**|
+|[offer54][offer54l]|[剑指 Offer 54. 二叉搜索树的第k大节点（中等）][offer54]|![rs]&nbsp;&nbsp;|
+|[538][538l]|[538. 把二叉搜索树转换为累加树 （中等）][538]|![rs]&nbsp;&nbsp;|
+|[cci04.06][lcci04.06]|[面试题 04.06. 后继者（中等）][cci04.06]|![rs]&nbsp;&nbsp;|
+|||**题型5：LCA最近公共祖先**|
+|[236][236l]|[236. 二叉树的最近公共祖先（中等） ][236]|![rs]&nbsp;&nbsp;|
+|[offer68-1][offer68-1l]|[剑指 Offer 68 - I. 二叉搜索树的最近公共祖先（中等） ][offer68-1]|![rs]&nbsp;&nbsp;|
+|||**题型6：二叉树转单、双、循环链表**|
+|[114][114l]|[114. 二叉树展开为链表（中等）][114]|![rs]&nbsp;&nbsp;|
+|[cci17.12][lcci17.12]|[面试题 17.12. BiNode（中等）][cci17.12]|![rs]&nbsp;&nbsp;|
+|[offer36][offer36l]|[剑指 Offer 36. 二叉搜索树与双向链表（中等）][offer36]|![rs]&nbsp;&nbsp;|
+|[cci04.03][lcci04.03]|[面试题 04.03. 特定深度节点链表（中等）][cci04.03]|![rs]&nbsp;&nbsp;|
+|||**题型7：按照遍历结果反向构建二叉树**|
+|[105][105l]|[105. 从前序与中序遍历序列构造二叉树（中等）][105]|![rs]&nbsp;&nbsp;|
+|[889][889l]|[889. 根据前序和后序遍历构造二叉树（中等）][889]|![rs]&nbsp;&nbsp;|
+|[106][106l]|[106. 从中序与后序遍历序列构造二叉树（中等）[106]]|![rs]&nbsp;&nbsp;|
+|[offer33][offer33l]|[剑指 Offer 33. 二叉搜索树的后序遍历序列（中等）][offer33]|![rs]&nbsp;&nbsp;|
+|||**题型8：二叉树上的最长路径和**|
+|[offer34][offer34l]|[剑指 Offer 34. 二叉树中和为某一值的路径（中等）][offer34]|![rs]&nbsp;&nbsp;|
+|[124][124l]|[124. 二叉树中的最大路径和 （困难）][124]|![rs]&nbsp;&nbsp;|
+|[437][437l]|[437. 路径总和 III （困难）][437]|![rs]&nbsp;&nbsp;|
+|**题型**|**回溯**|**第十讲: 回溯**|
+|[cci08.12][lcci08.12]|[面试题 08.12. 八皇后（困难）][cci08.12]|![rs]&nbsp;&nbsp;|
+|[51][51l]|[51. N 皇后（困难）][51]|![rs]&nbsp;&nbsp;|
+|[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;|
+|[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;|
+|[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]||![rs]&nbsp;&nbsp;
+|[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;|
+|[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;|
+|[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;|
+|[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;|
+|[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;|
+|[40][40l]|[40. 组合总和 II（中等）选出某几个数相加为给定和，有重复数据，只能使用一次，不能有重复答案][40]|![rs]&nbsp;&nbsp;|
+|[216][216l]|[216. 组合总和 III（中等） 选出k个数相加为给定和，没有重复数据，只能使用一次][216]||
+|[131][131l]|[131. 分割回文串（中等）][131]|![rs]&nbsp;&nbsp;|
+|[93][93l]|[93. 复原 IP 地址（中等）][93]|![rs]&nbsp;&nbsp;|
+|[22][22l]|[22. 括号生成（中等） ][22]|![rs]&nbsp;&nbsp;|
+|**题型**|**DFS**|**第十一讲: DFS**|
+|[offer13][offer13l]|[剑指 Offer 13. 机器人的运动范围（中等）][offer13]|![rs]&nbsp;&nbsp;|
+|[cci08.10][lcci08.10]|[面试题 08.10. 颜色填充（简单）][cci08.10]|![rs]&nbsp;&nbsp;|
+|[cci04.01][lcci04.01]|[面试题 04.01. 节点间通路（中等）][cci04.01]|![rs]&nbsp;&nbsp;|
+|[200][200l]|[200. 岛屿数量（中等）][200]|![rs]&nbsp;&nbsp;|
+|[cci16.19][lcci16.19]|[面试题 16.19. 水域大小（中等）][cci16.19]|![rs]&nbsp;&nbsp;|
+|[207][207l]|[207. 课程表（中等）][207]|![rs]&nbsp;&nbsp;|
+|[79][79l]|[79. 单词搜索（中等）][79]|![rs]&nbsp;&nbsp;|
+|[1306][1306l]|[1306. 跳跃游戏 III（中等）][1306]|![rs]&nbsp;&nbsp;|
+|[752][752l]|[752. 打开转盘锁（中等）][752]|![rs]&nbsp;&nbsp;|
+||**以下选做**||
+|[cci17.22][lcci17.22]|[面试题 17.22. 单词转换（困难） ][cci17.22]|![rs]&nbsp;&nbsp;|
+|[cci17.07][lcci17.07]|[面试题 17.07. 婴儿名字（困难） ][cci17.07]|![rs]&nbsp;&nbsp;|
+|[529][529l]|[529. 扫雷游戏（困难）][529]|![rs]&nbsp;&nbsp;|
+|[127][127l]|[127. 单词接龙（困难）][127]|![rs]&nbsp;&nbsp;|
+|[126][126l]|[126. 单词接龙 II（困难）][126]|![rs]&nbsp;&nbsp;|
+|**题型**|**堆**|**第十二讲: 堆**|
+|[23][23l]|[23. 合并K个升序链表(困难) ][23]|![rs]&nbsp;&nbsp;|
+|[347][347l]|[347. 前 K 个高频元素（中等） ][347]|![rs]&nbsp;&nbsp;|
+|[973][973l]|[973. 最接近原点的 K 个点（中等）][973]|![rs]&nbsp;&nbsp;|
+|[295][295l]|[295. 数据流的中位数（困难）][295]|![rs]&nbsp;&nbsp;|
+|[313][313l]|[313. 超级丑数（中等）][313]|![rs]&nbsp;&nbsp;|
+|**题型**|**Trie树**|**第十三讲: Trie树**|
+|[208][208l]|[208. 实现 Trie (前缀树) （中等） 标准Trie树][208]|![rs]&nbsp;&nbsp;|
+||**以下为选做题目**||
+|[cci17.17][lcci17.17]|[面试题 17.17. 多次搜索（中等） 标准AC自动机，不过写AC自动机太复杂，Trie树搞定][cci17.17]|![rs]&nbsp;&nbsp;|
+|[212][212l]|[212. 单词搜索 II（困难）][212]|![rs]&nbsp;&nbsp;|
+|**题型**|**背包**|**第十四讲: 背包**|
+|[416][416l]|[416. 分割等和子集][416]|![rs]&nbsp;&nbsp;|
+|[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;|
+|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;|
+|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;|
+|[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;|
+|**题型**|**打家劫舍**|**第十五讲: 打家劫舍**|
+|[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;|
+|[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;|
+|[cci17.16][lcci17.16]|[面试题 17.16. 按摩师][cci17.16]|![rs]&nbsp;&nbsp;|
+|**题型**|**买卖股票**|**第十六讲: 买卖股票**|
+|[121][121l]|[121. 买卖股票的最佳时机][121]|![rs]&nbsp;&nbsp;|
+|[122][122l]|[122. 买卖股票的最佳时机 II][122]|![rs]&nbsp;&nbsp;|
+|[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;|
+|[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;|
+|[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;|
+|[62][62l]|[62. 不同路径][62]|![rs]&nbsp;&nbsp;|
+|[64][64l]|[64. 最小路径和][64]|![rs]&nbsp;&nbsp;|
+|[offer47][offer47l]|[剑指 Offer 47. 礼物的最大价值][offer47]|![rs]&nbsp;&nbsp;|
+|[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;|
+|[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;|
+|[10][10l]|[10. 正则表达式匹配][10]|![rs]&nbsp;&nbsp;|
+|[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;|
+|[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;|
+|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;|
+|[437][437l]|[437. 路径总和 III][437]|![rs]&nbsp;&nbsp;|
+|**题型**|**双指针**|**第十七讲: 双指针**|
+|[344][344l]|[344. 反转字符串][344]|![rs]&nbsp;&nbsp;|
+|[cci16.24][lcci16.24]|[面试题 16.24. 数对和（例题1）][cci16.24]|![rs]&nbsp;&nbsp;|
+|[1][1l]|[1. 两数之和][1]|![rs]&nbsp;&nbsp;|
+|[15][15l]|[15. 三数之和][15]|![rs]&nbsp;&nbsp;|
+|[offer21][offer21l]|[剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 ][offer21]|![rs]&nbsp;&nbsp;|
+|[75][75l]|[75. 颜色分类 ][75]|![rs]&nbsp;&nbsp;|
+|[283][283l]|[283. 移动零 已排序未排序指针（例题2）][283]|![rs]&nbsp;&nbsp;|
+|[cci16.06][lcci16.06]|[面试题 16.06. 最小差 类似合并两个有序数组（例题3）][cci16.06]|![rs]&nbsp;&nbsp;|
+|[cci17.11][lcci17.11]|[面试题 17.11. 单词距离 类似合并两个有序数组][cci17.11]|![rs]&nbsp;&nbsp;|
+|**题型**|**滑动窗口**|**第十八讲: 滑动窗口**|
+|[offer57-2][offer57-2l]|[剑指 Offer 57 - II. 和为s的连续正数序列 （例题1）][offer57-2]|![rs]&nbsp;&nbsp;|
+|[offer48][offer48l]|[剑指 Offer 48. 最长不含重复字符的子字符串 （例题2）][offer48]|![rs]&nbsp;&nbsp;|
+|[438][438l]|[438. 找到字符串中所有字母异位词 ][438]|![rs]&nbsp;&nbsp;|
+|[76][76l]|[76. 最小覆盖子串 ][76]|![rs]&nbsp;&nbsp;|
+|**题型**|**前缀后缀统计**|**第十九讲: 前缀后缀统计**|
+|[53][53l]|[53. 最大子序和][53]|![rs]&nbsp;&nbsp;|
+|[238][238l]|[238. 除自身以外数组的乘积][238]|![rs]&nbsp;&nbsp;|
+|[cci05.03][lcci05.03]|[面试题 05.03. 翻转数位][cci05.03]|![rs]&nbsp;&nbsp;|
+|[42][42l]|[42. 接雨水][42]|![rs]&nbsp;&nbsp;|
+|**题型**|**位运算**|**第二十讲: 位运算**|
+|[191][191l]|[191. 位1的个数 （例题1）][191]|![rs]&nbsp;&nbsp;|
+|[461][461l]|[461. 汉明距离（例题2）][461]|![rs]&nbsp;&nbsp;|
+|[cci05.06][lcci05.06]|[面试题 05.06. 整数转换][cci05.06]|![rs]&nbsp;&nbsp;|
+|[cci05.07][lcci05.07]|[面试题 05.07. 配对交换 ][cci05.07]|![rs]&nbsp;&nbsp;|
+|[cci05.01][lcci05.01]|[面试题 05.01. 插入 ][cci05.01]|![rs]&nbsp;&nbsp;|
+|[cci17.04][lcci17.04]|[面试题 17.04. 消失的数字][cci17.04]|![rs]&nbsp;&nbsp;|
+|[offer56-1][offer56-1l]|[剑指 Offer 56 - I. 数组中数字出现的次数][offer56-1]|![rs]&nbsp;&nbsp;|
+|[offer56-2][offer56-2l]|[剑指 Offer 56 - II. 数组中数字出现的次数 II ][offer56-2]|![rs]&nbsp;&nbsp;|
+|[cci16.01][lcci16.01]|[面试题 16.01. 交换数字][cci16.01]|![rs]&nbsp;&nbsp;|
+|[231][231l]|[231. 2 的幂][231]|![rs]&nbsp;&nbsp;|
 
 </details>
 
@@ -261,28 +461,81 @@
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
+[offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+[offer06l]:https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 [offer09l]:https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+[offer10-1l]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
+[offer10-2l]:https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
+[offer13l]:https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
+[offer14-1l]:https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
+[offer16l]:https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+[offer21l]:https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
 [offer22l]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+[offer24l]:https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
 [offer25l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
 [offer31l]:https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+[offer32-1l]:https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+[offer32-3l]:https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+[offer33l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+[offer34l]:https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/
+[offer36l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
+[offer46l]:https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+[offer47l]:https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
+[offer48l]:https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
+[offer51l]:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+[offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+[offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
+[offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
+[offer56-2l]:
+[offer57-2l]:https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
 [offer58-2l]:https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 [offer59-1l]:https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
 [offer59-2l]:https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
 [offer61l]:https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 [offer67l]:https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
+[offer68-1l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
 
+[lcci01.02]:https://leetcode-cn.com/problems/check-permutation-lcci/
 [lcci01.05]:https://leetcode-cn.com/problems/one-away-lcci/
 [lcci01.08]:https://leetcode-cn.com/problems/zero-matrix-lcci/
+[lcci02.01]:https://leetcode-cn.com/problems/remove-duplicate-node-lcci/
 [lcci03.01]:https://leetcode-cn.com/problems/three-in-one-lcci/
 [lcci03.05]:https://leetcode-cn.com/problems/sort-of-stacks-lcci/
 [lcci03.06]:https://leetcode-cn.com/problems/animal-shelter-lcci/
+[lcci04.01]:https://leetcode-cn.com/problems/route-between-nodes-lcci/
+[lcci04.03]:https://leetcode-cn.com/problems/list-of-depth-lcci/
+[lcci04.06]:https://leetcode-cn.com/problems/successor-lcci/
+[lcci05.01]:https://leetcode-cn.com/problems/insert-into-bits-lcci/
+[lcci05.03]:https://leetcode-cn.com/problems/reverse-bits-lcci/
+[lcci05.06]:https://leetcode-cn.com/problems/convert-integer-lcci/
+[lcci05.07]:https://leetcode-cn.com/problems/exchange-lcci/
+[lcci08.01]:https://leetcode-cn.com/problems/three-steps-problem-lcci/
+[lcci08.05]:https://leetcode-cn.com/problems/recursive-mulitply-lcci/
+[lcci08.10]:https://leetcode-cn.com/problems/color-fill-lcci/
+[lcci08.12]:https://leetcode-cn.com/problems/eight-queens-lcci/
+[lcci10.01]:https://leetcode-cn.com/problems/sorted-merge-lcci/
+[lcci10.05]:https://leetcode-cn.com/problems/sparse-array-search-lcci/
+[lcci16.01]:https://leetcode-cn.com/problems/swap-numbers-lcci/
+[lcci16.02]:https://leetcode-cn.com/problems/words-frequency-lcci/
 [lcci16.04]:https://leetcode-cn.com/problems/tic-tac-toe-lcci/
+[lcci16.06]:https://leetcode-cn.com/problems/smallest-difference-lcci/
 [lcci16.11]:https://leetcode-cn.com/problems/diving-board-lcci/
 [lcci16.15]:https://leetcode-cn.com/problems/master-mind-lcci/
 [lcci16.16]:https://leetcode-cn.com/problems/sub-sort-lcci/
+[lcci16.19]:https://leetcode-cn.com/problems/pond-sizes-lcci/
+[lcci16.21]:https://leetcode-cn.com/problems/sum-swap-lcci/
+[lcci16.24]:https://leetcode-cn.com/problems/pairs-with-sum-lcci/
 [lcci16.26]:https://leetcode-cn.com/problems/calculator-lcci/
+[lcci17.04]:https://leetcode-cn.com/problems/missing-number-lcci/
+[lcci17.07]:https://leetcode-cn.com/problems/baby-names-lcci/
+[lcci17.11]:https://leetcode-cn.com/problems/find-closest-lcci/
+[lcci17.12]:https://leetcode-cn.com/problems/binode-lcci/
+[lcci17.14]:https://leetcode-cn.com/problems/smallest-k-lcci/
+[lcci17.16]:https://leetcode-cn.com/problems/the-masseuse-lcci/
+[lcci17.17]:https://leetcode-cn.com/problems/multi-search-lcci/
+[lcci17.22]:https://leetcode-cn.com/problems/word-transformer-lcci/
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -293,15 +546,18 @@
 [7l]:https://leetcode-cn.com/problems/reverse-integer/
 [8l]:https://leetcode-cn.com/problems/string-to-integer-atoi/
 [9l]:https://leetcode-cn.com/problems/palindrome-number/
+[10l]:https://leetcode-cn.com/problems/regular-expression-matching/
 [11l]:https://leetcode-cn.com/problems/container-with-most-water/
 [12l]:https://leetcode-cn.com/problems/integer-to-roman/
 [13l]:https://leetcode-cn.com/problems/roman-to-integer/
 [14l]:https://leetcode-cn.com/problems/longest-common-prefix/
+[15l]:https://leetcode-cn.com/problems/3sum/
 [17l]:https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
 [19l]:https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
 [20l]:https://leetcode-cn.com/problems/valid-parentheses/
 [21l]:https://leetcode-cn.com/problems/merge-two-sorted-lists/
 [22l]:https://leetcode-cn.com/problems/generate-parentheses/
+[23l]:https://leetcode-cn.com/problems/merge-k-sorted-lists/
 [24l]:https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 [25l]:https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 [26l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
@@ -312,12 +568,15 @@
 [36l]:https://leetcode-cn.com/problems/valid-sudoku/
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
 [38l]:https://leetcode-cn.com/problems/count-and-say/
+[39l]:https://leetcode-cn.com/problems/combination-sum/
+[40l]:https://leetcode-cn.com/problems/combination-sum-ii/
 [42l]:https://leetcode-cn.com/problems/trapping-rain-water/
 [46l]:https://leetcode-cn.com/problems/permutations/
 [47l]:https://leetcode-cn.com/problems/permutations-ii/
 [48l]:https://leetcode-cn.com/problems/rotate-image/
 [49l]:https://leetcode-cn.com/problems/group-anagrams/
 [50l]:https://leetcode-cn.com/problems/powx-n/
+[51l]:https://leetcode-cn.com/problems/n-queens/
 [52l]:https://leetcode-cn.com/problems/n-queens-ii/
 [53l]:https://leetcode-cn.com/problems/maximum-subarray/
 [54l]:https://leetcode-cn.com/problems/spiral-matrix/
@@ -334,11 +593,14 @@
 [69l]:https://leetcode-cn.com/problems/sqrtx/
 [70l]:https://leetcode-cn.com/problems/climbing-stairs/
 [71l]:https://leetcode-cn.com/problems/simplify-path/
+[72l]:https://leetcode-cn.com/problems/edit-distance/
 [73l]:https://leetcode-cn.com/problems/set-matrix-zeroes/
 [74l]:https://leetcode-cn.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode-cn.com/problems/sort-colors/
+[76l]:https://leetcode-cn.com/problems/minimum-window-substring/
 [77l]:https://leetcode-cn.com/problems/combinations/
 [78l]:https://leetcode-cn.com/problems/subsets/
+[79l]:https://leetcode-cn.com/problems/word-search/
 [80l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
 [82l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
@@ -376,12 +638,17 @@
 [120l]:https://leetcode-cn.com/problems/triangle/
 [121l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
+[124l]:https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/
 [125l]:https://leetcode-cn.com/problems/valid-palindrome/
+[126l]:https://leetcode-cn.com/problems/word-ladder-ii/
+[127l]:https://leetcode-cn.com/problems/word-ladder/
 [129l]:https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/
+[131l]:https://leetcode-cn.com/problems/palindrome-partitioning/
 [133l]:https://leetcode-cn.com/problems/clone-graph/
 [134l]:https://leetcode-cn.com/problems/gas-station/
 [136l]:https://leetcode-cn.com/problems/single-number/
 [138l]:https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+[139l]:https://leetcode-cn.com/problems/word-break/
 [141l]:https://leetcode-cn.com/problems/linked-list-cycle/
 [142l]:https://leetcode-cn.com/problems/linked-list-cycle-ii/
 [144l]:https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
@@ -389,6 +656,7 @@
 [147l]:https://leetcode-cn.com/problems/insertion-sort-list/
 [150l]:https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/
 [151l]:https://leetcode-cn.com/problems/reverse-words-in-a-string/
+[154l]:https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [155l]:https://leetcode-cn.com/problems/min-stack/
 [160l]:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
 [162l]:https://leetcode-cn.com/problems/find-peak-element/
@@ -414,12 +682,14 @@
 [204l]:https://leetcode-cn.com/problems/count-primes/
 [205l]:https://leetcode-cn.com/problems/isomorphic-strings/
 [206l]:https://leetcode-cn.com/problems/reverse-linked-list/
+[207l]:https://leetcode-cn.com/problems/course-schedule/
 [208l]:https://leetcode-cn.com/problems/implement-trie-prefix-tree/
 [209l]:https://leetcode-cn.com/problems/minimum-size-subarray-sum/
 [211l]:https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/
 [212l]:https://leetcode-cn.com/problems/word-search-ii/
 [213l]:https://leetcode-cn.com/problems/house-robber-ii/
 [215l]:https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
+[216l]:https://leetcode-cn.com/problems/combination-sum-iii/
 [217l]:https://leetcode-cn.com/problems/contains-duplicate/
 [218l]:https://leetcode-cn.com/problems/the-skyline-problem/
 [219l]:https://leetcode-cn.com/problems/contains-duplicate-ii/
@@ -456,11 +726,14 @@
 [289l]:https://leetcode-cn.com/problems/game-of-life/
 [290l]:https://leetcode-cn.com/problems/word-pattern/
 [292l]:https://leetcode-cn.com/problems/nim-game/
+[295l]:https://leetcode-cn.com/problems/find-median-from-data-stream/
 [297l]:https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode-cn.com/problems/bulls-and-cows/
+[300l]:https://leetcode-cn.com/problems/longest-increasing-subsequence/
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
 [304l]:https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode-cn.com/problems/additive-number/
+[309l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 [313l]:https://leetcode-cn.com/problems/super-ugly-number/
 [318l]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode-cn.com/problems/bulb-switcher/
@@ -503,6 +776,7 @@
 [413l]:https://leetcode-cn.com/problems/arithmetic-slices/
 [414l]:https://leetcode-cn.com/problems/third-maximum-number/
 [415l]:https://leetcode-cn.com/problems/add-strings/
+[416l]:https://leetcode-cn.com/problems/partition-equal-subset-sum/
 [419l]:https://leetcode-cn.com/problems/battleships-in-a-board/
 [421l]:https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
@@ -510,6 +784,7 @@
 [430l]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 [434l]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
 [437l]:https://leetcode-cn.com/problems/path-sum-iii/
+[438l]:https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
 [441l]:https://leetcode-cn.com/problems/arranging-coins/
 [442l]:https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/
 [443l]:https://leetcode-cn.com/problems/string-compression/
@@ -536,6 +811,7 @@
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
 [485l]:https://leetcode-cn.com/problems/max-consecutive-ones/
 [492l]:https://leetcode-cn.com/problems/construct-the-rectangle/
+[494l]:https://leetcode-cn.com/problems/target-sum/
 [495l]:https://leetcode-cn.com/problems/teemo-attacking/
 [496l]:https://leetcode-cn.com/problems/next-greater-element-i/
 [498l]:https://leetcode-cn.com/problems/diagonal-traverse/
@@ -627,6 +903,7 @@
 [706l]:https://leetcode-cn.com/problems/design-hashmap/
 [707l]:https://leetcode-cn.com/problems/design-linked-list/
 [709l]:https://leetcode-cn.com/problems/to-lower-case/
+[714l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [717l]:https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode-cn.com/problems/longest-word-in-dictionary/
 [724l]:https://leetcode-cn.com/problems/find-pivot-index/
@@ -791,6 +1068,7 @@
 [1123l]:https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
+[1143l]:https://leetcode-cn.com/problems/longest-common-subsequence/
 [1146l]:https://leetcode-cn.com/problems/snapshot-array/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/
 [1155l]:https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/
