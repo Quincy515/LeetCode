@@ -432,6 +432,7 @@
 [88]:./0088-merge-sorted-array
 [92]:./0092-reverse-linked-list-ii
 [125]:./0125-valid-palindrome
+[138]:./0138-copy-list-with-random-pointer
 [141]:./0141-linked-list-cycle
 [155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
@@ -454,6 +455,7 @@
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
 [cci16.26]:./cci16.26-calculator-lcci
+[offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
