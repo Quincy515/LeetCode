@@ -39,10 +39,11 @@
 |[138][138l]|[138.复制带随机指针的链表（中等）][138]|![rs]&nbsp;|
 |3）第三天课程内容|||
 |[23][23l]|[23.合并K个升序链表（困难）][23]|![rs]&nbsp;|
+|[142][142l]|[142.环形链表II（中等）][142]|![rs]&nbsp;|
 |[328][328l]|[328.奇偶链表（中等）][328]|![rs]&nbsp;|
 |[445][445l]|[445.两数相加II（中等）][445]|![rs]&nbsp;|
 |[offer06][offer06l]|[offer06.从尾到头打印链表（简单）][offer06]|![rs]&nbsp;|
-||||
+|[offer22][offer22l]|[offer22.链表中倒数第k个节点][offer22]|![rs]&nbsp;|
 ||||
 ||||
 ||||
@@ -447,6 +448,7 @@
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
+[445]:./0445-add-two-numbers-ii
 [739]:./0739-daily-temperatures
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
