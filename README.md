@@ -463,6 +463,8 @@
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
+[offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
+[offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
 [offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/

@@ -20,7 +20,7 @@ impl Solution {
     pub fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
         // 构建一个链表用来存放 l1 和 l2 两个链表相加的结果
         // 其中 dummy 这个节点为虚拟头结点
-        let mut dummy = Box::new(ListNode::new(-1));
+        let mut dummy = ListNode::new(0);
 
         // 设置一个进位，初始化为 0
         // 两个个位数相加，进位只能是 1 或者 0
@@ -45,7 +45,7 @@ impl Solution {
             }
         }
 
-        while v1.len() > 0 || v2.len() > 0 {
+        while v1.len() > 0 || v2.len() > 0 || carry_bit > 0 {
             let mut sum = carry_bit;
             if !v1.is_empty() {
                 sum += v1.pop().unwrap();
@@ -72,6 +72,10 @@ mod tests {
         assert_eq!(
             Solution::add_two_numbers(linked![2, 4, 3], linked![5, 6, 4]),
             linked![8, 0, 7]
+        );
+        assert_eq!(
+            Solution::add_two_numbers(linked![5], linked![5]),
+            linked![1, 0]
         );
     }
 }
