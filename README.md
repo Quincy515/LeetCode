@@ -1,5 +1,21 @@
 # LeetCode
 
+## Rust 算法相关仓库
+
+-  Rust 算法和数据结构 https://github.com/QMHTMY/RustBook
+
+- https://github.com/TheAlgorithms/Rust
+
+- https://github.com/weihanglo/rust-algorithm-club
+
+- https://github.com/EbTech/rust-algorithms
+
+- https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust
+
+- [Rust Gym Leetcode Rust Solutions](https://rustgym.com/leetcode)
+
+  
+
 <details>
   <summary><mark>AlgoMooc算法训练营</mark></summary>
 
