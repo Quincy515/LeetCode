@@ -458,8 +458,9 @@
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
+[374]:./0374-guess-number-higher-or-lower
 [445]:./0445-add-two-numbers-ii
-[704]: ./0704-binary-search
+[704]:./0704-binary-search
 [739]:./0739-daily-temperatures
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
