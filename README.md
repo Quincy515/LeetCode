@@ -14,11 +14,12 @@
 
 - [Rust Gym Leetcode Rust Solutions](https://rustgym.com/leetcode)
 
+- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏https://github.com/EFanZh/LeetCode
+
   
 
 <details>
   <summary><mark>AlgoMooc算法训练营</mark></summary>
-
 [AlgoMooc 算法训练营](https://t.1yb.co/wauG)
 
 |#|Title|Languages|
@@ -465,6 +466,7 @@
 [283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
 [445]:./0445-add-two-numbers-ii
+[704]: ./0704-binary-search
 [739]:./0739-daily-temperatures
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
