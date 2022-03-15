@@ -2,9 +2,9 @@
 
 ## Rust 算法相关仓库
 
--  Rust 算法和数据结构 https://github.com/QMHTMY/RustBook
+- Rust 算法和数据结构 https://github.com/QMHTMY/RustBook
 
-- https://github.com/TheAlgorithms/Rust
+- The Algorithms 的 Rust 版本，使用 Rust 实现所有算法 https://github.com/TheAlgorithms/Rust
 
 - https://github.com/weihanglo/rust-algorithm-club
 
@@ -12,7 +12,7 @@
 
 - https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust
 
-- [Rust Gym Leetcode Rust Solutions](https://rustgym.com/leetcode)
+- Rust Gym Leetcode Rust Solutions https://rustgym.com/leetcode
 
 - 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏https://github.com/EFanZh/LeetCode
 
@@ -331,13 +331,6 @@
 |[cci16.01][lcci16.01]|[面试题 16.01. 交换数字][cci16.01]|![rs]&nbsp;&nbsp;|
 |[231][231l]|[231. 2 的幂][231]|![rs]&nbsp;&nbsp;|
 
-</details>
-
-<details>
-  <summary><mark>王争的算法课堂第三期</mark></summary>
-
-|#|Title|Languages|
-| --- | --- | :---: |
 </details>
 
 <details>
