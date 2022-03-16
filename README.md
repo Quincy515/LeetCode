@@ -14,11 +14,12 @@
 
 - Rust Gym Leetcode Rust Solutions https://rustgym.com/leetcode
 
-- 超过 365 天没间断过的用 Rust 刷 LeetCode https://github.com/EFanZh/LeetCode
+- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏https://github.com/EFanZh/LeetCode
+
+  
 
 <details>
   <summary><mark>AlgoMooc算法训练营</mark></summary>
-
 [AlgoMooc 算法训练营](https://t.1yb.co/wauG)
 
 |#|Title|Languages|
@@ -417,6 +418,93 @@
 [py]:./ico/python.ico
 [js]:./ico/javascript.png
 
+[ts]:./ico/typescript.png
+[c]:./ico/c++.png
+[java]:./ico/java.png
+
+[1]:./0001-Two-Sum
+[2]:./0002-add-two-numbers
+[9]:./0009-palindrome-number
+[11]:./0011-container-with-most-water
+[19]:./0019-remove-nth-node-from-end-of-list
+[20]:./0020-valid-parentheses
+[21]:./0021-merge-two-sorted-lists
+[25]:./0025-reverse-nodes-in-k-group
+[26]:./0026-remove-duplicates-from-sorted-array
+[48]:./0048-rotate-image
+[49]:./0049-group-anagrams
+[54]:./0054-spiral-matrix
+[55]:./0055-jump-game
+[58]:./0058-length-of-last-word
+[66]:./0066-plus-one
+[75]:./0075-sort-colors
+[83]:./0083-remove-duplicates-from-sorted-list
+[86]:./0086-partition-list
+[88]:./0088-merge-sorted-array
+[92]:./0092-reverse-linked-list-ii
+[125]:./0125-valid-palindrome
+[138]:./0138-copy-list-with-random-pointer
+[141]:./0141-linked-list-cycle
+[155]:./0155-min-stack
+[160]:./0160-intersection-of-two-linked-lists
+[164]:./0164-maximum-gap
+[203]:./0203-remove-linked-list-elements
+[206]:./0206-reverse-linked-list
+[232]:./0232-implement-queue-using-stacks
+[234]:./0234-palindrome-linked-list
+[239]:./0239-sliding-window-maximum
+[240]:./0240-search-a-2d-matrix-ii
+[242]:./0242-valid-anagram
+[255]:./0255-implement-stack-using-queues
+[283]:./0283-move-zeroes
+[328]:./0328-odd-even-linked-list
+[374]:./0374-guess-number-higher-or-lower
+[445]:./0445-add-two-numbers-ii
+[704]:./0704-binary-search
+[739]:./0739-daily-temperatures
+[876]:./0876-middle-of-the-linked-list
+[977]:./0977-squares-of-a-sorted-array
+[1047]:./1047-remove-all-adjacent-duplicates-in-string
+[cci03.05]:./cci03.05-sort-of-stacks-lcci
+[cci16.04]:./cci16.04-tic-tac-toe-lcci
+[cci16.16]:./cci16.16-sub-sort-lcci
+[cci16.26]:./cci16.26-calculator-lcci
+[offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
+[offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
+[offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
+[offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
+[offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
+[offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
+[offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
+[offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
+[offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
+
+[offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
+[offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+[offer06l]:https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+[offer09l]:https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+[offer10-1l]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
+[offer10-2l]:https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
+[offer13l]:https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
+[offer14-1l]:https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
+[offer16l]:https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+[offer21l]:https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
+[offer22l]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+[offer24l]:https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+[offer25l]:https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+[offer31l]:https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+[offer32-1l]:https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+[offer32-3l]:https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+[offer33l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+[offer34l]:https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/
+[offer36l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
+[offer46l]:https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+[offer47l]:https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
+[offer48l]:https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
+[offer51l]:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+[offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+[offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
+[offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
 [offer56-2l]:
 [offer57-2l]:https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
