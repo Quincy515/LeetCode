@@ -442,6 +442,7 @@ https://github.com/wangzheng0822/algocourse
 [58]:./0058-length-of-last-word
 [66]:./0066-plus-one
 [75]:./0075-sort-colors
+[81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
 [86]:./0086-partition-list
 [88]:./0088-merge-sorted-array
@@ -626,6 +627,7 @@ https://github.com/wangzheng0822/algocourse
 [78l]:https://leetcode-cn.com/problems/subsets/
 [79l]:https://leetcode-cn.com/problems/word-search/
 [80l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
+[81l]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
