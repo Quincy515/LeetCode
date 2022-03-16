@@ -451,6 +451,7 @@ https://github.com/wangzheng0822/algocourse
 [138]:./0138-copy-list-with-random-pointer
 [141]:./0141-linked-list-cycle
 [153]:./0153-find-minimum-in-rotated-sorted-array
+[154]:./0154-find-minimum-in-rotated-sorted-array-ii
 [155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
 [164]:./0164-maximum-gap
