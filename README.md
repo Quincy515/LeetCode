@@ -432,6 +432,7 @@ https://github.com/wangzheng0822/algocourse
 [21]:./0021-merge-two-sorted-lists
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
+[33]:./0033-search-in-rotated-sorted-array
 [34]:./0034-find-first-and-last-position-of-element-in-sorted-array
 [35]:./0035-search-insert-position
 [48]:./0048-rotate-image
@@ -586,6 +587,7 @@ https://github.com/wangzheng0822/algocourse
 [27l]:https://leetcode-cn.com/problems/remove-element/
 [28l]:https://leetcode-cn.com/problems/implement-strstr/
 [33l]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+[34l]:https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [35l]:https://leetcode-cn.com/problems/search-insert-position/
 [36l]:https://leetcode-cn.com/problems/valid-sudoku/
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
