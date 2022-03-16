@@ -470,6 +470,7 @@ https://github.com/wangzheng0822/algocourse
 [704]:./0704-binary-search
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
+[852]:./0852-peak-index-in-a-mountain-array
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
