@@ -432,6 +432,7 @@ https://github.com/wangzheng0822/algocourse
 [21]:./0021-merge-two-sorted-lists
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
+[35]:./0035-search-insert-position
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
 [54]:./0054-spiral-matrix
