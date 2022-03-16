@@ -450,6 +450,7 @@ https://github.com/wangzheng0822/algocourse
 [125]:./0125-valid-palindrome
 [138]:./0138-copy-list-with-random-pointer
 [141]:./0141-linked-list-cycle
+[153]:./0153-find-minimum-in-rotated-sorted-array
 [155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
 [164]:./0164-maximum-gap
@@ -682,6 +683,7 @@ https://github.com/wangzheng0822/algocourse
 [147l]:https://leetcode-cn.com/problems/insertion-sort-list/
 [150l]:https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/
 [151l]:https://leetcode-cn.com/problems/reverse-words-in-a-string/
+[153l]:https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
 [154l]:https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [155l]:https://leetcode-cn.com/problems/min-stack/
 [160l]:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
