@@ -71,6 +71,7 @@
 
 <details>
   <summary><mark>王争的算法课堂第一期</mark></summary>
+https://github.com/wangzheng0822/algocourse
 
 |#|Title|Languages|
 | --- | --- | :---: |
@@ -462,6 +463,7 @@
 [445]:./0445-add-two-numbers-ii
 [704]:./0704-binary-search
 [739]:./0739-daily-temperatures
+[744]:./0744-find-smallest-letter-greater-than-target
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
