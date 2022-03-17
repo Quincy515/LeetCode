@@ -474,6 +474,7 @@ https://github.com/wangzheng0822/algocourse
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [852]:./0852-peak-index-in-a-mountain-array
+[875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
@@ -998,6 +999,7 @@ https://github.com/wangzheng0822/algocourse
 [870l]:https://leetcode-cn.com/problems/advantage-shuffle/
 [872l]:https://leetcode-cn.com/problems/leaf-similar-trees/
 [874l]:https://leetcode-cn.com/problems/walking-robot-simulation/
+[875l]:https://leetcode-cn.com/problems/koko-eating-bananas/
 [876l]:https://leetcode-cn.com/problems/middle-of-the-linked-list/
 [877l]:https://leetcode-cn.com/problems/stone-game/
 [881l]:https://leetcode-cn.com/problems/boats-to-save-people/
