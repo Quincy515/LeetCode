@@ -454,6 +454,7 @@ https://github.com/wangzheng0822/algocourse
 [154]:./0154-find-minimum-in-rotated-sorted-array-ii
 [155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
+[162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
