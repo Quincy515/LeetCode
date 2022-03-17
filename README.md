@@ -442,6 +442,7 @@ https://github.com/wangzheng0822/algocourse
 [58]:./0058-length-of-last-word
 [66]:./0066-plus-one
 [69]:./0069-sqrtx
+[74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
