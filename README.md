@@ -441,6 +441,7 @@ https://github.com/wangzheng0822/algocourse
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
 [66]:./0066-plus-one
+[69]:./0069-sqrtx
 [75]:./0075-sort-colors
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
@@ -466,6 +467,7 @@ https://github.com/wangzheng0822/algocourse
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
+[367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [445]:./0445-add-two-numbers-ii
 [704]:./0704-binary-search
