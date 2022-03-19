@@ -470,6 +470,7 @@ https://github.com/wangzheng0822/algocourse
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
 [328]:./0328-odd-even-linked-list
+[349]:./0349-intersection-of-two-arrays
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [445]:./0445-add-two-numbers-ii
