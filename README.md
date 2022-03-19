@@ -476,6 +476,7 @@ https://github.com/wangzheng0822/algocourse
 [445]:./0445-add-two-numbers-ii
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
+[706]:./0706-design-hashmap
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [852]:./0852-peak-index-in-a-mountain-array
