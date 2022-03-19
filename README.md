@@ -483,6 +483,7 @@ https://github.com/wangzheng0822/algocourse
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
+[1122]:./1122-relative-sort-array
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
