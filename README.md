@@ -451,6 +451,7 @@ https://github.com/wangzheng0822/algocourse
 [88]:./0088-merge-sorted-array
 [92]:./0092-reverse-linked-list-ii
 [125]:./0125-valid-palindrome
+[136]:./0136-single-numbe
 [138]:./0138-copy-list-with-random-pointer
 [141]:./0141-linked-list-cycle
 [153]:./0153-find-minimum-in-rotated-sorted-array
