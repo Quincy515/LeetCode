@@ -445,6 +445,7 @@ https://github.com/wangzheng0822/algocourse
 [69]:./0069-sqrtx
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
+[79]:./0079-word-search
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
 [86]:./0086-partition-list
@@ -460,8 +461,10 @@ https://github.com/wangzheng0822/algocourse
 [160]:./0160-intersection-of-two-linked-lists
 [162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
+[200]:./0200-number-of-islands
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
+[207]:./0207-course-schedule
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
 [239]:./0239-sliding-window-maximum
