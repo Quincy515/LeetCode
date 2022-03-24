@@ -436,6 +436,7 @@ https://github.com/wangzheng0822/algocourse
 [33]:./0033-search-in-rotated-sorted-array
 [34]:./0034-find-first-and-last-position-of-element-in-sorted-array
 [35]:./0035-search-insert-position
+[37]:./0037-sudoku-solver
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
 [51]:./0051-n-queens
