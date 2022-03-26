@@ -234,9 +234,9 @@ https://github.com/wangzheng0822/algocourse
 |**题型**|**回溯**|**第十讲: 回溯**|
 |[cci08.12][lcci08.12]|[面试题 08.12. 八皇后（困难）][cci08.12]|![rs]&nbsp;&nbsp;|
 |[51][51l]|[51. N 皇后（困难）][51]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
-|[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![c++]&nbsp;&nbsp;|
-|[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![c++]&nbsp;&nbsp;|
-|[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]||![rs]&nbsp;&nbsp;
+|[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;|
 |[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;|
 |[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;|
@@ -418,9 +418,8 @@ https://github.com/wangzheng0822/algocourse
 [go]:./ico/go.ico
 [py]:./ico/python.ico
 [js]:./ico/javascript.png
-
 [ts]:./ico/typescript.png
-[c]:./ico/c++.png
+[cpp]:./ico/cpp.png
 [java]:./ico/java.png
 
 [1]:./0001-Two-Sum
@@ -448,6 +447,7 @@ https://github.com/wangzheng0822/algocourse
 [69]:./0069-sqrtx
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
+[77]:./0077-combinations
 [79]:./0079-word-search
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
