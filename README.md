@@ -237,8 +237,8 @@ https://github.com/wangzheng0822/algocourse
 |[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
-|[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;|
-|[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;|
+|[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;|
 |[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;|
 |[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;|
@@ -448,11 +448,13 @@ https://github.com/wangzheng0822/algocourse
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
 [77]:./0077-combinations
+[78]:./0078-subsets
 [79]:./0079-word-search
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
 [86]:./0086-partition-list
 [88]:./0088-merge-sorted-array
+[90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
 [125]:./0125-valid-palindrome
 [136]:./0136-single-numbe
