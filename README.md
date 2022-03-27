@@ -438,6 +438,7 @@ https://github.com/wangzheng0822/algocourse
 [35]:./0035-search-insert-position
 [37]:./0037-sudoku-solver
 [46]:./0046-permutations
+[47]:./0047-permutations-ii
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
 [51]:./0051-n-queens
