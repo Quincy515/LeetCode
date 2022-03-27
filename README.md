@@ -437,6 +437,7 @@ https://github.com/wangzheng0822/algocourse
 [34]:./0034-find-first-and-last-position-of-element-in-sorted-array
 [35]:./0035-search-insert-position
 [37]:./0037-sudoku-solver
+[39]:./0039-combination-sum
 [46]:./0046-permutations
 [47]:./0047-permutations-ii
 [48]:./0048-rotate-image
