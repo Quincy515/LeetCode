@@ -239,14 +239,14 @@ https://github.com/wangzheng0822/algocourse
 |[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
-|[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;|
-|[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;|
-|[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;|
-|[40][40l]|[40. 组合总和 II（中等）选出某几个数相加为给定和，有重复数据，只能使用一次，不能有重复答案][40]|![rs]&nbsp;&nbsp;|
-|[216][216l]|[216. 组合总和 III（中等） 选出k个数相加为给定和，没有重复数据，只能使用一次][216]||
-|[131][131l]|[131. 分割回文串（中等）][131]|![rs]&nbsp;&nbsp;|
-|[93][93l]|[93. 复原 IP 地址（中等）][93]|![rs]&nbsp;&nbsp;|
-|[22][22l]|[22. 括号生成（中等） ][22]|![rs]&nbsp;&nbsp;|
+|[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[40][40l]|[40. 组合总和 II（中等）选出某几个数相加为给定和，有重复数据，只能使用一次，不能有重复答案][40]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[216][216l]|[216. 组合总和 III（中等） 选出k个数相加为给定和，没有重复数据，只能使用一次][216]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[131][131l]|[131. 分割回文串（中等）][131]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[93][93l]|[93. 复原 IP 地址（中等）][93]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[22][22l]|[22. 括号生成（中等） ][22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**DFS**|**第十一讲: DFS**|
 |[offer13][offer13l]|[剑指 Offer 13. 机器人的运动范围（中等）][offer13]|![rs]&nbsp;&nbsp;|
 |[cci08.10][lcci08.10]|[面试题 08.10. 颜色填充（简单）][cci08.10]|![rs]&nbsp;&nbsp;|
@@ -437,6 +437,7 @@ https://github.com/wangzheng0822/algocourse
 [34]:./0034-find-first-and-last-position-of-element-in-sorted-array
 [35]:./0035-search-insert-position
 [37]:./0037-sudoku-solver
+[46]:./0046-permutations
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
 [51]:./0051-n-queens
