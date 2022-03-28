@@ -74,7 +74,7 @@
 https://github.com/wangzheng0822/algocourse
 
 |#|Title|Languages|
-| --- | --- | :---: |
+| --- | -- | :---: |
 |**题型**|**纯编程题**|**第一讲：纯编程题**|
 |[1][1l]|[1.两数之和（简单）][1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[1108][1108l]|[1108. IP 地址无效化（简单）][]|![rs]&nbsp;&nbsp;|
@@ -279,20 +279,24 @@ https://github.com/wangzheng0822/algocourse
 |[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
-|[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;|
+|**题型**|**路径问题**||
+|[62][62l]|[62. 不同路径][62]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[63][63l]|[63. 不同路径II][63]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[64][64l]|[64. 最小路径和][64]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer47][offer47l]|[剑指 Offer 47. 礼物的最大价值][offer47]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[120][120l]|[120.三角形最小路径和（中等）][120]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**打家劫舍**|**第十五讲: 打家劫舍**|
-|[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;|
-|[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;|
+|[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[213][213l]|[213. 打家劫舍II][213]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[cci17.16][lcci17.16]|[面试题 17.16. 按摩师][cci17.16]|![rs]&nbsp;&nbsp;|
 |**题型**|**买卖股票**|**第十六讲: 买卖股票**|
 |[121][121l]|[121. 买卖股票的最佳时机][121]|![rs]&nbsp;&nbsp;|
 |[122][122l]|[122. 买卖股票的最佳时机 II][122]|![rs]&nbsp;&nbsp;|
-|[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;|
-|[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;|
+|[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;|
-|[62][62l]|[62. 不同路径][62]|![rs]&nbsp;&nbsp;|
-|[64][64l]|[64. 最小路径和][64]|![rs]&nbsp;&nbsp;|
-|[offer47][offer47l]|[剑指 Offer 47. 礼物的最大价值][offer47]|![rs]&nbsp;&nbsp;|
 |[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;|
 |[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;|
 |[10][10l]|[10. 正则表达式匹配][10]|![rs]&nbsp;&nbsp;|
@@ -448,6 +452,7 @@ https://github.com/wangzheng0822/algocourse
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
+[64]:./0064-minimum-path-sum
 [66]:./0066-plus-one
 [69]:./0069-sqrtx
 [74]:./0074-search-a-2d-matrix
