@@ -275,11 +275,11 @@ https://github.com/wangzheng0822/algocourse
 |[cci17.17][lcci17.17]|[面试题 17.17. 多次搜索（中等） 标准AC自动机，不过写AC自动机太复杂，Trie树搞定][cci17.17]|![rs]&nbsp;&nbsp;|
 |[212][212l]|[212. 单词搜索 II（困难）][212]|![rs]&nbsp;&nbsp;|
 |**题型**|**背包**|**第十四讲: 背包**|
-|[416][416l]|[416. 分割等和子集][416]|![rs]&nbsp;&nbsp;|
-|[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;|
-|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;|
-|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;|
-|[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;|
+|[416][416l]|[416. 分割等和子集][416]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**打家劫舍**|**第十五讲: 打家劫舍**|
 |[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;|
 |[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;|
@@ -489,6 +489,7 @@ https://github.com/wangzheng0822/algocourse
 [349]:./0349-intersection-of-two-arrays
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
+[416]:./0416-partition-equal-subset-sum
 [445]:./0445-add-two-numbers-ii
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
