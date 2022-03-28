@@ -461,6 +461,7 @@ https://github.com/wangzheng0822/algocourse
 [90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
 [125]:./0125-valid-palindrome
+[131]:./0131-palindrome-partitioning
 [136]:./0136-single-numbe
 [138]:./0138-copy-list-with-random-pointer
 [141]:./0141-linked-list-cycle
