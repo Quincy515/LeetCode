@@ -431,6 +431,7 @@ https://github.com/wangzheng0822/algocourse
 [19]:./0019-remove-nth-node-from-end-of-list
 [20]:./0020-valid-parentheses
 [21]:./0021-merge-two-sorted-lists
+[22]:./0022-generate-parentheses
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
 [33]:./0033-search-in-rotated-sorted-array
@@ -460,6 +461,7 @@ https://github.com/wangzheng0822/algocourse
 [88]:./0088-merge-sorted-array
 [90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
+[93]:./0093-restore-ip-addresses
 [125]:./0125-valid-palindrome
 [131]:./0131-palindrome-partitioning
 [136]:./0136-single-numbe
