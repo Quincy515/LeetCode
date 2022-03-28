@@ -1,31 +1,31 @@
 package main
 
-import "math"
-
-func coinChange(coins []int, amount int) int {
-	n := len(coins)
-	dp := make([][]int, n)
+func canPartition(nums []int) bool {
+	n := len(nums)
+	sum := 0
 	for i := 0; i < n; i++ {
-		dp[i] = make([]int, amount+1)
-		for j := 0; j <= amount; j++ {
-			dp[i][j] = math.MaxInt32
-		}
+		sum += nums[i]
 	}
-	for c := 0; c <= amount/coins[0]; c++ {
-		dp[0][c*coins[0]] = c
+	if sum%2 == 1 {
+		return false
+	}
+	sum /= 2
+	dp := make([][]bool, n)
+	for i := 0; i < len(dp); i++ {
+		dp[i] = make([]bool, sum+1)
+	}
+	dp[0][0] = true
+	if nums[0] <= sum {
+		dp[0][nums[0]] = true
 	}
 	for i := 1; i < n; i++ {
-		for j := 0; j <= amount; j++ {
-			k := j / coins[i]
-			for c := 0; c <= k; c++ {
-				if dp[i-1][j-c*coins[i]] != math.MinInt32 && dp[i-1][j-c*coins[i]]+c < dp[i][j] {
-					dp[i][j] = dp[i-1][j-c*coins[i]] + c
-				}
+		for j := 0; j <= sum; j++ {
+			if j-nums[i] >= 0 {
+				dp[i][j] = dp[i-1][j] || dp[i-1][j-nums[i]]
+			} else {
+				dp[i][j] = dp[i-1][j]
 			}
 		}
 	}
-	if dp[n-1][amount] == math.MaxInt32 {
-		return -1
-	}
-	return dp[n-1][amount]
+	return dp[n-1][sum]
 }

@@ -493,6 +493,7 @@ https://github.com/wangzheng0822/algocourse
 [416]:./0416-partition-equal-subset-sum
 [445]:./0445-add-two-numbers-ii
 [494]:./0494-target-sum
+[518]:./0518-coin-change-2
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
 [706]:./0706-design-hashmap
