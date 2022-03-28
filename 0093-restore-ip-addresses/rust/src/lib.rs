@@ -11,13 +11,13 @@ impl Solution {
 
     fn backtrack(s: &[char], k: i32, step: i32, path: &mut Vec<i32>, result: &mut Vec<String>) {
         if k == s.len() as i32 && step == 4 {
-            let mut sb: Vec<char> = vec![];
+            let mut sb = String::new();
             for i in 0..3 {
-                sb.push(s[path[i] as usize]);
+                sb.push_str(&path[i].to_string());
                 sb.push('.');
             }
-            sb.push(s[path[3] as usize]);
-            result.push(sb.iter().collect::<String>());
+            sb.push_str(&path[3].to_string());
+            result.push(sb);
             return;
         }
         if step > 4 {
