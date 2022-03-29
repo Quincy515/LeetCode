@@ -481,6 +481,7 @@ https://github.com/wangzheng0822/algocourse
 [160]:./0160-intersection-of-two-linked-lists
 [162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
+[198]:./0198-house-robber
 [200]:./0200-number-of-islands
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
