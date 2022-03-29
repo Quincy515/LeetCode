@@ -508,6 +508,7 @@ https://github.com/wangzheng0822/algocourse
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
 [706]:./0706-design-hashmap
+[714]:./0714-best-time-to-buy-and-sell-stock-with-transaction-fee
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [752]:./0752-open-the-lock
