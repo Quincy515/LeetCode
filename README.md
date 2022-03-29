@@ -452,6 +452,7 @@ https://github.com/wangzheng0822/algocourse
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
+[62]:./0062-unique-paths
 [64]:./0064-minimum-path-sum
 [66]:./0066-plus-one
 [69]:./0069-sqrtx
