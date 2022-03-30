@@ -48,6 +48,26 @@ impl Solution {
         }
         dp[n - 1][amount as usize]
     }
+
+    pub fn coin_change2(coins: Vec<i32>, amount: i32) -> i32 {
+        let k = coins.len();
+        let mut dp = vec![i32::MAX; amount as usize + 1];
+        dp[0] = 0;
+        for i in 1..=amount {
+            for j in 0..k {
+                if i - coins[j] >= 0
+                    && dp[(i - coins[j]) as usize] != i32::MAX
+                    && dp[(i - coins[j]) as usize] + 1 < dp[i as usize]
+                {
+                    dp[i as usize] = dp[(i - coins[j]) as usize] + 1;
+                }
+            }
+        }
+        if dp[amount as usize] == i32::MAX {
+            return -1;
+        }
+        dp[amount as usize]
+    }
 }
 ```
 
@@ -85,6 +105,25 @@ func coinChange(coins []int, amount int) int {
 	return dp[n-1][amount]
 }
 
+func coinChange(coins []int, amount int) int {
+	k := len(coins)
+	dp := make([]int, amount+1)
+	for i := 0; i <= amount; i++ {
+		dp[i] = math.MaxInt32
+	}
+	dp[0] = 0
+	for i := 1; i <= amount; i++ {
+		for j := 0; j < k; j++ {
+			if i-coins[j] >= 0 && dp[i-coins[j]] != math.MaxInt32 && dp[i-coins[j]]+1 < dp[i] {
+				dp[i] = dp[i-coins[j]] + 1
+			}
+		}
+	}
+	if dp[amount] == math.MaxInt32 {
+		return -1
+	}
+	return dp[amount]
+}
 ```
 
 ### JavaScript
@@ -116,6 +155,31 @@ var coinChange = function(coins, amount) {
     }
     return dp[n-1][amount]
 };
+
+
+/**
+ * @param {number[]} coins
+ * @param {number} amount
+ * @return {number}
+ */
+var coinChange = function(coins, amount) {
+    let k = coins.length
+    let dp = Array(amount+1).fill(Number.MAX_SAFE_INTEGER)
+    dp[0] = 0
+    for (let i = 1; i <= amount; ++i) {
+        for (let j = 0; j < k; ++j) {
+            if (i-coins[j] >= 0 &&
+                dp[i-coins[j]] != Number.MAX_SAFE_INTEGER &&
+                dp[i-coins[j]] + 1 < dp[i]) {
+                dp[i] = dp[i-coins[j]] + 1
+            }
+        }
+    }
+    if (dp[amount] == Number.MAX_SAFE_INTEGER) {
+        return -1
+    }
+    return dp[amount]
+};
 ```
 
 ### Python
@@ -137,6 +201,19 @@ class Solution:
         if dp[n-1][amount] == float('inf'):
             return -1
         return dp[n-1][amount]
+
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        k = len(coins)
+        dp = [float("inf")] * (amount+1)
+        dp[0] = 0
+        for i in range(1, amount+1):
+            for j in range(k):
+                if i - coins[j] >=0 and dp[i- coins[j]] != float("inf") and dp[i-coins[j]] + 1 < dp[i]:
+                    dp[i] = dp[i - coins[j]] + 1
+        if dp[amount] == float("inf"):
+            return -1
+        return dp[amount]
 ```
 
 ### C++
@@ -167,6 +244,30 @@ public:
         }
         if (dp[n - 1][amount] == INT_MAX) return -1;
         return dp[n - 1][amount];
+    }
+};
+
+
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        int k = coins.size();
+        vector<int> dp(amount + 1);
+        for (int i = 0; i <= amount; ++i) {
+            dp[i] = INT_MAX;
+        }
+        dp[0] = 0;
+        for (int i = 1; i <= amount; ++i) {
+            for (int j = 0; j < k; ++j) {
+                if (i - coins[j] >= 0 &&
+                    dp[i - coins[j]] != INT_MAX &&
+                    dp[i - coins[j]] + 1 < dp[i]) {
+                    dp[i] = dp[i - coins[j]] + 1;
+                }
+            }
+        }
+        if (dp[amount] == INT_MAX) return -1;
+        return dp[amount];
     }
 };
 ```

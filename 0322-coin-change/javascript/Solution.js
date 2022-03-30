@@ -25,3 +25,27 @@ var coinChange = function(coins, amount) {
     }
     return dp[n-1][amount]
 };
+
+/**
+ * @param {number[]} coins
+ * @param {number} amount
+ * @return {number}
+ */
+var coinChange = function(coins, amount) {
+    let k = coins.length
+    let dp = Array(amount+1).fill(Number.MAX_SAFE_INTEGER)
+    dp[0] = 0
+    for (let i = 1; i <= amount; ++i) {
+        for (let j = 0; j < k; ++j) {
+            if (i-coins[j] >= 0 &&
+                dp[i-coins[j]] != Number.MAX_SAFE_INTEGER &&
+                dp[i-coins[j]] + 1 < dp[i]) {
+                dp[i] = dp[i-coins[j]] + 1
+            }
+        }
+    }
+    if (dp[amount] == Number.MAX_SAFE_INTEGER) {
+        return -1
+    }
+    return dp[amount]
+};
