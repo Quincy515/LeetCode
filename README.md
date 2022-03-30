@@ -296,14 +296,20 @@ https://github.com/wangzheng0822/algocourse
 |[122][122l]|[122. 买卖股票的最佳时机 II][122]|![rs]&nbsp;&nbsp;|
 |[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
-|[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;|
-|[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;|
-|[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;|
+|**题型**|**爬楼梯问题**|****|
+|[70][70l]|[70.爬楼梯（简单）][70]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|**题型**|**匹配问题**|****|
+|[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|**题型**|**其他**|****|
 |[10][10l]|[10. 正则表达式匹配][10]|![rs]&nbsp;&nbsp;|
-|[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;|
-|[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;|
-|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;|
-|[437][437l]|[437. 路径总和 III][437]|![rs]&nbsp;&nbsp;|
+|[437][437l]|[437. 路径总和 III][437]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**双指针**|**第十七讲: 双指针**|
 |[344][344l]|[344. 反转字符串][344]|![rs]&nbsp;&nbsp;|
 |[cci16.24][lcci16.24]|[面试题 16.24. 数对和（例题1）][cci16.24]|![rs]&nbsp;&nbsp;|
@@ -457,6 +463,7 @@ https://github.com/wangzheng0822/algocourse
 [64]:./0064-minimum-path-sum
 [66]:./0066-plus-one
 [69]:./0069-sqrtx
+[70]:./0070-climbing-stairs
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
 [77]:./0077-combinations
