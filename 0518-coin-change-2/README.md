@@ -54,6 +54,19 @@ impl Solution {
 
         dp[n - 1][amount as usize]
     }
+
+    pub fn change2(amount: i32, coins: Vec<i32>) -> i32 {
+        let mut dp = vec![0; amount as usize + 1];
+        dp[0] = 1;
+        for j in 0..coins.len() {
+            for i in 0..=amount as usize {
+                if i >= coins[j] as usize {
+                    dp[i] += dp[i - coins[j] as usize];
+                }
+            }
+        }
+        dp[amount as usize]
+    }
 }
 ```
 
@@ -105,6 +118,24 @@ var change = function(amount, coins) {
         }
     }
     return dp[n-1][amount]
+};
+
+/**
+ * @param {number} amount
+ * @param {number[]} coins
+ * @return {number}
+ */
+var change = function(amount, coins) {
+    let dp = new Array(amount+1).fill(0)
+    dp[0] = 1
+    for (let j = 0; j < coins.length; ++j) {
+        for (let i = 1; i <= amount; ++i) {
+            if (i-coins[j] >= 0) {
+                dp[i] += dp[i-coins[j]]
+            }
+        }
+    }
+    return dp[amount]
 };
 ```
 

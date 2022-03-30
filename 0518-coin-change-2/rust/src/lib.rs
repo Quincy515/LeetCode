@@ -18,8 +18,20 @@ impl Solution {
 
         dp[n - 1][amount as usize]
     }
-}
 
+    pub fn change2(amount: i32, coins: Vec<i32>) -> i32 {
+        let mut dp = vec![0; amount as usize + 1];
+        dp[0] = 1;
+        for j in 0..coins.len() {
+            for i in 0..=amount as usize {
+                if i >= coins[j] as usize {
+                    dp[i] += dp[i - coins[j] as usize];
+                }
+            }
+        }
+        dp[amount as usize]
+    }
+}
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -27,7 +39,7 @@ mod tests {
     #[test]
     fn it_works() {
         assert_eq!(Solution::change(5, vec![1, 2, 5]), 4);
-        assert_eq!(Solution::change(3, vec![2]), 0);
-        assert_eq!(Solution::change(10, vec![10]), 1);
+        assert_eq!(Solution::change2(3, vec![2]), 0);
+        assert_eq!(Solution::change2(10, vec![10]), 1);
     }
 }
