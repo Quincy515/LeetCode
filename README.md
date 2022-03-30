@@ -302,7 +302,7 @@ https://github.com/wangzheng0822/algocourse
 |[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
-|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
 |**题型**|**匹配问题**|****|
 |[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
@@ -481,6 +481,7 @@ https://github.com/wangzheng0822/algocourse
 [131]:./0131-palindrome-partitioning
 [136]:./0136-single-numbe
 [138]:./0138-copy-list-with-random-pointer
+[139]:./0139-word-break
 [141]:./0141-linked-list-cycle
 [153]:./0153-find-minimum-in-rotated-sorted-array
 [154]:./0154-find-minimum-in-rotated-sorted-array-ii
