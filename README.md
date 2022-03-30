@@ -513,6 +513,7 @@ https://github.com/wangzheng0822/algocourse
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [416]:./0416-partition-equal-subset-sum
+[437]:./0437-path-sum-iii
 [445]:./0445-add-two-numbers-ii
 [494]:./0494-target-sum
 [518]:./0518-coin-change-2
