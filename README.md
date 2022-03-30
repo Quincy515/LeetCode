@@ -504,6 +504,7 @@ https://github.com/wangzheng0822/algocourse
 [242]:./0242-valid-anagram
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
+[300]:./0300-longest-increasing-subsequence
 [309]:./0309-best-time-to-buy-and-sell-stock-with-cooldown
 [322]:./0322-coin-change
 [328]:./0328-odd-even-linked-list
