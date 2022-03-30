@@ -533,6 +533,7 @@ https://github.com/wangzheng0822/algocourse
 [cci16.26]:./cci16.26-calculator-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
+[offer14-1]:./offer14-1-jian-sheng-zi-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
