@@ -464,6 +464,7 @@ https://github.com/wangzheng0822/algocourse
 [66]:./0066-plus-one
 [69]:./0069-sqrtx
 [70]:./0070-climbing-stairs
+[72]:./0072-edit-distance
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
 [77]:./0077-combinations
