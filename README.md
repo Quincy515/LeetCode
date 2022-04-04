@@ -535,12 +535,14 @@ https://github.com/wangzheng0822/algocourse
 [1306]:./1306-jump-game-iii
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[cci16.06]:./cci16.06-smallest-difference-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
 [cci16.24]:./cci16.24-pairs-with-sum-lcci
 [cci16.26]:./cci16.26-calculator-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
 [offer14-1]:./offer14-1-jian-sheng-zi-lcof
+[offer21]:./offer21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
