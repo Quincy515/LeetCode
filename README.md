@@ -536,6 +536,7 @@ https://github.com/wangzheng0822/algocourse
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
+[cci16.24]:./cci16.24-pairs-with-sum-lcci
 [cci16.26]:./cci16.26-calculator-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
