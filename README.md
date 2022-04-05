@@ -467,6 +467,7 @@ https://github.com/wangzheng0822/algocourse
 [72]:./0072-edit-distance
 [74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
+[76]:./0076-minimum-window-substring
 [77]:./0077-combinations
 [78]:./0078-subsets
 [79]:./0079-word-search
