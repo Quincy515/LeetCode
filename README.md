@@ -479,6 +479,7 @@ https://github.com/wangzheng0822/algocourse
 [92]:./0092-reverse-linked-list-ii
 [93]:./0093-restore-ip-addresses
 [120]:./0120-triangle
+[121]:./0121-best-time-to-buy-and-sell-stock
 [125]:./0125-valid-palindrome
 [131]:./0131-palindrome-partitioning
 [136]:./0136-single-numbe
