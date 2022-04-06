@@ -538,6 +538,7 @@ https://github.com/wangzheng0822/algocourse
 [1143]:./1143-longest-common-subsequence
 [1306]:./1306-jump-game-iii
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
+[cci05.03]:./cci05.03-reverse-bits-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.06]:./cci16.06-smallest-difference-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
