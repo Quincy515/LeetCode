@@ -564,6 +564,7 @@ https://github.com/wangzheng0822/algocourse
 [offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
 [offer56-1]:./offer56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof 
+[offer56-2]:./offer56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof 
 [offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
