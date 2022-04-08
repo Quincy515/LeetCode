@@ -551,6 +551,7 @@ https://github.com/wangzheng0822/algocourse
 [cci16.16]:./cci16.16-sub-sort-lcci
 [cci16.24]:./cci16.24-pairs-with-sum-lcci
 [cci16.26]:./cci16.26-calculator-lcci
+[cci17.04]:./cci17.04-missing-number-lcci 
 [cci17.11]:./cci17.11-find-closest-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
