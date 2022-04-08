@@ -542,6 +542,7 @@ https://github.com/wangzheng0822/algocourse
 [1143]:./1143-longest-common-subsequence
 [1306]:./1306-jump-game-iii
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
+[cci05.01]:./cci05.01-insert-into-bits-lcci 
 [cci05.03]:./cci05.03-reverse-bits-lcci
 [cci05.06]:./cci05.06-convert-integer-lcci 
 [cci05.07]:./cci05.07-exchange-lcci 
