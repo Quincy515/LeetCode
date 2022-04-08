@@ -502,6 +502,7 @@ https://github.com/wangzheng0822/algocourse
 [207]:./0207-course-schedule
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
+[231]:./0231-power-of-two 
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
 [238]:./0238-product-of-array-except-self
@@ -596,7 +597,7 @@ https://github.com/wangzheng0822/algocourse
 [offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
 [offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
 [offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
-[offer56-2l]:
+[offer56-2l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/ 
 [offer57-2l]:https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
 [offer58-2l]:https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
