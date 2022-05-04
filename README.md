@@ -458,7 +458,10 @@ https://github.com/wangzheng0822/algocourse
 |[2144][2144l]|[2144. 打折购买糖果的最小开销][2144]|![rs]&nbsp;&nbsp;|
 |[1400][1400l]|[1400. 构造 K 个回文字符串][1400]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |**第05天：双指针**|||
-|||![rs]&nbsp;&nbsp;|
+|[917][917l]|[917. 仅仅反转字母][917]|![rs]&nbsp;&nbsp;|
+|[167][167l]|[167. 两数之和 II - 输入有序数组][167]|![rs]&nbsp;&nbsp;|
+|[165][165l]|[165. 比较版本号][165]|![rs]&nbsp;&nbsp;|
+|[443][443l]|[443. 压缩字符串][443l]|![rs]&nbsp;&nbsp;|
 |**第06天：滑动窗口**|||
 |||![rs]&nbsp;&nbsp;|
 |**第07天：哈希表**|||
@@ -584,6 +587,8 @@ https://github.com/wangzheng0822/algocourse
 [160]:./0160-intersection-of-two-linked-lists
 [162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
+[165]:./0165-compare-version-numbers
+[167]:./0167-two-sum-ii-input-array-is-sorted
 [191]:./0191-number-of-1-bits
 [198]:./0198-house-robber
 [200]:./0200-number-of-islands
@@ -613,6 +618,7 @@ https://github.com/wangzheng0822/algocourse
 [416]:./0416-partition-equal-subset-sum
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
+[443]:./0443-string-compression
 [445]:./0445-add-two-numbers-ii
 [461]:./0461-hamming-distance
 [494]:./0494-target-sum
@@ -627,6 +633,7 @@ https://github.com/wangzheng0822/algocourse
 [852]:./0852-peak-index-in-a-mountain-array
 [875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
+[917]:./0917-reverse-only-letters
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1108]:./1108-defanging-an-ip-address
