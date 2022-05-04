@@ -424,6 +424,95 @@ https://github.com/wangzheng0822/algocourse
 | --- | --- | :---: |
 </details>
 
+<details>
+    <summary><mark>「五月算法专题训练」</mark></summary>
+▋ 训练时间
+2022.05.01 - 2022.05.31
+▋ 训练程度
+1、每天 1 - 3 道题，固定专栏反复刷。
+2、每天一个新专题，专题刷完再循环。
+    
+▋ 训练内容 
+
+|#|Title|Languages|
+| :---: | :---: | :---: |
+|**第01天：数组**|||
+|[2016](2016l)|[2016. 增量元素之间的最大差值](2016)|![rs]&nbsp;&nbsp;|
+|[2239](2239l)|[2239. 找到最接近 0 的数字](2239)|![rs]&nbsp;&nbsp;|
+|[1475](1475l)|[1475. 商品折扣后的最终价格](1475)|![rs]&nbsp;&nbsp;|
+|[2248](2248l)|[2248. 多个数组求交集](2248)|![rs]&nbsp;&nbsp;|
+|**第02天：字符串**|||
+|[500](500l)|[500. 键盘行](500)|![rs]&nbsp;&nbsp;|
+|[1160](1160l)|[1160. 拼写单词](1160)|![rs]&nbsp;&nbsp;|
+|[1047](1047l)|[1047. 删除字符串中的所有相邻重复项](1047)|![rs]&nbsp;&nbsp;|
+|[1935](1935l)|[1935. 可以输入的最大单词数](1935)|![rs]&nbsp;&nbsp;|
+|**第03天：排序**|||
+|[977](977l)|[977. 有序数组的平方](977)|![rs]&nbsp;&nbsp;|
+|[268](268l)|[268. 丢失的数字](268)|![rs]&nbsp;&nbsp;|
+|[1877](1877l)|[1877. 数组中最大数对和的最小值](1877)|![rs]&nbsp;&nbsp;|
+|[950](950l)|[950. 按递增顺序显示卡牌](950)|![rs]&nbsp;&nbsp;|
+|**第04天：贪心**|||
+|[1221](1221l)|[1221. 分割平衡字符串](1221)|![rs]&nbsp;&nbsp;|
+|[1827](1827l)|[1827. 最少操作使数组递增](1827)|![rs]&nbsp;&nbsp;|
+|[2144](2144l)|[2144. 打折购买糖果的最小开销](2144)|![rs]&nbsp;&nbsp;|
+|[1400](1400l)|[1400. 构造 K 个回文字符串](1400)|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
+|**第05天：双指针**|||
+|||![rs]&nbsp;&nbsp;|
+|**第06天：滑动窗口**|||
+|||![rs]&nbsp;&nbsp;|
+|**第07天：哈希表**|||
+|||![rs]&nbsp;&nbsp;|
+|**第08天：前缀和**|||
+|||![rs]&nbsp;&nbsp;|
+|**第09天：二分查找**|||
+|||![rs]&nbsp;&nbsp;|
+|**第10天：位运算**|||
+|||![rs]&nbsp;&nbsp;|
+|**第11天：矩阵**|||
+|||![rs]&nbsp;&nbsp;|
+|**第12天：链表**|||
+|||![rs]&nbsp;&nbsp;|
+|**第13天：双向链表**|||
+|||![rs]&nbsp;&nbsp;|
+|**第14天：栈**|||
+|||![rs]&nbsp;&nbsp;|
+|**第15天：深度优先搜索**|||
+|||![rs]&nbsp;&nbsp;|
+|**第16天：队列**|||
+|||![rs]&nbsp;&nbsp;|
+|**第17天：广度优先搜索**|||
+|||![rs]&nbsp;&nbsp;|
+|**第18天：树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第19天：二叉树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第20天：二叉搜索树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第21天：堆**|||
+|||![rs]&nbsp;&nbsp;|
+|**第22天：有序集合**|||
+|||![rs]&nbsp;&nbsp;|
+|**第23天：字典树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第24天：线段树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第25天：树状数组**|||
+|||![rs]&nbsp;&nbsp;|
+|**第26天：并查集**|||
+|||![rs]&nbsp;&nbsp;|
+|**第27天：图**|||
+|||![rs]&nbsp;&nbsp;|
+|**第28天：动态规划**|||
+|||![rs]&nbsp;&nbsp;|
+|**第29天：分而治之**|||
+|||![rs]&nbsp;&nbsp;|
+|**第30天：拓扑排序**|||
+|||![rs]&nbsp;&nbsp;|
+|**第31天：状态压缩**|||
+|||![rs]&nbsp;&nbsp;|
+
+</details>
+
 [rs]:./ico/rust.png
 [go]:./ico/go.ico
 [py]:./ico/python.ico
@@ -456,7 +545,7 @@ https://github.com/wangzheng0822/algocourse
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
 [51]:./0051-n-queens
-[53]:./0053-maximum-subarray 
+[53]:./0053-maximum-subarray
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
@@ -494,7 +583,7 @@ https://github.com/wangzheng0822/algocourse
 [160]:./0160-intersection-of-two-linked-lists
 [162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
-[191]:./0191-number-of-1-bits 
+[191]:./0191-number-of-1-bits
 [198]:./0198-house-robber
 [200]:./0200-number-of-islands
 [203]:./0203-remove-linked-list-elements
@@ -502,7 +591,7 @@ https://github.com/wangzheng0822/algocourse
 [207]:./0207-course-schedule
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
-[231]:./0231-power-of-two 
+[231]:./0231-power-of-two
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
 [238]:./0238-product-of-array-except-self
@@ -524,7 +613,7 @@ https://github.com/wangzheng0822/algocourse
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
 [445]:./0445-add-two-numbers-ii
-[461]:./0461-hamming-distance 
+[461]:./0461-hamming-distance
 [494]:./0494-target-sum
 [518]:./0518-coin-change-2
 [658]:./0658-find-k-closest-elements
@@ -539,22 +628,27 @@ https://github.com/wangzheng0822/algocourse
 [876]:./0876-middle-of-the-linked-list
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
-[1108]:./1108-defanging-an-ip-address 
+[1108]:./1108-defanging-an-ip-address
 [1122]:./1122-relative-sort-array
 [1143]:./1143-longest-common-subsequence
+[1221]:./1221-split-a-string-in-balanced-strings
 [1306]:./1306-jump-game-iii
+[1400]:./1400-construct-k-palindrome-strings
+[1827]:./1827-minimum-operations-to-make-the-array-increasing
+[2016]:./2016-maximum-difference-between-increasing-elements
+[2144]:./2144-minimum-cost-of-buying-candies-with-discount
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
-[cci05.01]:./cci05.01-insert-into-bits-lcci 
+[cci05.01]:./cci05.01-insert-into-bits-lcci
 [cci05.03]:./cci05.03-reverse-bits-lcci
-[cci05.06]:./cci05.06-convert-integer-lcci 
-[cci05.07]:./cci05.07-exchange-lcci 
-[cci16.01]:./cci16.01-swap-numbers-lcci 
+[cci05.06]:./cci05.06-convert-integer-lcci
+[cci05.07]:./cci05.07-exchange-lcci
+[cci16.01]:./cci16.01-swap-numbers-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.06]:./cci16.06-smallest-difference-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
 [cci16.24]:./cci16.24-pairs-with-sum-lcci
 [cci16.26]:./cci16.26-calculator-lcci
-[cci17.04]:./cci17.04-missing-number-lcci 
+[cci17.04]:./cci17.04-missing-number-lcci
 [cci17.11]:./cci17.11-find-closest-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
@@ -566,8 +660,8 @@ https://github.com/wangzheng0822/algocourse
 [offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
 [offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
-[offer56-1]:./offer56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof 
-[offer56-2]:./offer56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof 
+[offer56-1]:./offer56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof
+[offer56-2]:./offer56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof
 [offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
@@ -598,7 +692,7 @@ https://github.com/wangzheng0822/algocourse
 [offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
 [offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
 [offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
-[offer56-2l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/ 
+[offer56-2l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
 [offer57-2l]:https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
 [offer58-2l]:https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
