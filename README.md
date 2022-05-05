@@ -464,7 +464,10 @@ https://github.com/wangzheng0822/algocourse
 |[165][165l]|[165. 比较版本号][165]|![rs]&nbsp;&nbsp;|
 |[443][443l]|[443. 压缩字符串][443l]|![rs]&nbsp;&nbsp;|
 |**第06天：滑动窗口**|||
-|||![rs]&nbsp;&nbsp;|
+|[1984][1984l]|[1984. 学生分数的最小差值][1984]|![rs]&nbsp;&nbsp;|
+|[1876][1876l]|[1876. 长度为三且各字符不同的子字符串][1876]|![rs]&nbsp;&nbsp;|
+|[1839][1839l]|[1839. 所有元音按顺序排布的最长子字符串][1839]|![rs]&nbsp;&nbsp;|
+|[1052][1052l]|[1052. 爱生气的书店老板][1052]|![rs]&nbsp;&nbsp;|
 |**第07天：哈希表**|||
 |||![rs]&nbsp;&nbsp;|
 |**第08天：前缀和**|||
@@ -638,6 +641,7 @@ https://github.com/wangzheng0822/algocourse
 [917]:./0917-reverse-only-letters
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
+[1052]:./1052-grumpy-bookstore-owner
 [1108]:./1108-defanging-an-ip-address
 [1122]:./1122-relative-sort-array
 [1143]:./1143-longest-common-subsequence
@@ -645,6 +649,9 @@ https://github.com/wangzheng0822/algocourse
 [1306]:./1306-jump-game-iii
 [1400]:./1400-construct-k-palindrome-strings
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
+[1839]:./1839-longest-substring-of-all-vowels-in-order
+[1876]:./1876-substrings-of-size-three-with-distinct-characters
+[1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [2016]:./2016-maximum-difference-between-increasing-elements
 [2144]:./2144-minimum-cost-of-buying-candies-with-discount
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
@@ -1479,3 +1486,6 @@ https://github.com/wangzheng0822/algocourse
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
+[1839l]:https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order/
+[1876l]:https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/
+[1984l]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
