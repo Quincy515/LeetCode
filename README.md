@@ -469,7 +469,10 @@ https://github.com/wangzheng0822/algocourse
 |[1839][1839l]|[1839. 所有元音按顺序排布的最长子字符串][1839]|![rs]&nbsp;&nbsp;|
 |[1052][1052l]|[1052. 爱生气的书店老板][1052]|![rs]&nbsp;&nbsp;|
 |**第07天：哈希表**|||
-|||![rs]&nbsp;&nbsp;|
+|[1512][1512l]|[1512. 好数对的数目][1512]|![rs]&nbsp;&nbsp;|
+|[2006][2006l]|[2006. 差的绝对值为 K 的数对数目][2006]|![rs]&nbsp;&nbsp;|
+|[1347][1347l]|[1347. 制造字母异位词的最小步骤数][1347]|![rs]&nbsp;&nbsp;|
+|[cci10.02][lcci10.02]|[面试题 10.02. 变位词组][cci10.02]]|![rs]&nbsp;&nbsp;|
 |**第08天：前缀和**|||
 |||![rs]&nbsp;&nbsp;|
 |**第09天：二分查找**|||
@@ -647,11 +650,14 @@ https://github.com/wangzheng0822/algocourse
 [1143]:./1143-longest-common-subsequence
 [1221]:./1221-split-a-string-in-balanced-strings
 [1306]:./1306-jump-game-iii
+[1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1400]:./1400-construct-k-palindrome-strings
+[1512]:./1512-number-of-good-pairs
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
 [1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
+[2006]:./2006-count-number-of-pairs-with-absolute-difference-k
 [2016]:./2016-maximum-difference-between-increasing-elements
 [2144]:./2144-minimum-cost-of-buying-candies-with-discount
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
@@ -659,6 +665,7 @@ https://github.com/wangzheng0822/algocourse
 [cci05.03]:./cci05.03-reverse-bits-lcci
 [cci05.06]:./cci05.06-convert-integer-lcci
 [cci05.07]:./cci05.07-exchange-lcci
+[cci10.02]:./cci10.02-group-anagrams-lcci
 [cci16.01]:./cci16.01-swap-numbers-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
 [cci16.06]:./cci16.06-smallest-difference-lcci
@@ -738,6 +745,7 @@ https://github.com/wangzheng0822/algocourse
 [lcci08.10]:https://leetcode-cn.com/problems/color-fill-lcci/
 [lcci08.12]:https://leetcode-cn.com/problems/eight-queens-lcci/
 [lcci10.01]:https://leetcode-cn.com/problems/sorted-merge-lcci/
+[lcci10.02]:https://leetcode-cn.com/problems/group-anagrams-lcci/
 [lcci10.05]:https://leetcode-cn.com/problems/sparse-array-search-lcci/
 [lcci16.01]:https://leetcode-cn.com/problems/swap-numbers-lcci/
 [lcci16.02]:https://leetcode-cn.com/problems/words-frequency-lcci/
@@ -1489,3 +1497,4 @@ https://github.com/wangzheng0822/algocourse
 [1839l]:https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order/
 [1876l]:https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/
 [1984l]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[2006l]:https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/
