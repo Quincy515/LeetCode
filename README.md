@@ -474,7 +474,10 @@ https://github.com/wangzheng0822/algocourse
 |[1347][1347l]|[1347. 制造字母异位词的最小步骤数][1347]|![rs]&nbsp;&nbsp;|
 |[cci10.02][lcci10.02]|[面试题 10.02. 变位词组][cci10.02]]|![rs]&nbsp;&nbsp;|
 |**第08天：前缀和**|||
-|||![rs]&nbsp;&nbsp;|
+|[148][1480l]|[1480. 一维数组的动态和][1480]|![rs]&nbsp;&nbsp;|
+|[1588][1588l]|[1588. 所有奇数长度子数组的和][1588]|![rs]&nbsp;&nbsp;|
+|[1442][1442l]|[1442. 形成两个异或相等数组的三元组数目][1442]|![rs]&nbsp;&nbsp;|
+|[1094][1094l]|[1094. 拼车][1094]|![rs]&nbsp;&nbsp;|
 |**第09天：二分查找**|||
 |||![rs]&nbsp;&nbsp;|
 |**第10天：位运算**|||
@@ -644,6 +647,7 @@ https://github.com/wangzheng0822/algocourse
 [917]:./0917-reverse-only-letters
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
+[1094]:./1094-car-pooling
 [1052]:./1052-grumpy-bookstore-owner
 [1108]:./1108-defanging-an-ip-address
 [1122]:./1122-relative-sort-array
@@ -652,7 +656,10 @@ https://github.com/wangzheng0822/algocourse
 [1306]:./1306-jump-game-iii
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1400]:./1400-construct-k-palindrome-strings
+[1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
+[1480]:./1480-running-sum-of-1d-array
 [1512]:./1512-number-of-good-pairs
+[1588]:./1588-sum-of-all-odd-length-subarrays
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
@@ -1405,6 +1412,7 @@ https://github.com/wangzheng0822/algocourse
 [1436l]:https://leetcode-cn.com/problems/destination-city/
 [1437l]:https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1441l]:https://leetcode-cn.com/problems/build-an-array-with-stack-operations/
+[1442l]:https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 [1446l]:https://leetcode-cn.com/problems/consecutive-characters/
 [1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
@@ -1494,7 +1502,14 @@ https://github.com/wangzheng0822/algocourse
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
+[1827l]:https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/
 [1839l]:https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order/
 [1876l]:https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/
+[1877l]:https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/
+[1935l]:https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/
 [1984l]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [2006l]:https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[2016l]:https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
+[2144l]:https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount/
+[2239l]:https://leetcode-cn.com/problems/find-closest-number-to-zero/
+[2248l]:https://leetcode-cn.com/problems/intersection-of-multiple-arrays/
