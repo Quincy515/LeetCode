@@ -651,6 +651,7 @@ https://github.com/wangzheng0822/algocourse
 [876]:./0876-middle-of-the-linked-list
 [911]:./0911-online-election
 [917]:./0917-reverse-only-letters
+[942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1094]:./1094-car-pooling
