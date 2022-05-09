@@ -485,7 +485,10 @@ https://github.com/wangzheng0822/algocourse
 |[911][911l]|[911. 在线选举][911]|![rs]&nbsp;&nbsp;|
 |[1552][1552l]|[1552. 两球之间的磁力][1552]|![rs]&nbsp;&nbsp;|
 |**第10天：位运算**|||
-|||![rs]&nbsp;&nbsp;|
+|[191][191l]|[191. 位1的个数][191]|![rs]&nbsp;&nbsp;|
+|[461][461l]|[461. 汉明距离][461]|![rs]&nbsp;&nbsp;|
+|[136][136l]|[136. 只出现一次的数字][136]|![rs]&nbsp;&nbsp;|
+|[137][137l]|[137. 只出现一次的数字 II][137]|![rs]&nbsp;&nbsp;|
 |**第11天：矩阵**|||
 |||![rs]&nbsp;&nbsp;|
 |**第12天：链表**|||
@@ -592,6 +595,7 @@ https://github.com/wangzheng0822/algocourse
 [125]:./0125-valid-palindrome
 [131]:./0131-palindrome-partitioning
 [136]:./0136-single-numbe
+[137]:./0137-single-number-ii
 [138]:./0138-copy-list-with-random-pointer
 [139]:./0139-word-break
 [141]:./0141-linked-list-cycle

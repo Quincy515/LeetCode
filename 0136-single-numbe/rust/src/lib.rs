@@ -2,6 +2,14 @@ impl Solution {
     pub fn single_number(nums: Vec<i32>) -> i32 {
         nums.iter().fold(0i32, |res, val| res ^ val)
     }
+
+    pub fn single_number_2(nums: Vec<i32>) -> i32 {
+        let mut result = 0;
+        for num in nums {
+            result ^= num
+        }
+        result
+    }
 }
 
 struct Solution;

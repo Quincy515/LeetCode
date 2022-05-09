@@ -22,6 +22,14 @@ impl Solution {
         }
         one_count
     }
+    pub fn hammingWeight3(mut n: u32) -> i32 {
+        let mut result = 0;
+        while n != 0 {
+            result += (n & 1) as i32;
+            n >>= 1;
+        }
+        result
+    }
 }
 #[cfg(test)]
 mod tests {

@@ -14,10 +14,34 @@
 1   (0 0 0 1)
 4   (0 1 0 0)
        ↑   ↑
-
 上面的箭头指出了对应二进制位不同的位置。
 </pre>
+
+## 思路：
+
+对于两个数来说，如果相同位置的二进制位相同，则对应汉明距离为0；否则为1；和异或的性质不谋而合，所以可以将两个数异或以后，求异或结果的 **位1的个数**
+
 ## 题解：
+
+```rust
+impl Solution {
+    fn hammingWeight (mut n: i32) -> i32 {
+        let mut result = 0;
+        while n != 0 {
+            result += n & 1;
+            n >>= 1;
+        }
+        result
+    }
+
+    pub fn hamming_distance(x: i32, y: i32) -> i32 {
+        return Self::hammingWeight(x ^ y);
+    }
+}
+```
+
+
+
 ### Rust
 ```rust
 

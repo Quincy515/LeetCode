@@ -29,8 +29,32 @@
 #### 进阶:
 如果多次调用这个函数，你将如何优化你的算法？
 
+### 思路：
+
+1、把一个数想象成二进制，先判断最低位是多少（可以用 **位于**），并且累加到结果上
+
+2、把这个数右移一位，继续1、的判断，直到这个数为0 为止。
+
+3、思考：位于 1 相当于 **摸2**，右移一位相等于 **除2**
+
 ## 题解：
 ### Rust
+
+```rust
+impl Solution {
+    pub fn hammingWeight (mut n: u32) -> i32 {
+        let mut result = 0;
+        while n != 0 {
+            result += (n & 1) as i32;
+            n >>= 1;
+        }
+        result
+    }
+}
+```
+
+
+
 ```rust
 
 impl Solution {
@@ -130,7 +154,7 @@ class Solution:
 ```
 
 ### C++
-```c++
+```d c++
 class Solution {
 public:
     int hammingWeight(uint32_t n) {
