@@ -479,7 +479,11 @@ https://github.com/wangzheng0822/algocourse
 |[1442][1442l]|[1442. 形成两个异或相等数组的三元组数目][1442]|![rs]&nbsp;&nbsp;|
 |[1094][1094l]|[1094. 拼车][1094]|![rs]&nbsp;&nbsp;|
 |**第09天：二分查找**|||
-|||![rs]&nbsp;&nbsp;|
+|[35][35l]|[35. 搜索插入位置][35]|![rs]&nbsp;&nbsp;|
+|[704][704l]|[704. 二分查找][704]|![rs]&nbsp;&nbsp;|
+|[offer53-1][offer53-1l]|[剑指 Offer 53 - I. 在排序数组中查找数字 I][offer53-1]|![rs]&nbsp;&nbsp;|
+|[911][911l]|[911. 在线选举][911]|![rs]&nbsp;&nbsp;|
+|[1552][1552l]|[1552. 两球之间的磁力][1552]|![rs]&nbsp;&nbsp;|
 |**第10天：位运算**|||
 |||![rs]&nbsp;&nbsp;|
 |**第11天：矩阵**|||
@@ -628,6 +632,7 @@ https://github.com/wangzheng0822/algocourse
 [416]:./0416-partition-equal-subset-sum
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
+[442]:./0442-find-all-duplicates-in-an-array
 [443]:./0443-string-compression
 [445]:./0445-add-two-numbers-ii
 [461]:./0461-hamming-distance
@@ -644,6 +649,7 @@ https://github.com/wangzheng0822/algocourse
 [852]:./0852-peak-index-in-a-mountain-array
 [875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
+[911]:./0911-online-election
 [917]:./0917-reverse-only-letters
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
@@ -659,6 +665,7 @@ https://github.com/wangzheng0822/algocourse
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1480]:./1480-running-sum-of-1d-array
 [1512]:./1512-number-of-good-pairs
+[1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
@@ -691,6 +698,7 @@ https://github.com/wangzheng0822/algocourse
 [offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
 [offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
+[offer53-1]:./offer53-I-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof
 [offer56-1]:./offer56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof
 [offer56-2]:./offer56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof
 [offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
@@ -720,6 +728,7 @@ https://github.com/wangzheng0822/algocourse
 [offer47l]:https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
 [offer48l]:https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
 [offer51l]:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+[offer53-1l]:https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/
 [offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
 [offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
 [offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
@@ -1448,6 +1457,7 @@ https://github.com/wangzheng0822/algocourse
 [1545l]:https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string/
 [1550l]:https://leetcode-cn.com/problems/three-consecutive-odds/
 [1551l]:https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/
+[1552l]:https://leetcode.cn/problems/magnetic-force-between-two-balls/
 [1556l]:https://leetcode-cn.com/problems/thousand-separator/
 [1557l]:https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
