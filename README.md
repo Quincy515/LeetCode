@@ -74,7 +74,7 @@
 https://github.com/wangzheng0822/algocourse
 
 |#|Title|Languages|
-| --- | --- | :---: |
+| --- | -- | :---: |
 |**题型**|**纯编程题**|**第一讲：纯编程题**|
 |[1][1l]|[1.两数之和（简单）][1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
 |[1108][1108l]|[1108. IP 地址无效化（简单）][]|![rs]&nbsp;&nbsp;|
@@ -233,20 +233,20 @@ https://github.com/wangzheng0822/algocourse
 |[437][437l]|[437. 路径总和 III （困难）][437]|![rs]&nbsp;&nbsp;|
 |**题型**|**回溯**|**第十讲: 回溯**|
 |[cci08.12][lcci08.12]|[面试题 08.12. 八皇后（困难）][cci08.12]|![rs]&nbsp;&nbsp;|
-|[51][51l]|[51. N 皇后（困难）][51]|![rs]&nbsp;&nbsp;|
-|[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;|
-|[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;|
-|[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]||![rs]&nbsp;&nbsp;
-|[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;|
-|[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;|
-|[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;|
-|[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;|
-|[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;|
-|[40][40l]|[40. 组合总和 II（中等）选出某几个数相加为给定和，有重复数据，只能使用一次，不能有重复答案][40]|![rs]&nbsp;&nbsp;|
-|[216][216l]|[216. 组合总和 III（中等） 选出k个数相加为给定和，没有重复数据，只能使用一次][216]||
-|[131][131l]|[131. 分割回文串（中等）][131]|![rs]&nbsp;&nbsp;|
-|[93][93l]|[93. 复原 IP 地址（中等）][93]|![rs]&nbsp;&nbsp;|
-|[22][22l]|[22. 括号生成（中等） ][22]|![rs]&nbsp;&nbsp;|
+|[51][51l]|[51. N 皇后（困难）][51]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
+|[37][37l]|[37. 解数独][37]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[17][17l]|[17. 电话号码的字母组合 （中等）][17]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[77][77l]|[77. 组合 （中等） 给n个数返回所有k个数的组合][77]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[78][78l]|[78. 子集（中等） 所有的组合][78]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[90][90l]|[90. 子集 II（中等）有重复数据][90]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[46][46l]|[46. 全排列 （中等） 所有排列][46]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[47][47l]|[47. 全排列 II（中等） 有重复数据][47]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[39][39l]|[39. 组合总和 （中等） 选出某几个数相加为给定和，无重复数据，可以使用多次，不能有重复答案][39]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[40][40l]|[40. 组合总和 II（中等）选出某几个数相加为给定和，有重复数据，只能使用一次，不能有重复答案][40]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[216][216l]|[216. 组合总和 III（中等） 选出k个数相加为给定和，没有重复数据，只能使用一次][216]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[131][131l]|[131. 分割回文串（中等）][131]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[93][93l]|[93. 复原 IP 地址（中等）][93]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[22][22l]|[22. 括号生成（中等） ][22]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**DFS**|**第十一讲: DFS**|
 |[offer13][offer13l]|[剑指 Offer 13. 机器人的运动范围（中等）][offer13]|![rs]&nbsp;&nbsp;|
 |[cci08.10][lcci08.10]|[面试题 08.10. 颜色填充（简单）][cci08.10]|![rs]&nbsp;&nbsp;|
@@ -275,31 +275,41 @@ https://github.com/wangzheng0822/algocourse
 |[cci17.17][lcci17.17]|[面试题 17.17. 多次搜索（中等） 标准AC自动机，不过写AC自动机太复杂，Trie树搞定][cci17.17]|![rs]&nbsp;&nbsp;|
 |[212][212l]|[212. 单词搜索 II（困难）][212]|![rs]&nbsp;&nbsp;|
 |**题型**|**背包**|**第十四讲: 背包**|
-|[416][416l]|[416. 分割等和子集][416]|![rs]&nbsp;&nbsp;|
-|[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;|
-|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;|
-|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;|
+|[416][416l]|[416. 分割等和子集][416]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[494][494l]|[494. 目标和][494]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[279][279l]|[279. 完全平方数][279]|![rs]&nbsp;&nbsp;|
+|**题型**|**路径问题**||
+|[62][62l]|[62. 不同路径][62]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[63][63l]|[63. 不同路径II][63]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[64][64l]|[64. 最小路径和][64]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer47][offer47l]|[剑指 Offer 47. 礼物的最大价值][offer47]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[120][120l]|[120.三角形最小路径和（中等）][120]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**打家劫舍**|**第十五讲: 打家劫舍**|
-|[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;|
-|[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;|
+|[198][198l]|[198. 打家劫舍][198]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[213][213l]|[213. 打家劫舍II][213]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[337][337l]|[337. 打家劫舍 III  ][337]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |[cci17.16][lcci17.16]|[面试题 17.16. 按摩师][cci17.16]|![rs]&nbsp;&nbsp;|
 |**题型**|**买卖股票**|**第十六讲: 买卖股票**|
 |[121][121l]|[121. 买卖股票的最佳时机][121]|![rs]&nbsp;&nbsp;|
 |[122][122l]|[122. 买卖股票的最佳时机 II][122]|![rs]&nbsp;&nbsp;|
-|[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;|
-|[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;|
-|[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;|
-|[62][62l]|[62. 不同路径][62]|![rs]&nbsp;&nbsp;|
-|[64][64l]|[64. 最小路径和][64]|![rs]&nbsp;&nbsp;|
-|[offer47][offer47l]|[剑指 Offer 47. 礼物的最大价值][offer47]|![rs]&nbsp;&nbsp;|
-|[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;|
-|[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;|
+|[714][714l]|[714. 买卖股票的最佳时机含手续][714]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[309][309l]|[309. 最佳买卖股票时机含冷冻期][309]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|**题型**|**爬楼梯问题**|****|
+|[70][70l]|[70.爬楼梯（简单）][70]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[322][322l]|[322. 零钱兑换 ][322]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[518][518l]|[518. 零钱兑换 II][518]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;|
+|**题型**|**匹配问题**|****|
+|[1143][1143l]|[1143. 最长公共子序列][1143]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[72][72l]|[72. 编辑距离 ][72]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|**题型**|**其他**|****|
 |[10][10l]|[10. 正则表达式匹配][10]|![rs]&nbsp;&nbsp;|
-|[offer14-1][offer14-1l]|[剑指 Offer 14- I. 剪绳子][offer14-1]|![rs]&nbsp;&nbsp;|
-|[offer46][offer46l]|[剑指 Offer 46. 把数字翻译成字符串][offer46]|![rs]&nbsp;&nbsp;|
-|[139][139l]|[139. 单词拆分][139]|![rs]&nbsp;&nbsp;|
-|[437][437l]|[437. 路径总和 III][437]|![rs]&nbsp;&nbsp;|
+|[437][437l]|[437. 路径总和 III][437]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[300][300l]|[300. 最长递增子序列][300]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;![js]&nbsp;&nbsp;![py]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
 |**题型**|**双指针**|**第十七讲: 双指针**|
 |[344][344l]|[344. 反转字符串][344]|![rs]&nbsp;&nbsp;|
 |[cci16.24][lcci16.24]|[面试题 16.24. 数对和（例题1）][cci16.24]|![rs]&nbsp;&nbsp;|
@@ -414,77 +424,290 @@ https://github.com/wangzheng0822/algocourse
 | --- | --- | :---: |
 </details>
 
+<details>
+    <summary><mark>「[五月算法专题训练](https://articles.zsxq.com/id_zvp7okck88w9.html)」</mark></summary>
+▋ 训练时间
+2022.05.01 - 2022.05.31
+
+▋ 训练程度
+1. 每天 1 - 3 道题，固定专栏反复刷。
+2. 每天一个新专题，专题刷完再循环。
+   
+
+▋ 训练内容 
+
+|#|Title|Languages|
+| :---: | :---: | :---: |
+|**第01天：数组**|||
+|[2016][2016l]|[2016. 增量元素之间的最大差值][2016]|![rs]&nbsp;&nbsp;|
+|[2239][2239l]|[2239. 找到最接近 0 的数字][2239]|![rs]&nbsp;&nbsp;|
+|[1475][1475l]|[1475. 商品折扣后的最终价格][1475]|![rs]&nbsp;&nbsp;|
+|[2248][2248l]|[2248. 多个数组求交集][2248]|![rs]&nbsp;&nbsp;|
+|**第02天：字符串**|||
+|[500][500l]|[500. 键盘行][500]|![rs]&nbsp;&nbsp;|
+|[1160][1160l]|[1160. 拼写单词][1160]|![rs]&nbsp;&nbsp;|
+|[1047][1047l]|[1047. 删除字符串中的所有相邻重复项][1047]|![rs]&nbsp;&nbsp;|
+|[1935][1935l]|[1935. 可以输入的最大单词数][1935]|![rs]&nbsp;&nbsp;|
+|**第03天：排序**|||
+|[977][977l]|[977. 有序数组的平方][977]|![rs]&nbsp;&nbsp;|
+|[268][268l]|[268. 丢失的数字][268]|![rs]&nbsp;&nbsp;|
+|[1877][1877l]|[1877. 数组中最大数对和的最小值][1877]|![rs]&nbsp;&nbsp;|
+|[950][950l]|[950. 按递增顺序显示卡牌][950]|![rs]&nbsp;&nbsp;|
+|**第04天：贪心**|||
+|[1221][1221l]|[1221. 分割平衡字符串][1221]|![rs]&nbsp;&nbsp;|
+|[1827][1827l]|[1827. 最少操作使数组递增][1827]|![rs]&nbsp;&nbsp;|
+|[2144][2144l]|[2144. 打折购买糖果的最小开销][2144]|![rs]&nbsp;&nbsp;|
+|[1400][1400l]|[1400. 构造 K 个回文字符串][1400]|![rs]&nbsp;&nbsp;![go]&nbsp;&nbsp;|
+|**第05天：双指针**|||
+|[917][917l]|[917. 仅仅反转字母][917]|![rs]&nbsp;&nbsp;|
+|[167][167l]|[167. 两数之和 II - 输入有序数组][167]|![rs]&nbsp;&nbsp;|
+|[165][165l]|[165. 比较版本号][165]|![rs]&nbsp;&nbsp;|
+|[443][443l]|[443. 压缩字符串][443l]|![rs]&nbsp;&nbsp;|
+|**第06天：滑动窗口**|||
+|[1984][1984l]|[1984. 学生分数的最小差值][1984]|![rs]&nbsp;&nbsp;|
+|[1876][1876l]|[1876. 长度为三且各字符不同的子字符串][1876]|![rs]&nbsp;&nbsp;|
+|[1839][1839l]|[1839. 所有元音按顺序排布的最长子字符串][1839]|![rs]&nbsp;&nbsp;|
+|[1052][1052l]|[1052. 爱生气的书店老板][1052]|![rs]&nbsp;&nbsp;|
+|**第07天：哈希表**|||
+|[1512][1512l]|[1512. 好数对的数目][1512]|![rs]&nbsp;&nbsp;|
+|[2006][2006l]|[2006. 差的绝对值为 K 的数对数目][2006]|![rs]&nbsp;&nbsp;|
+|[1347][1347l]|[1347. 制造字母异位词的最小步骤数][1347]|![rs]&nbsp;&nbsp;|
+|[cci10.02][lcci10.02]|[面试题 10.02. 变位词组][cci10.02]]|![rs]&nbsp;&nbsp;|
+|**第08天：前缀和**|||
+|[148][1480l]|[1480. 一维数组的动态和][1480]|![rs]&nbsp;&nbsp;|
+|[1588][1588l]|[1588. 所有奇数长度子数组的和][1588]|![rs]&nbsp;&nbsp;|
+|[1442][1442l]|[1442. 形成两个异或相等数组的三元组数目][1442]|![rs]&nbsp;&nbsp;|
+|[1094][1094l]|[1094. 拼车][1094]|![rs]&nbsp;&nbsp;|
+|**第09天：二分查找**|||
+|[35][35l]|[35. 搜索插入位置][35]|![rs]&nbsp;&nbsp;|
+|[704][704l]|[704. 二分查找][704]|![rs]&nbsp;&nbsp;|
+|[offer53-1][offer53-1l]|[剑指 Offer 53 - I. 在排序数组中查找数字 I][offer53-1]|![rs]&nbsp;&nbsp;|
+|[911][911l]|[911. 在线选举][911]|![rs]&nbsp;&nbsp;|
+|[1552][1552l]|[1552. 两球之间的磁力][1552]|![rs]&nbsp;&nbsp;|
+|**第10天：位运算**|||
+|[191][191l]|[191. 位1的个数][191]|![rs]&nbsp;&nbsp;|
+|[461][461l]|[461. 汉明距离][461]|![rs]&nbsp;&nbsp;|
+|[136][136l]|[136. 只出现一次的数字][136]|![rs]&nbsp;&nbsp;|
+|[137][137l]|[137. 只出现一次的数字 II][137]|![rs]&nbsp;&nbsp;|
+|**第11天：矩阵**|||
+|||![rs]&nbsp;&nbsp;|
+|**第12天：链表**|||
+|||![rs]&nbsp;&nbsp;|
+|**第13天：双向链表**|||
+|||![rs]&nbsp;&nbsp;|
+|**第14天：栈**|||
+|||![rs]&nbsp;&nbsp;|
+|**第15天：深度优先搜索**|||
+|||![rs]&nbsp;&nbsp;|
+|**第16天：队列**|||
+|||![rs]&nbsp;&nbsp;|
+|**第17天：广度优先搜索**|||
+|||![rs]&nbsp;&nbsp;|
+|**第18天：树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第19天：二叉树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第20天：二叉搜索树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第21天：堆**|||
+|||![rs]&nbsp;&nbsp;|
+|**第22天：有序集合**|||
+|||![rs]&nbsp;&nbsp;|
+|**第23天：字典树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第24天：线段树**|||
+|||![rs]&nbsp;&nbsp;|
+|**第25天：树状数组**|||
+|||![rs]&nbsp;&nbsp;|
+|**第26天：并查集**|||
+|||![rs]&nbsp;&nbsp;|
+|**第27天：图**|||
+|||![rs]&nbsp;&nbsp;|
+|**第28天：动态规划**|||
+|||![rs]&nbsp;&nbsp;|
+|**第29天：分而治之**|||
+|||![rs]&nbsp;&nbsp;|
+|**第30天：拓扑排序**|||
+|||![rs]&nbsp;&nbsp;|
+|**第31天：状态压缩**|||
+|||![rs]&nbsp;&nbsp;|
+
+</details>
+
 [rs]:./ico/rust.png
 [go]:./ico/go.ico
 [py]:./ico/python.ico
 [js]:./ico/javascript.png
-
 [ts]:./ico/typescript.png
-[c]:./ico/c++.png
+[cpp]:./ico/cpp.png
 [java]:./ico/java.png
 
 [1]:./0001-Two-Sum
 [2]:./0002-add-two-numbers
 [9]:./0009-palindrome-number
 [11]:./0011-container-with-most-water
+[15]:./0015-3sum
+[17]:./0017-letter-combinations-of-a-phone-number
 [19]:./0019-remove-nth-node-from-end-of-list
 [20]:./0020-valid-parentheses
 [21]:./0021-merge-two-sorted-lists
+[22]:./0022-generate-parentheses
 [25]:./0025-reverse-nodes-in-k-group
 [26]:./0026-remove-duplicates-from-sorted-array
 [33]:./0033-search-in-rotated-sorted-array
 [34]:./0034-find-first-and-last-position-of-element-in-sorted-array
 [35]:./0035-search-insert-position
+[37]:./0037-sudoku-solver
+[39]:./0039-combination-sum
+[40]:./0040-combination-sum-ii
+[42]:./0042-trapping-rain-water
+[46]:./0046-permutations
+[47]:./0047-permutations-ii
 [48]:./0048-rotate-image
 [49]:./0049-group-anagrams
+[51]:./0051-n-queens
+[53]:./0053-maximum-subarray
 [54]:./0054-spiral-matrix
 [55]:./0055-jump-game
 [58]:./0058-length-of-last-word
+[62]:./0062-unique-paths
+[63]:./0063-unique-paths-ii
+[64]:./0064-minimum-path-sum
 [66]:./0066-plus-one
+[69]:./0069-sqrtx
+[70]:./0070-climbing-stairs
+[72]:./0072-edit-distance
+[74]:./0074-search-a-2d-matrix
 [75]:./0075-sort-colors
+[76]:./0076-minimum-window-substring
+[77]:./0077-combinations
+[78]:./0078-subsets
+[79]:./0079-word-search
 [81]:./0081-search-in-rotated-sorted-array-ii
 [83]:./0083-remove-duplicates-from-sorted-list
 [86]:./0086-partition-list
 [88]:./0088-merge-sorted-array
+[90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
+[93]:./0093-restore-ip-addresses
+[120]:./0120-triangle
+[121]:./0121-best-time-to-buy-and-sell-stock
 [125]:./0125-valid-palindrome
+[131]:./0131-palindrome-partitioning
+[136]:./0136-single-numbe
+[137]:./0137-single-number-ii
 [138]:./0138-copy-list-with-random-pointer
+[139]:./0139-word-break
 [141]:./0141-linked-list-cycle
 [153]:./0153-find-minimum-in-rotated-sorted-array
 [154]:./0154-find-minimum-in-rotated-sorted-array-ii
 [155]:./0155-min-stack
 [160]:./0160-intersection-of-two-linked-lists
+[162]:./0162-find-peak-element
 [164]:./0164-maximum-gap
+[165]:./0165-compare-version-numbers
+[167]:./0167-two-sum-ii-input-array-is-sorted
+[191]:./0191-number-of-1-bits
+[198]:./0198-house-robber
+[200]:./0200-number-of-islands
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
+[207]:./0207-course-schedule
+[213]:./0213-house-robber-ii
+[216]:./0216-combination-sum-iii
+[231]:./0231-power-of-two
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
+[238]:./0238-product-of-array-except-self
 [239]:./0239-sliding-window-maximum
 [240]:./0240-search-a-2d-matrix-ii
 [242]:./0242-valid-anagram
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
+[300]:./0300-longest-increasing-subsequence
+[309]:./0309-best-time-to-buy-and-sell-stock-with-cooldown
+[322]:./0322-coin-change
 [328]:./0328-odd-even-linked-list
+[337]:./0337-house-robber-iii
+[344]:./0344-reverse-string
+[349]:./0349-intersection-of-two-arrays
+[367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
+[416]:./0416-partition-equal-subset-sum
+[437]:./0437-path-sum-iii
+[438]:./0438-find-all-anagrams-in-a-string
+[442]:./0442-find-all-duplicates-in-an-array
+[443]:./0443-string-compression
 [445]:./0445-add-two-numbers-ii
+[461]:./0461-hamming-distance
+[494]:./0494-target-sum
+[518]:./0518-coin-change-2
+[658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
+[706]:./0706-design-hashmap
+[713]:./0713-subarray-product-less-than-k
+[714]:./0714-best-time-to-buy-and-sell-stock-with-transaction-fee
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
+[752]:./0752-open-the-lock
+[852]:./0852-peak-index-in-a-mountain-array
+[875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
+[911]:./0911-online-election
+[917]:./0917-reverse-only-letters
+[942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
+[1094]:./1094-car-pooling
+[1052]:./1052-grumpy-bookstore-owner
+[1108]:./1108-defanging-an-ip-address
+[1122]:./1122-relative-sort-array
+[1143]:./1143-longest-common-subsequence
+[1221]:./1221-split-a-string-in-balanced-strings
+[1306]:./1306-jump-game-iii
+[1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
+[1400]:./1400-construct-k-palindrome-strings
+[1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
+[1480]:./1480-running-sum-of-1d-array
+[1512]:./1512-number-of-good-pairs
+[1552]:./1552-magnetic-force-between-two-balls
+[1588]:./1588-sum-of-all-odd-length-subarrays
+[1827]:./1827-minimum-operations-to-make-the-array-increasing
+[1839]:./1839-longest-substring-of-all-vowels-in-order
+[1876]:./1876-substrings-of-size-three-with-distinct-characters
+[1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
+[2006]:./2006-count-number-of-pairs-with-absolute-difference-k
+[2016]:./2016-maximum-difference-between-increasing-elements
+[2144]:./2144-minimum-cost-of-buying-candies-with-discount
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
+[cci05.01]:./cci05.01-insert-into-bits-lcci
+[cci05.03]:./cci05.03-reverse-bits-lcci
+[cci05.06]:./cci05.06-convert-integer-lcci
+[cci05.07]:./cci05.07-exchange-lcci
+[cci10.02]:./cci10.02-group-anagrams-lcci
+[cci16.01]:./cci16.01-swap-numbers-lcci
 [cci16.04]:./cci16.04-tic-tac-toe-lcci
+[cci16.06]:./cci16.06-smallest-difference-lcci
 [cci16.16]:./cci16.16-sub-sort-lcci
+[cci16.24]:./cci16.24-pairs-with-sum-lcci
 [cci16.26]:./cci16.26-calculator-lcci
+[cci17.04]:./cci17.04-missing-number-lcci
+[cci17.11]:./cci17.11-find-closest-lcci
 [offer06]:./offer06-cong-wei-dao-tou-da-yin-lian-biao-lcof
 [offer09]:./offer09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof
+[offer14-1]:./offer14-1-jian-sheng-zi-lcof
+[offer21]:./offer21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
-[offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
+[offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
+[offer53-1]:./offer53-I-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof
+[offer56-1]:./offer56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof
+[offer56-2]:./offer56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof
+[offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
+[offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 
 [offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
@@ -510,10 +733,11 @@ https://github.com/wangzheng0822/algocourse
 [offer47l]:https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
 [offer48l]:https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
 [offer51l]:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+[offer53-1l]:https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/
 [offer54l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
 [offer55-2l]:https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
 [offer56-1l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
-[offer56-2l]:
+[offer56-2l]:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
 [offer57-2l]:https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 [offer58-1l]:https://leetcode-cn.com/problems/length-of-last-word/
 [offer58-2l]:https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
@@ -542,6 +766,7 @@ https://github.com/wangzheng0822/algocourse
 [lcci08.10]:https://leetcode-cn.com/problems/color-fill-lcci/
 [lcci08.12]:https://leetcode-cn.com/problems/eight-queens-lcci/
 [lcci10.01]:https://leetcode-cn.com/problems/sorted-merge-lcci/
+[lcci10.02]:https://leetcode-cn.com/problems/group-anagrams-lcci/
 [lcci10.05]:https://leetcode-cn.com/problems/sparse-array-search-lcci/
 [lcci16.01]:https://leetcode-cn.com/problems/swap-numbers-lcci/
 [lcci16.02]:https://leetcode-cn.com/problems/words-frequency-lcci/
@@ -994,6 +1219,7 @@ https://github.com/wangzheng0822/algocourse
 [870l]:https://leetcode-cn.com/problems/advantage-shuffle/
 [872l]:https://leetcode-cn.com/problems/leaf-similar-trees/
 [874l]:https://leetcode-cn.com/problems/walking-robot-simulation/
+[875l]:https://leetcode-cn.com/problems/koko-eating-bananas/
 [876l]:https://leetcode-cn.com/problems/middle-of-the-linked-list/
 [877l]:https://leetcode-cn.com/problems/stone-game/
 [881l]:https://leetcode-cn.com/problems/boats-to-save-people/
@@ -1200,6 +1426,7 @@ https://github.com/wangzheng0822/algocourse
 [1436l]:https://leetcode-cn.com/problems/destination-city/
 [1437l]:https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1441l]:https://leetcode-cn.com/problems/build-an-array-with-stack-operations/
+[1442l]:https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 [1446l]:https://leetcode-cn.com/problems/consecutive-characters/
 [1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
@@ -1235,6 +1462,7 @@ https://github.com/wangzheng0822/algocourse
 [1545l]:https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string/
 [1550l]:https://leetcode-cn.com/problems/three-consecutive-odds/
 [1551l]:https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/
+[1552l]:https://leetcode.cn/problems/magnetic-force-between-two-balls/
 [1556l]:https://leetcode-cn.com/problems/thousand-separator/
 [1557l]:https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
@@ -1289,3 +1517,14 @@ https://github.com/wangzheng0822/algocourse
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
+[1827l]:https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/
+[1839l]:https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order/
+[1876l]:https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/
+[1877l]:https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/
+[1935l]:https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/
+[1984l]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[2006l]:https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[2016l]:https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
+[2144l]:https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount/
+[2239l]:https://leetcode-cn.com/problems/find-closest-number-to-zero/
+[2248l]:https://leetcode-cn.com/problems/intersection-of-multiple-arrays/

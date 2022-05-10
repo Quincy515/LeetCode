@@ -1,0 +1,25 @@
+package main
+
+import "math"
+
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
+func rob(root *TreeNode) int {
+	money := postorder(root)
+	return int(math.Max(float64(money[0]), float64(money[1])))
+}
+func postorder(root *TreeNode) []int {
+	if root == nil {
+		return []int{0, 0}
+	}
+	leftMoney := postorder(root.Left)
+	rightMoney := postorder(root.Right)
+	money := make([]int, 2)
+	money[0] = int(math.Max(float64(leftMoney[0]), float64(leftMoney[1]))) + int(math.Max(float64(rightMoney[0]), float64(rightMoney[1])))
+	money[1] = (leftMoney[0] + rightMoney[0]) + root.Val
+	return money
+}
