@@ -497,7 +497,10 @@ https://github.com/wangzheng0822/algocourse
 |[1605][1605l]|[1605. 给定行和列的和求可行矩阵][1605]|![rs]&nbsp;&nbsp;|
 |[885][885l]|[885. 螺旋矩阵 III][885]|![rs]&nbsp;&nbsp;|
 |**第12天：链表**|||
-|||![rs]&nbsp;&nbsp;|
+|[1290][1290l]|[1290. 二进制链表转整数][1290]|![rs]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[237][237l]|[237. 删除链表中的节点][237]|![go]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offerII024][offerII024l]|[剑指 Offer II 024. 反转链表][offerII024]|![rs]&nbsp;&nbsp;|
+|[1019][1019l]|[1019. 链表中的下一个更大节点][1019]|![rs]&nbsp;&nbsp;|
 |**第13天：双向链表**|||
 |||![rs]&nbsp;&nbsp;|
 |**第14天：栈**|||
@@ -623,6 +626,7 @@ https://github.com/wangzheng0822/algocourse
 [231]:./0231-power-of-two
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
+[237]:./0237-delete-node-in-a-linked-list
 [238]:./0238-product-of-array-except-self
 [239]:./0239-sliding-window-maximum
 [240]:./0240-search-a-2d-matrix-ii
@@ -664,6 +668,7 @@ https://github.com/wangzheng0822/algocourse
 [917]:./0917-reverse-only-letters
 [942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
+[1019]:./1019-next-greater-node-in-linked-list
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1094]:./1094-car-pooling
 [1052]:./1052-grumpy-bookstore-owner
@@ -671,6 +676,7 @@ https://github.com/wangzheng0822/algocourse
 [1122]:./1122-relative-sort-array
 [1143]:./1143-longest-common-subsequence
 [1221]:./1221-split-a-string-in-balanced-strings
+[1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
 [1329]:./1329-sort-the-matrix-diagonally
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
@@ -720,6 +726,7 @@ https://github.com/wangzheng0822/algocourse
 [offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
+[offerII024]:./offerII024-UHnkqh
 
 [offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
@@ -757,6 +764,7 @@ https://github.com/wangzheng0822/algocourse
 [offer61l]:https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 [offer67l]:https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 [offer68-1l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+[offerII024l]:https://leetcode.cn/problems/UHnkqh/
 
 [lcci01.02]:https://leetcode-cn.com/problems/check-permutation-lcci/
 [lcci01.05]:https://leetcode-cn.com/problems/one-away-lcci/
