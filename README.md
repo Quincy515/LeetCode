@@ -490,7 +490,12 @@ https://github.com/wangzheng0822/algocourse
 |[136][136l]|[136. 只出现一次的数字][136]|![rs]&nbsp;&nbsp;|
 |[137][137l]|[137. 只出现一次的数字 II][137]|![rs]&nbsp;&nbsp;|
 |**第11天：矩阵**|||
-|||![rs]&nbsp;&nbsp;|
+|[1351][1351l]|[1351. 统计有序矩阵中的负数][1351]|![rs]&nbsp;&nbsp;|
+|[1672][1672l]|[1672. 最富有客户的资产总量][1672]|![rs]&nbsp;&nbsp;|
+|[832][832l]|[832. 翻转图像][832]|![rs]&nbsp;&nbsp;|
+|[1329][1329l]|[1329. 将矩阵按对角线排序][1329]|![rs]&nbsp;&nbsp;|
+|[1605][1605l]|[1605. 给定行和列的和求可行矩阵][1605]|![rs]&nbsp;&nbsp;|
+|[885][885l]|[885. 螺旋矩阵 III][885]|![rs]&nbsp;&nbsp;|
 |**第12天：链表**|||
 |||![rs]&nbsp;&nbsp;|
 |**第13天：双向链表**|||
@@ -650,9 +655,11 @@ https://github.com/wangzheng0822/algocourse
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [752]:./0752-open-the-lock
+[832]:./0832-flipping-an-image
 [852]:./0852-peak-index-in-a-mountain-array
 [875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
+[885]:./0885-spiral-matrix-iii
 [911]:./0911-online-election
 [917]:./0917-reverse-only-letters
 [942]:./0942-di-string-match
@@ -665,13 +672,17 @@ https://github.com/wangzheng0822/algocourse
 [1143]:./1143-longest-common-subsequence
 [1221]:./1221-split-a-string-in-balanced-strings
 [1306]:./1306-jump-game-iii
+[1329]:./1329-sort-the-matrix-diagonally
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
+[1351]:./1351-count-negative-numbers-in-a-sorted-matrix
 [1400]:./1400-construct-k-palindrome-strings
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1480]:./1480-running-sum-of-1d-array
 [1512]:./1512-number-of-good-pairs
 [1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
+[1605]:./1605-find-valid-matrix-given-row-and-column-sums
+[1672]:./1672-richest-customer-wealth
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
