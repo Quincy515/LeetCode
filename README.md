@@ -2,21 +2,22 @@
 
 ## Rust 算法相关仓库
 
+### 数据结构与算法实现
+
 - Rust 算法和数据结构 https://github.com/QMHTMY/RustBook
-
+- 王争数据结构与算法之美专栏 https://github.com/wangzheng0822/algo/tree/master/rust
+-《Rust编程：入门、实战与进阶》https://github.com/inrust/Rust-Programming-in-Action
+- 算法第四版 in Rust https://github.com/douchuan/algorithm
 - The Algorithms 的 Rust 版本，使用 Rust 实现所有算法 https://github.com/TheAlgorithms/Rust
-
-- https://github.com/weihanglo/rust-algorithm-club
-
 - https://github.com/EbTech/rust-algorithms
-
+- https://github.com/weihanglo/rust-algorithm-club
 - https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust
 
+### LeetCode 题解
+
 - Rust Gym Leetcode Rust Solutions https://rustgym.com/leetcode
-
-- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏https://github.com/EFanZh/LeetCode
-
-  
+- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏 https://github.com/EFanZh/LeetCode
+- AlgoCasts 面试算法题目 https://github.com/Hawstein/algocasts-interview-questions/tree/master/rust/examples 
 
 <details>
   <summary><mark>AlgoMooc算法训练营</mark></summary>
@@ -425,7 +426,10 @@ https://github.com/wangzheng0822/algocourse
 </details>
 
 <details>
-    <summary><mark>「[五月算法专题训练](https://articles.zsxq.com/id_zvp7okck88w9.html)」</mark></summary>
+    <summary><mark>「五月算法专题训练」</mark></summary>
+
+https://articles.zsxq.com/id_zvp7okck88w9.html
+
 ▋ 训练时间
 2022.05.01 - 2022.05.31
 
@@ -490,11 +494,21 @@ https://github.com/wangzheng0822/algocourse
 |[136][136l]|[136. 只出现一次的数字][136]|![rs]&nbsp;&nbsp;|
 |[137][137l]|[137. 只出现一次的数字 II][137]|![rs]&nbsp;&nbsp;|
 |**第11天：矩阵**|||
-|||![rs]&nbsp;&nbsp;|
+|[1351][1351l]|[1351. 统计有序矩阵中的负数][1351]|![rs]&nbsp;&nbsp;|
+|[1672][1672l]|[1672. 最富有客户的资产总量][1672]|![rs]&nbsp;&nbsp;|
+|[832][832l]|[832. 翻转图像][832]|![rs]&nbsp;&nbsp;|
+|[1329][1329l]|[1329. 将矩阵按对角线排序][1329]|![rs]&nbsp;&nbsp;|
+|[1605][1605l]|[1605. 给定行和列的和求可行矩阵][1605]|![rs]&nbsp;&nbsp;|
+|[885][885l]|[885. 螺旋矩阵 III][885]|![rs]&nbsp;&nbsp;|
 |**第12天：链表**|||
-|||![rs]&nbsp;&nbsp;|
+|[1290][1290l]|[1290. 二进制链表转整数][1290]|![rs]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[237][237l]|[237. 删除链表中的节点][237]|![go]&nbsp;&nbsp;![cpp]&nbsp;&nbsp;|
+|[offerII024][offerII024l]|[剑指 Offer II 024. 反转链表][offerII024]|![rs]&nbsp;&nbsp;|
+|[1019][1019l]|[1019. 链表中的下一个更大节点][1019]|![rs]&nbsp;&nbsp;|
 |**第13天：双向链表**|||
-|||![rs]&nbsp;&nbsp;|
+|[1472][1472l]|[1472. 设计浏览器历史记录][1472]|![rs]&nbsp;&nbsp;|
+|[430][430l]|[430. 扁平化多级双向链表][430]|![rs]&nbsp;&nbsp;|
+|[offer36][offer36l]|[剑指 Offer 36. 二叉搜索树与双向链表][offer36]|![rs]&nbsp;&nbsp;|
 |**第14天：栈**|||
 |||![rs]&nbsp;&nbsp;|
 |**第15天：深度优先搜索**|||
@@ -618,6 +632,7 @@ https://github.com/wangzheng0822/algocourse
 [231]:./0231-power-of-two
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
+[237]:./0237-delete-node-in-a-linked-list
 [238]:./0238-product-of-array-except-self
 [239]:./0239-sliding-window-maximum
 [240]:./0240-search-a-2d-matrix-ii
@@ -634,6 +649,7 @@ https://github.com/wangzheng0822/algocourse
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [416]:./0416-partition-equal-subset-sum
+[430]:./0430-flatten-a-multilevel-doubly-linked-list
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
 [442]:./0442-find-all-duplicates-in-an-array
@@ -650,13 +666,16 @@ https://github.com/wangzheng0822/algocourse
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [752]:./0752-open-the-lock
+[832]:./0832-flipping-an-image
 [852]:./0852-peak-index-in-a-mountain-array
 [875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
+[885]:./0885-spiral-matrix-iii
 [911]:./0911-online-election
 [917]:./0917-reverse-only-letters
 [942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
+[1019]:./1019-next-greater-node-in-linked-list
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1094]:./1094-car-pooling
 [1052]:./1052-grumpy-bookstore-owner
@@ -664,14 +683,20 @@ https://github.com/wangzheng0822/algocourse
 [1122]:./1122-relative-sort-array
 [1143]:./1143-longest-common-subsequence
 [1221]:./1221-split-a-string-in-balanced-strings
+[1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
+[1329]:./1329-sort-the-matrix-diagonally
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
+[1351]:./1351-count-negative-numbers-in-a-sorted-matrix
 [1400]:./1400-construct-k-palindrome-strings
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
+[1472]:./1472-design-browser-history
 [1480]:./1480-running-sum-of-1d-array
 [1512]:./1512-number-of-good-pairs
 [1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
+[1605]:./1605-find-valid-matrix-given-row-and-column-sums
+[1672]:./1672-richest-customer-wealth
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
@@ -700,6 +725,7 @@ https://github.com/wangzheng0822/algocourse
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
+[offer36]:./offer36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof
 [offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
 [offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
@@ -709,6 +735,7 @@ https://github.com/wangzheng0822/algocourse
 [offer57-2]:./offer57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
+[offerII024]:./offerII024-UHnkqh
 
 [offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
@@ -746,6 +773,7 @@ https://github.com/wangzheng0822/algocourse
 [offer61l]:https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 [offer67l]:https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 [offer68-1l]:https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+[offerII024l]:https://leetcode.cn/problems/UHnkqh/
 
 [lcci01.02]:https://leetcode-cn.com/problems/check-permutation-lcci/
 [lcci01.05]:https://leetcode-cn.com/problems/one-away-lcci/
