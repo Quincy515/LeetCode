@@ -2,21 +2,22 @@
 
 ## Rust 算法相关仓库
 
+### 数据结构与算法实现
+
 - Rust 算法和数据结构 https://github.com/QMHTMY/RustBook
-
+- 王争数据结构与算法之美专栏 https://github.com/wangzheng0822/algo/tree/master/rust
+-《Rust编程：入门、实战与进阶》https://github.com/inrust/Rust-Programming-in-Action
+- 算法第四版 in Rust https://github.com/douchuan/algorithm
 - The Algorithms 的 Rust 版本，使用 Rust 实现所有算法 https://github.com/TheAlgorithms/Rust
-
-- https://github.com/weihanglo/rust-algorithm-club
-
 - https://github.com/EbTech/rust-algorithms
-
+- https://github.com/weihanglo/rust-algorithm-club
 - https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust
 
+### LeetCode 题解
+
 - Rust Gym Leetcode Rust Solutions https://rustgym.com/leetcode
-
-- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏https://github.com/EFanZh/LeetCode
-
-  
+- 超过 365 天没间断过用 Rust 刷 LeetCode 的仓库👏👏 https://github.com/EFanZh/LeetCode
+- AlgoCasts 面试算法题目 https://github.com/Hawstein/algocasts-interview-questions/tree/master/rust/examples 
 
 <details>
   <summary><mark>AlgoMooc算法训练营</mark></summary>
@@ -425,7 +426,10 @@ https://github.com/wangzheng0822/algocourse
 </details>
 
 <details>
-    <summary><mark>「[五月算法专题训练](https://articles.zsxq.com/id_zvp7okck88w9.html)」</mark></summary>
+    <summary><mark>「五月算法专题训练」</mark></summary>
+
+https://articles.zsxq.com/id_zvp7okck88w9.html
+
 ▋ 训练时间
 2022.05.01 - 2022.05.31
 
@@ -502,7 +506,9 @@ https://github.com/wangzheng0822/algocourse
 |[offerII024][offerII024l]|[剑指 Offer II 024. 反转链表][offerII024]|![rs]&nbsp;&nbsp;|
 |[1019][1019l]|[1019. 链表中的下一个更大节点][1019]|![rs]&nbsp;&nbsp;|
 |**第13天：双向链表**|||
-|||![rs]&nbsp;&nbsp;|
+|[1472][1472l]|[1472. 设计浏览器历史记录][1472]|![rs]&nbsp;&nbsp;|
+|[430][430l]|[430. 扁平化多级双向链表][430]|![rs]&nbsp;&nbsp;|
+|[offer36][offer36l]|[剑指 Offer 36. 二叉搜索树与双向链表][offer36]|![rs]&nbsp;&nbsp;|
 |**第14天：栈**|||
 |||![rs]&nbsp;&nbsp;|
 |**第15天：深度优先搜索**|||
@@ -643,6 +649,7 @@ https://github.com/wangzheng0822/algocourse
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [416]:./0416-partition-equal-subset-sum
+[430]:./0430-flatten-a-multilevel-doubly-linked-list
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
 [442]:./0442-find-all-duplicates-in-an-array
@@ -683,6 +690,7 @@ https://github.com/wangzheng0822/algocourse
 [1351]:./1351-count-negative-numbers-in-a-sorted-matrix
 [1400]:./1400-construct-k-palindrome-strings
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
+[1472]:./1472-design-browser-history
 [1480]:./1480-running-sum-of-1d-array
 [1512]:./1512-number-of-good-pairs
 [1552]:./1552-magnetic-force-between-two-balls
@@ -717,6 +725,7 @@ https://github.com/wangzheng0822/algocourse
 [offer22]:./offer22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 [offer25]:./offer25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof
 [offer31]:./offer31-zhan-de-ya-ru-dan-chu-xu-lie-lcof
+[offer36]:./offer36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof
 [offer46]:./offer46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof
 [offer47]:./offer47-li-wu-de-zui-da-jie-zhi-lcof
 [offer48]:./offer48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
