@@ -510,7 +510,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[430][430l]|[430. 扁平化多级双向链表][430]|![rs]&nbsp;&nbsp;|
 |[offer36][offer36l]|[剑指 Offer 36. 二叉搜索树与双向链表][offer36]|![rs]&nbsp;&nbsp;|
 |**第14天：栈**|||
-|||![rs]&nbsp;&nbsp;|
+|[1441][1441l]|[1441. 用栈操作构建数组][1441]|![rs]&nbsp;&nbsp;|
+|[1021][1021l]|[1021. 删除最外层的括号][1021]|![rs]&nbsp;&nbsp;|
+|[1700][1700l]|[1700. 无法吃午餐的学生数量][1700]|![rs]&nbsp;&nbsp;|
+|[1381][1381l]|[1381. 设计一个支持增量操作的栈][1381]|![rs]&nbsp;&nbsp;|
 |**第15天：深度优先搜索**|||
 |||![rs]&nbsp;&nbsp;|
 |**第16天：队列**|||
@@ -676,6 +679,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
 [1019]:./1019-next-greater-node-in-linked-list
+[1021]:./1021-remove-outermost-parentheses
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1094]:./1094-car-pooling
 [1052]:./1052-grumpy-bookstore-owner
@@ -688,7 +692,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1329]:./1329-sort-the-matrix-diagonally
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1351]:./1351-count-negative-numbers-in-a-sorted-matrix
+[1381]:./1381-design-a-stack-with-increment-operation
 [1400]:./1400-construct-k-palindrome-strings
+[1441]:./1441-build-an-array-with-stack-operations
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1472]:./1472-design-browser-history
 [1480]:./1480-running-sum-of-1d-array
@@ -697,6 +703,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1588]:./1588-sum-of-all-odd-length-subarrays
 [1605]:./1605-find-valid-matrix-given-row-and-column-sums
 [1672]:./1672-richest-customer-wealth
+[1700]:./1700-number-of-students-unable-to-eat-lunch
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
