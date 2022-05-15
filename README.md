@@ -515,7 +515,11 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1700][1700l]|[1700. 无法吃午餐的学生数量][1700]|![rs]&nbsp;&nbsp;|
 |[1381][1381l]|[1381. 设计一个支持增量操作的栈][1381]|![rs]&nbsp;&nbsp;|
 |**第15天：深度优先搜索**|||
-|||![rs]&nbsp;&nbsp;|
+|[565][565l]|[565. 数组嵌套][565]|![rs]&nbsp;&nbsp;|
+|[401][401l]|[401. 二进制手表][401]|![rs]&nbsp;&nbsp;|
+|[1079][1079l]|[1079. 活字印刷][1079]|![rs]&nbsp;&nbsp;|
+|[1219][1219l]|[1219. 黄金矿工][1219]|![rs]&nbsp;&nbsp;|
+|[1267][1267l]|[1267. 统计参与通信的服务器][1267]|![rs]&nbsp;&nbsp;|
 |**第16天：队列**|||
 |||![rs]&nbsp;&nbsp;|
 |**第17天：广度优先搜索**|||
@@ -651,6 +655,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [349]:./0349-intersection-of-two-arrays
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
+[401]:./0401-binary-watch
 [416]:./0416-partition-equal-subset-sum
 [430]:./0430-flatten-a-multilevel-doubly-linked-list
 [437]:./0437-path-sum-iii
@@ -661,6 +666,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [461]:./0461-hamming-distance
 [494]:./0494-target-sum
 [518]:./0518-coin-change-2
+[565]:./0565-array-nesting
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
 [706]:./0706-design-hashmap
@@ -683,10 +689,13 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
 [1094]:./1094-car-pooling
 [1052]:./1052-grumpy-bookstore-owner
+[1079]:./1079-letter-tile-possibilities
 [1108]:./1108-defanging-an-ip-address
 [1122]:./1122-relative-sort-array
 [1143]:./1143-longest-common-subsequence
+[1219]:./1219-path-with-maximum-gold
 [1221]:./1221-split-a-string-in-balanced-strings
+[1267]:./1267-count-servers-that-communicate
 [1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
 [1329]:./1329-sort-the-matrix-diagonally
@@ -1345,6 +1354,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1054l]:https://leetcode-cn.com/problems/distant-barcodes/
 [1071l]:https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode-cn.com/problems/occurrences-after-bigram/
+[1079l]:https://leetcode.cn/problems/letter-tile-possibilities/
 [1089l]:https://leetcode-cn.com/problems/duplicate-zeros/
 [1090l]:https://leetcode-cn.com/problems/largest-values-from-labels/
 [1091l]:https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/
@@ -1373,6 +1383,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1207l]:https://leetcode-cn.com/problems/unique-number-of-occurrences/
 [1209l]:https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode-cn.com/problems/play-with-chips/
+[1219l]:https://leetcode.cn/problems/path-with-maximum-gold/
 [1220l]:https://leetcode-cn.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode-cn.com/problems/queens-that-can-attack-the-king/
