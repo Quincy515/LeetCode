@@ -521,7 +521,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1219][1219l]|[1219. 黄金矿工][1219]|![rs]&nbsp;&nbsp;|
 |[1267][1267l]|[1267. 统计参与通信的服务器][1267]|![rs]&nbsp;&nbsp;|
 |**第16天：队列**|||
-|||![rs]&nbsp;&nbsp;|
+|[933][933l]|[933. 最近的请求次数][933]|![rs]&nbsp;&nbsp;|
+|[2073][2073l]|[2073. 买票需要的时间][2073]|![rs]&nbsp;&nbsp;|
+|[641][641l]|[641. 设计循环双端队列][641]|![rs]&nbsp;&nbsp;|
+|[1670][1670l]|[1670. 设计前中后队列][1670]|![rs]&nbsp;&nbsp;|
 |**第17天：广度优先搜索**|||
 |||![rs]&nbsp;&nbsp;|
 |**第18天：树**|||
@@ -667,6 +670,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [494]:./0494-target-sum
 [518]:./0518-coin-change-2
 [565]:./0565-array-nesting
+[641]:./0641-design-circular-deque
 [658]:./0658-find-k-closest-elements
 [704]:./0704-binary-search
 [706]:./0706-design-hashmap
@@ -682,6 +686,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [885]:./0885-spiral-matrix-iii
 [911]:./0911-online-election
 [917]:./0917-reverse-only-letters
+[933]:./0933-number-of-recent-calls
 [942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
 [1019]:./1019-next-greater-node-in-linked-list
@@ -711,6 +716,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
 [1605]:./1605-find-valid-matrix-given-row-and-column-sums
+[1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
@@ -718,6 +724,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
 [1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [2006]:./2006-count-number-of-pairs-with-absolute-difference-k
+[2073]:./2073-time-needed-to-buy-tickets
 [2016]:./2016-maximum-difference-between-increasing-elements
 [2144]:./2144-minimum-cost-of-buying-candies-with-discount
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
@@ -944,6 +951,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [133l]:https://leetcode-cn.com/problems/clone-graph/
 [134l]:https://leetcode-cn.com/problems/gas-station/
 [136l]:https://leetcode-cn.com/problems/single-number/
+[137l]:https://leetcode.cn/problems/single-number-ii/
 [138l]:https://leetcode-cn.com/problems/copy-list-with-random-pointer/
 [139l]:https://leetcode-cn.com/problems/word-break/
 [141l]:https://leetcode-cn.com/problems/linked-list-cycle/
@@ -1167,6 +1175,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [628l]:https://leetcode-cn.com/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode-cn.com/problems/sum-of-square-numbers/
 [637l]:https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/
+[641l]:https://leetcode.cn/problems/design-circular-deque/
 [643l]:https://leetcode-cn.com/problems/maximum-average-subarray-i/
 [645l]:https://leetcode-cn.com/problems/set-mismatch/
 [647l]:https://leetcode-cn.com/problems/palindromic-substrings/
@@ -1282,6 +1291,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [901l]:https://leetcode-cn.com/problems/online-stock-span/
 [905l]:https://leetcode-cn.com/problems/sort-array-by-parity/
 [908l]:https://leetcode-cn.com/problems/smallest-range-i/
+[911l]:https://leetcode.cn/problems/online-election/
 [912l]:https://leetcode-cn.com/problems/sort-an-array/
 [914l]:https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/
 [915l]:https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/
@@ -1525,6 +1535,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1592l]:https://leetcode-cn.com/problems/rearrange-spaces-between-words/
 [1598l]:https://leetcode-cn.com/problems/crawler-log-folder/
 [1603l]:https://leetcode-cn.com/problems/design-parking-system/
+[1605l]:https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/
 [1608l]:https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode-cn.com/problems/even-odd-tree/
 [1614l]:https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
@@ -1571,6 +1582,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1984l]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [2006l]:https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2016l]:https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
+[2073]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
 [2144l]:https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2239l]:https://leetcode-cn.com/problems/find-closest-number-to-zero/
 [2248l]:https://leetcode-cn.com/problems/intersection-of-multiple-arrays/
