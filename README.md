@@ -526,7 +526,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[641][641l]|[641. 设计循环双端队列][641]|![rs]&nbsp;&nbsp;|
 |[1670][1670l]|[1670. 设计前中后队列][1670]|![rs]&nbsp;&nbsp;|
 |**第17天：广度优先搜索**|||
-|||![rs]&nbsp;&nbsp;|
+|[lcp44][lcp44l]|[LCP 44. 开幕式焰火][lcp44]|![rs]&nbsp;&nbsp;|
+|[102][102l]|[102. 二叉树的层序遍历][102]|![rs]&nbsp;&nbsp;|
+|[1609][1609l]|[1609. 奇偶树][1609]|![rs]&nbsp;&nbsp;|
+|[1263][1263l]|[1263. 推箱子][1263]|![rs]&nbsp;&nbsp;|
 |**第18天：树**|||
 |||![rs]&nbsp;&nbsp;|
 |**第19天：二叉树**|||
@@ -614,6 +617,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
 [93]:./0093-restore-ip-addresses
+[102]:./0102-binary-tree-level-order-traversal
 [120]:./0120-triangle
 [121]:./0121-best-time-to-buy-and-sell-stock
 [125]:./0125-valid-palindrome
@@ -700,6 +704,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1143]:./1143-longest-common-subsequence
 [1219]:./1219-path-with-maximum-gold
 [1221]:./1221-split-a-string-in-balanced-strings
+[1263]:./1263-minimum-moves-to-move-a-box-to-their-target-location
 [1267]:./1267-count-servers-that-communicate
 [1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
@@ -716,6 +721,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
 [1605]:./1605-find-valid-matrix-given-row-and-column-sums
+[1609]:./1609-even-odd-tree
 [1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
@@ -759,7 +765,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [offer58-2]:./offer58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof
 [offer67]:./offer67-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof
 [offerII024]:./offerII024-UHnkqh
+[lcp44]:./lcp44-sZ59z6
 
+[lcp44l]:https://leetcode.cn/problems/sZ59z6/
 [offer03l]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 [offer05l]:https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 [offer06l]:https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
@@ -1408,6 +1416,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1260l]:https://leetcode-cn.com/problems/shift-2d-grid/
 [1261l]:https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/
+[1263l]:https://leetcode.cn/problems/minimum-moves-to-move-a-box-to-their-target-location/
 [1266l]:https://leetcode-cn.com/problems/minimum-time-visiting-all-points/
 [1267l]:https://leetcode-cn.com/problems/count-servers-that-communicate/
 [1268l]:https://leetcode-cn.com/problems/search-suggestions-system/
