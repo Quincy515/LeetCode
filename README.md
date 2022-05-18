@@ -536,7 +536,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[cci04.06][cci04.06l]|[面试题 04.06. 后继者][cci04.06]|![rs]&nbsp;&nbsp;|
 |[1110][1110l]|[1110. 删点成林][1110]|![rs]&nbsp;&nbsp;|
 |**第19天：二叉树**|||
-|||![rs]&nbsp;&nbsp;|
+|[144][144l]|[144. 二叉树的前序遍历][144]|![rs]&nbsp;&nbsp;|
+|[94][94l]|[94. 二叉树的中序遍历][94]|![rs]&nbsp;&nbsp;|
+|[145][145l]|[145. 二叉树的后序遍历][145]|![rs]&nbsp;&nbsp;|
+|[104][104l]|[104. 二叉树的最大深度][104]|![rs]&nbsp;&nbsp;|
 |**第20天：二叉搜索树**|||
 |||![rs]&nbsp;&nbsp;|
 |**第21天：堆**|||
@@ -620,7 +623,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [90]:./0090-subsets-ii
 [92]:./0092-reverse-linked-list-ii
 [93]:./0093-restore-ip-addresses
+[94]:./0094-binary-tree-inorder-traversal
 [102]:./0102-binary-tree-level-order-traversal
+[104]:./0104-maximum-depth-of-binary-tree
 [120]:./0120-triangle
 [121]:./0121-best-time-to-buy-and-sell-stock
 [125]:./0125-valid-palindrome
@@ -630,6 +635,8 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [138]:./0138-copy-list-with-random-pointer
 [139]:./0139-word-break
 [141]:./0141-linked-list-cycle
+[144]:./0144-binary-tree-preorder-traversal
+[145]:./0145-binary-tree-postorder-traversal
 [153]:./0153-find-minimum-in-rotated-sorted-array
 [154]:./0154-find-minimum-in-rotated-sorted-array-ii
 [155]:./0155-min-stack
