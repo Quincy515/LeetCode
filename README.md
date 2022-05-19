@@ -541,7 +541,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[145][145l]|[145. 二叉树的后序遍历][145]|![rs]&nbsp;&nbsp;|
 |[104][104l]|[104. 二叉树的最大深度][104]|![rs]&nbsp;&nbsp;|
 |**第20天：二叉搜索树**|||
-|||![rs]&nbsp;&nbsp;|
+|[700][700l]|[700. 二叉搜索树中的搜索][700]|![rs]&nbsp;&nbsp;|
+|[230][230l]|[230. 二叉搜索树中第K小的元素][230]|![rs]&nbsp;&nbsp;|
+|[108][108l]|[108. 将有序数组转换为二叉搜索树][108]|![rs]&nbsp;&nbsp;|
+|[1382][1382l]|[1382. 将二叉搜索树变平衡][1382]|![rs]&nbsp;&nbsp;|
 |**第21天：堆**|||
 |||![rs]&nbsp;&nbsp;|
 |**第22天：有序集合**|||
@@ -626,6 +629,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [94]:./0094-binary-tree-inorder-traversal
 [102]:./0102-binary-tree-level-order-traversal
 [104]:./0104-maximum-depth-of-binary-tree
+[108]:./0108-convert-sorted-array-to-binary-search-tree
 [111]:./0111-minimum-depth-of-binary-tree
 [120]:./0120-triangle
 [121]:./0121-best-time-to-buy-and-sell-stock
@@ -654,6 +658,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [207]:./0207-course-schedule
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
+[230]:./0230-kth-smallest-element-in-a-bst
 [231]:./0231-power-of-two
 [232]:./0232-implement-queue-using-stacks
 [234]:./0234-palindrome-linked-list
@@ -726,6 +731,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1351]:./1351-count-negative-numbers-in-a-sorted-matrix
 [1381]:./1381-design-a-stack-with-increment-operation
+[1382]:./1382-balance-a-binary-search-tree
 [1400]:./1400-construct-k-palindrome-strings
 [1441]:./1441-build-an-array-with-stack-operations
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
