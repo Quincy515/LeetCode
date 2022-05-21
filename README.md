@@ -546,7 +546,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[108][108l]|[108. 将有序数组转换为二叉搜索树][108]|![rs]&nbsp;&nbsp;|
 |[1382][1382l]|[1382. 将二叉搜索树变平衡][1382]|![rs]&nbsp;&nbsp;|
 |**第21天：堆**|||
-|||![rs]&nbsp;&nbsp;|
+|[2099][2099l]|[2099. 找到和最大的长度为 K 的子序列][2099]|![rs]&nbsp;&nbsp;|
+|[1792][1792l]|[1792. 最大平均通过率][1792]|![rs]&nbsp;&nbsp;|
+|[1499][1499l]|[1499. 满足不等式的最大值][1499]|![rs]&nbsp;&nbsp;|
+|[2163][2163l]|[2163. 删除元素后和的最小差值][2163]|![rs]&nbsp;&nbsp;|
 |**第22天：有序集合**|||
 |||![rs]&nbsp;&nbsp;|
 |**第23天：字典树**|||
@@ -737,6 +740,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1472]:./1472-design-browser-history
 [1480]:./1480-running-sum-of-1d-array
+[1499]:./1499-max-value-of-equation
 [1512]:./1512-number-of-good-pairs
 [1552]:./1552-magnetic-force-between-two-balls
 [1588]:./1588-sum-of-all-odd-length-subarrays
@@ -745,14 +749,17 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
+[1792]:./1792-maximum-average-pass-ratio
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
 [1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [2006]:./2006-count-number-of-pairs-with-absolute-difference-k
 [2073]:./2073-time-needed-to-buy-tickets
+[2099]:./2099-find-subsequence-of-length-k-with-the-largest-sum
 [2016]:./2016-maximum-difference-between-increasing-elements
 [2144]:./2144-minimum-cost-of-buying-candies-with-discount
+[2163]:./2163-minimum-difference-in-sums-after-removal-of-elements
 [2236]:./2236-root-equals-sum-of-children
 [cci03.05]:./cci03.05-sort-of-stacks-lcci
 [cci04.06]:./cci04.06-successor-lcci
@@ -1535,6 +1542,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1491l]:https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.cn/problems/the-kth-factor-of-n/
 [1496l]:https://leetcode.cn/problems/path-crossing/
+[1499l]:https://leetcode.cn/problems/max-value-of-equation/
 [1502l]:https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode.cn/problems/reformat-date/
 [1509l]:https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
@@ -1607,6 +1615,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
 [1753l]:https://leetcode.cn/problems/maximum-score-from-removing-stones/
+[1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
 [1827l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/
 [1839l]:https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
@@ -1616,7 +1625,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
+[2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2144l]:https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/
+[2163l]:https://leetcode.cn/problems/minimum-difference-in-sums-after-removal-of-elements/
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
 [2248l]:https://leetcode.cn/problems/intersection-of-multiple-arrays/
