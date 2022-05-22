@@ -551,7 +551,8 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1499][1499l]|[1499. 满足不等式的最大值][1499]|![rs]&nbsp;&nbsp;|
 |[2163][2163l]|[2163. 删除元素后和的最小差值][2163]|![rs]&nbsp;&nbsp;|
 |**第22天：有序集合**|||
-|||![rs]&nbsp;&nbsp;|
+|[1418][1418l]|[1418. 点菜展示表][1418]|![rs]&nbsp;&nbsp;|
+|[363][363l]|[363. 矩形区域不超过 K 的最大数值和][363]|![rs]&nbsp;&nbsp;|
 |**第23天：字典树**|||
 |||![rs]&nbsp;&nbsp;|
 |**第24天：线段树**|||
@@ -679,6 +680,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [337]:./0337-house-robber-iii
 [344]:./0344-reverse-string
 [349]:./0349-intersection-of-two-arrays
+[363]:./0363-max-sum-of-rectangle-no-larger-than-k
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [401]:./0401-binary-watch
@@ -1095,6 +1097,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [349l]:https://leetcode.cn/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.cn/problems/intersection-of-two-arrays-ii/
 [357l]:https://leetcode.cn/problems/count-numbers-with-unique-digits/
+[363l]:https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k/
 [365l]:https://leetcode.cn/problems/water-and-jug-problem/
 [367l]:https://leetcode.cn/problems/valid-perfect-square/
 [369l]:https://leetcode.cn/problems/plus-one-linked-list/
@@ -1514,6 +1517,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1410l]:https://leetcode.cn/problems/html-entity-parser/
 [1413l]:https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
+[1418l]:https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.cn/problems/diagonal-traverse-ii/
