@@ -738,6 +738,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1381]:./1381-design-a-stack-with-increment-operation
 [1382]:./1382-balance-a-binary-search-tree
 [1400]:./1400-construct-k-palindrome-strings
+[1418]:./1418-display-table-of-food-orders-in-a-restaurant
 [1441]:./1441-build-an-array-with-stack-operations
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1472]:./1472-design-browser-history
