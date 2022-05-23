@@ -1,5 +1,11 @@
 # LeetCode
 
+## 必背模板
+
+|#|Title| LeetCode |
+| --- | --- | --- |
+| [208][208l] | Trie 前缀树 字典树 | [208. 实现 Trie (前缀树)][208]|
+
 ## Rust 算法相关仓库
 
 ### 数据结构与算法实现
@@ -551,9 +557,13 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1499][1499l]|[1499. 满足不等式的最大值][1499]|![rs]&nbsp;&nbsp;|
 |[2163][2163l]|[2163. 删除元素后和的最小差值][2163]|![rs]&nbsp;&nbsp;|
 |**第22天：有序集合**|||
-|||![rs]&nbsp;&nbsp;|
+|[1418][1418l]|[1418. 点菜展示表][1418]|![rs]&nbsp;&nbsp;|
+|[363][363l]|[363. 矩形区域不超过 K 的最大数值和][363]|![rs]&nbsp;&nbsp;|
 |**第23天：字典树**|||
-|||![rs]&nbsp;&nbsp;|
+|[211][211l]|[211. 添加与搜索单词 - 数据结构设计][211]|![rs]&nbsp;&nbsp;|
+|[1268][1268l]|[1268. 搜索推荐系统][1268]|![rs]&nbsp;&nbsp;|
+|[421][421l]|[421. 数组中两个数的最大异或值][421]|![rs]&nbsp;&nbsp;|
+|[1707][1707l]|[1707. 与数组中元素的最大异或值][1707]|![rs]&nbsp;&nbsp;|
 |**第24天：线段树**|||
 |||![rs]&nbsp;&nbsp;|
 |**第25天：树状数组**|||
@@ -659,6 +669,8 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
 [207]:./0207-course-schedule
+[208]:./0208-implement-trie-prefix-tree
+[211]:./0211-design-add-and-search-words-data-structure
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
 [230]:./0230-kth-smallest-element-in-a-bst
@@ -679,10 +691,12 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [337]:./0337-house-robber-iii
 [344]:./0344-reverse-string
 [349]:./0349-intersection-of-two-arrays
+[363]:./0363-max-sum-of-rectangle-no-larger-than-k
 [367]:./0367-valid-perfect-square
 [374]:./0374-guess-number-higher-or-lower
 [401]:./0401-binary-watch
 [416]:./0416-partition-equal-subset-sum
+[421]:./0421-maximum-xor-of-two-numbers-in-an-array
 [430]:./0430-flatten-a-multilevel-doubly-linked-list
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
@@ -728,6 +742,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1221]:./1221-split-a-string-in-balanced-strings
 [1263]:./1263-minimum-moves-to-move-a-box-to-their-target-location
 [1267]:./1267-count-servers-that-communicate
+[1268]:./1268-search-suggestions-system
 [1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
 [1329]:./1329-sort-the-matrix-diagonally
@@ -736,6 +751,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1381]:./1381-design-a-stack-with-increment-operation
 [1382]:./1382-balance-a-binary-search-tree
 [1400]:./1400-construct-k-palindrome-strings
+[1418]:./1418-display-table-of-food-orders-in-a-restaurant
 [1441]:./1441-build-an-array-with-stack-operations
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1472]:./1472-design-browser-history
@@ -749,6 +765,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
+[1707]:./1707-maximum-xor-with-an-element-from-array
 [1792]:./1792-maximum-average-pass-ratio
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
@@ -1095,6 +1112,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [349l]:https://leetcode.cn/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.cn/problems/intersection-of-two-arrays-ii/
 [357l]:https://leetcode.cn/problems/count-numbers-with-unique-digits/
+[363l]:https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k/
 [365l]:https://leetcode.cn/problems/water-and-jug-problem/
 [367l]:https://leetcode.cn/problems/valid-perfect-square/
 [369l]:https://leetcode.cn/problems/plus-one-linked-list/
@@ -1514,6 +1532,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1410l]:https://leetcode.cn/problems/html-entity-parser/
 [1413l]:https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
+[1418l]:https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.cn/problems/diagonal-traverse-ii/
@@ -1607,6 +1626,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1694l]:https://leetcode.cn/problems/reformat-phone-number/
 [1700l]:https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
+[1707l]:https://leetcode.cn/problems/maximum-xor-with-an-element-from-array/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode.cn/problems/decode-xored-array/
