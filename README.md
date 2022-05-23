@@ -560,7 +560,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1418][1418l]|[1418. 点菜展示表][1418]|![rs]&nbsp;&nbsp;|
 |[363][363l]|[363. 矩形区域不超过 K 的最大数值和][363]|![rs]&nbsp;&nbsp;|
 |**第23天：字典树**|||
-|||![rs]&nbsp;&nbsp;|
+|[211][211l]|[211. 添加与搜索单词 - 数据结构设计][211]|![rs]&nbsp;&nbsp;|
+|[1268][1268l]|[1268. 搜索推荐系统][1268]|![rs]&nbsp;&nbsp;|
+|[421][421l]|[421. 数组中两个数的最大异或值][421]|![rs]&nbsp;&nbsp;|
+|[1707][1707l]|[1707. 与数组中元素的最大异或值][1707]|![rs]&nbsp;&nbsp;|
 |**第24天：线段树**|||
 |||![rs]&nbsp;&nbsp;|
 |**第25天：树状数组**|||
@@ -667,6 +670,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [206]:./0206-reverse-linked-list
 [207]:./0207-course-schedule
 [208]:./0208-implement-trie-prefix-tree
+[211]:./0211-design-add-and-search-words-data-structure
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
 [230]:./0230-kth-smallest-element-in-a-bst
@@ -692,6 +696,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [374]:./0374-guess-number-higher-or-lower
 [401]:./0401-binary-watch
 [416]:./0416-partition-equal-subset-sum
+[421]:./0421-maximum-xor-of-two-numbers-in-an-array
 [430]:./0430-flatten-a-multilevel-doubly-linked-list
 [437]:./0437-path-sum-iii
 [438]:./0438-find-all-anagrams-in-a-string
@@ -737,6 +742,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1221]:./1221-split-a-string-in-balanced-strings
 [1263]:./1263-minimum-moves-to-move-a-box-to-their-target-location
 [1267]:./1267-count-servers-that-communicate
+[1268]:./1268-search-suggestions-system
 [1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
 [1329]:./1329-sort-the-matrix-diagonally
@@ -759,6 +765,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
+[1707]:./1707-maximum-xor-with-an-element-from-array
 [1792]:./1792-maximum-average-pass-ratio
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
@@ -1619,6 +1626,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1694l]:https://leetcode.cn/problems/reformat-phone-number/
 [1700l]:https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
+[1707l]:https://leetcode.cn/problems/maximum-xor-with-an-element-from-array/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode.cn/problems/decode-xored-array/

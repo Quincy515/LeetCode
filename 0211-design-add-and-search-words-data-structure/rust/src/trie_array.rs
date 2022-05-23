@@ -27,7 +27,9 @@ impl WordDictionary {
         if index == word.len() {
             return curr.is_ending;
         }
+        // 遇到通配符
         if word[index] == '.' {
+            // pattern[i] 可以变化成任意字符，尝试所有可能，只要遇到一个匹配成功就返回
             for i in 0..26 {
                 if let Some(node) = &curr.children[i] {
                     if node.dfs(word, index + 1) {
@@ -35,8 +37,10 @@ impl WordDictionary {
                     }
                 }
             }
+            // 都没有匹配
             return false;
         } else if let Some(node) = &curr.children[(word[index] as u8 - b'a') as usize] {
+            // 从 node.children[c] 节点开始匹配 pattern[i+1..]
             return node.dfs(word, index + 1);
         }
         false
