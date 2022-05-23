@@ -1,5 +1,11 @@
 # LeetCode
 
+## 必背模板
+
+|#|Title| LeetCode |
+| --- | --- | --- |
+| [208][208l] | Trie 前缀树 字典树 | [208. 实现 Trie (前缀树)][208]|
+
 ## Rust 算法相关仓库
 
 ### 数据结构与算法实现
@@ -660,6 +666,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [203]:./0203-remove-linked-list-elements
 [206]:./0206-reverse-linked-list
 [207]:./0207-course-schedule
+[208]:./0208-implement-trie-prefix-tree
 [213]:./0213-house-robber-ii
 [216]:./0216-combination-sum-iii
 [230]:./0230-kth-smallest-element-in-a-bst
