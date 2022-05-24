@@ -1,54 +1,3 @@
-# [303.区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/description/)
-
-给定一个整数数组  `nums`，处理以下类型的多个查询:
-
-1. 计算索引 `left` 和 `right` （包含 `left` 和 `right`）之间的 `nums` 元素的 **和** ，其中 `left <= right`
-
-实现 `NumArray` 类：
-
-- `NumArray(int[] nums)` 使用数组 `nums` 初始化对象
-- `int sumRange(int i, int j)` 返回数组 `nums` 中索引 `left` 和 `right` 之间的元素的 **总和** ，包含 `left` 和 `right` 两点（也就是 `nums[left] + nums[left + 1] + ... + nums[right]` )
-
- 
-
-**示例 1：**
-
-```
-输入：
-["NumArray", "sumRange", "sumRange", "sumRange"]
-[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
-输出：
-[null, 1, -1, -3]
-
-解释：
-NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
-numArray.sumRange(0, 2); // return 1 ((-2) + 0 + 3)
-numArray.sumRange(2, 5); // return -1 (3 + (-5) + 2 + (-1)) 
-numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
-```
-
- 
-
-**提示：**
-
-- `1 <= nums.length <= 104`
-- `-105 <= nums[i] <= 105`
-- `0 <= i <= j < nums.length`
-- 最多调用 `104` 次 `sumRange` 方法
-
-------
-
-[Discussion](https://leetcode.cn/problems/range-sum-query-immutable/comments/) | [Solution](https://leetcode.cn/problems/range-sum-query-immutable/solution/)
-
-**思路**
-
-线段树 [307.线段树的查询和更新](../0307-range-sum-query-mutable)
-
-**题解**
-
-```rust
-mod num_array;
-
 struct NumArray {
     segment_tree: SegmentTree,
 }
@@ -63,6 +12,10 @@ impl NumArray {
         Self { segment_tree }
     }
 
+    fn update(&mut self, index: i32, val: i32) {
+        self.segment_tree.set(index as usize, val);
+    }
+
     fn sum_range(&self, left: i32, right: i32) -> i32 {
         self.segment_tree
             .query(left as usize, right as usize)
@@ -73,7 +26,8 @@ impl NumArray {
 /**
  * Your NumArray object will be instantiated and called as such:
  * let obj = NumArray::new(nums);
- * let ret_1: i32 = obj.sum_range(left, right);
+ * obj.update(index, val);
+ * let ret_2: i32 = obj.sum_range(left, right);
  */
 
 pub struct SegmentTree {
@@ -150,28 +104,42 @@ impl SegmentTree {
         let right_result = self.recursive(right_tree_index, mid + 1, r, mid + 1, query_right);
         left_result + right_result
     }
-}
-```
 
-因为数据不可变，不是动态数据，可以不使用线段树
-
-```rust
-struct NumArray {
-    sum: Vec<i32>,
-}
-
-impl NumArray {
-    fn new(nums: Vec<i32>) -> Self {
-        let mut sum = vec![0; nums.len() + 1];
-        for i in 1..sum.len() {
-            sum[i] = sum[i - 1] + nums[i - 1];
+    // 将 index 位置的值，更新为 val
+    pub fn set(&mut self, index: usize, val: i32) {
+        if index >= self.data.len() {
+            return;
         }
-        Self { sum }
+        self.data[index] = val;
+        self.recursive_set(0, 0, self.data.len() - 1, index, val);
     }
 
-    fn sum_range(&self, left: i32, right: i32) -> i32 {
-        self.sum[right as usize + 1] - self.sum[left as usize]
+    // 在以 tree_index 为根的线段树中更新 index 的值为 val
+    fn recursive_set(&mut self, tree_index: usize, l: usize, r: usize, index: usize, val: i32) {
+        if l == r {
+            self.tree[tree_index] = val;
+            return;
+        }
+
+        let mid = l + (r - l) / 2;
+        let left_tree_index = tree_index * 2 + 1;
+        let right_tree_index = tree_index * 2 + 2;
+
+        if index > mid {
+            self.recursive_set(right_tree_index, mid + 1, r, index, val);
+        } else {
+            self.recursive_set(left_tree_index, l, mid, index, val); // index <= mid
+        }
+
+        self.tree[tree_index] = self.tree[left_tree_index] + self.tree[right_tree_index];
     }
 }
-```
 
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn it_works() {
+        let result = 2 + 2;
+        assert_eq!(result, 4);
+    }
+}

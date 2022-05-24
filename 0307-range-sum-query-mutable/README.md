@@ -1,13 +1,15 @@
-# [303.区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/description/)
+# [307.区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/description/)
 
-给定一个整数数组  `nums`，处理以下类型的多个查询:
+给你一个数组 `nums` ，请你完成两类查询。
 
-1. 计算索引 `left` 和 `right` （包含 `left` 和 `right`）之间的 `nums` 元素的 **和** ，其中 `left <= right`
+1. 其中一类查询要求 **更新** 数组 `nums` 下标对应的值
+2. 另一类查询要求返回数组 `nums` 中索引 `left` 和索引 `right` 之间（ **包含** ）的nums元素的 **和** ，其中 `left <= right`
 
 实现 `NumArray` 类：
 
-- `NumArray(int[] nums)` 使用数组 `nums` 初始化对象
-- `int sumRange(int i, int j)` 返回数组 `nums` 中索引 `left` 和 `right` 之间的元素的 **总和** ，包含 `left` 和 `right` 两点（也就是 `nums[left] + nums[left + 1] + ... + nums[right]` )
+- `NumArray(int[] nums)` 用整数数组 `nums` 初始化对象
+- `void update(int index, int val)` 将 `nums[index]` 的值 **更新** 为 `val`
+- `int sumRange(int left, int right)` 返回数组 `nums` 中索引 `left` 和索引 `right` 之间（ **包含** ）的nums元素的 **和** （即，`nums[left] + nums[left + 1], ..., nums[right]`）
 
  
 
@@ -15,40 +17,40 @@
 
 ```
 输入：
-["NumArray", "sumRange", "sumRange", "sumRange"]
-[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
+["NumArray", "sumRange", "update", "sumRange"]
+[[[1, 3, 5]], [0, 2], [1, 2], [0, 2]]
 输出：
-[null, 1, -1, -3]
+[null, 9, null, 8]
 
 解释：
-NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
-numArray.sumRange(0, 2); // return 1 ((-2) + 0 + 3)
-numArray.sumRange(2, 5); // return -1 (3 + (-5) + 2 + (-1)) 
-numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
+NumArray numArray = new NumArray([1, 3, 5]);
+numArray.sumRange(0, 2); // 返回 1 + 3 + 5 = 9
+numArray.update(1, 2);   // nums = [1,2,5]
+numArray.sumRange(0, 2); // 返回 1 + 2 + 5 = 8
 ```
 
  
 
 **提示：**
 
-- `1 <= nums.length <= 104`
-- `-105 <= nums[i] <= 105`
-- `0 <= i <= j < nums.length`
-- 最多调用 `104` 次 `sumRange` 方法
+- `1 <= nums.length <= 3 * 104`
+- `-100 <= nums[i] <= 100`
+- `0 <= index < nums.length`
+- `-100 <= val <= 100`
+- `0 <= left <= right < nums.length`
+- 调用 `update` 和 `sumRange` 方法次数不大于 `3 * 104` 
 
 ------
 
-[Discussion](https://leetcode.cn/problems/range-sum-query-immutable/comments/) | [Solution](https://leetcode.cn/problems/range-sum-query-immutable/solution/)
+[Discussion](https://leetcode.cn/problems/range-sum-query-mutable/comments/) | [Solution](https://leetcode.cn/problems/range-sum-query-mutable/solution/)
 
 **思路**
 
-线段树 [307.线段树的查询和更新](../0307-range-sum-query-mutable)
+线段树 [303.线段树的查询](../0303-range-sum-query-immutable)
 
 **题解**
 
 ```rust
-mod num_array;
-
 struct NumArray {
     segment_tree: SegmentTree,
 }
@@ -63,6 +65,10 @@ impl NumArray {
         Self { segment_tree }
     }
 
+    fn update(&mut self, index: i32, val: i32) {
+        self.segment_tree.set(index as usize, val);
+    }
+
     fn sum_range(&self, left: i32, right: i32) -> i32 {
         self.segment_tree
             .query(left as usize, right as usize)
@@ -73,7 +79,8 @@ impl NumArray {
 /**
  * Your NumArray object will be instantiated and called as such:
  * let obj = NumArray::new(nums);
- * let ret_1: i32 = obj.sum_range(left, right);
+ * obj.update(index, val);
+ * let ret_2: i32 = obj.sum_range(left, right);
  */
 
 pub struct SegmentTree {
@@ -150,27 +157,34 @@ impl SegmentTree {
         let right_result = self.recursive(right_tree_index, mid + 1, r, mid + 1, query_right);
         left_result + right_result
     }
-}
-```
 
-因为数据不可变，不是动态数据，可以不使用线段树
-
-```rust
-struct NumArray {
-    sum: Vec<i32>,
-}
-
-impl NumArray {
-    fn new(nums: Vec<i32>) -> Self {
-        let mut sum = vec![0; nums.len() + 1];
-        for i in 1..sum.len() {
-            sum[i] = sum[i - 1] + nums[i - 1];
+    // 将 index 位置的值，更新为 val
+    pub fn set(&mut self, index: usize, val: i32) {
+        if index >= self.data.len() {
+            return;
         }
-        Self { sum }
+        self.data[index] = val;
+        self.recursive_set(0, 0, self.data.len() - 1, index, val);
     }
 
-    fn sum_range(&self, left: i32, right: i32) -> i32 {
-        self.sum[right as usize + 1] - self.sum[left as usize]
+    // 在以 tree_index 为根的线段树中更新 index 的值为 val
+    fn recursive_set(&mut self, tree_index: usize, l: usize, r: usize, index: usize, val: i32) {
+        if l == r {
+            self.tree[tree_index] = val;
+            return;
+        }
+
+        let mid = l + (r - l) / 2;
+        let left_tree_index = tree_index * 2 + 1;
+        let right_tree_index = tree_index * 2 + 2;
+
+        if index > mid {
+            self.recursive_set(right_tree_index, mid + 1, r, index, val);
+        } else {
+            self.recursive_set(left_tree_index, l, mid, index, val); // index <= mid
+        }
+
+        self.tree[tree_index] = self.tree[left_tree_index] + self.tree[right_tree_index];
     }
 }
 ```

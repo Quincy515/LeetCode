@@ -5,6 +5,7 @@
 |#|Title| LeetCode |
 | --- | --- | --- |
 | [208][208l] | Trie 前缀树 字典树 | [208. 实现 Trie (前缀树)][208]|
+| [307][307l] | 线段树 | [307. 区域和检索 - 数组可修改][307]|
 
 ## Rust 算法相关仓库
 
@@ -685,6 +686,8 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [255]:./0255-implement-stack-using-queues
 [283]:./0283-move-zeroes
 [300]:./0300-longest-increasing-subsequence
+[303]:./0303-range-sum-query-immutable
+[307]:./0307-range-sum-query-mutable
 [309]:./0309-best-time-to-buy-and-sell-stock-with-cooldown
 [322]:./0322-coin-change
 [328]:./0328-odd-even-linked-list
@@ -1094,6 +1097,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [303l]:https://leetcode.cn/problems/range-sum-query-immutable/
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
+[307l]:https://leetcode.cn/problems/range-sum-query-mutable/
 [309l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 [313l]:https://leetcode.cn/problems/super-ugly-number/
 [318l]:https://leetcode.cn/problems/maximum-product-of-word-lengths/
