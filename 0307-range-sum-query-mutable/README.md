@@ -189,3 +189,61 @@ impl SegmentTree {
 }
 ```
 
+### Binary indexed tree 树状数组
+
+```rust
+struct FenwickTree {
+    sums: Vec<i32>,
+}
+
+impl FenwickTree {
+    fn update(&mut self, mut i: usize, delta: i32) {
+        while i < self.sums.len() {
+            self.sums[i] += delta;
+            i += self.lowbit(i);
+        }
+    }
+
+    fn query(&self, mut i: usize) -> i32 {
+        let mut result = 0;
+        while i > 0 {
+            result += self.sums[i];
+            i -= self.lowbit(i);
+        }
+        result
+    }
+
+    fn lowbit(&self, x: usize) -> usize {
+        x & (!x + 1) as usize // x & (-x)
+    }
+}
+
+struct NumArray {
+    nums: Vec<i32>,
+    fenwick_tree: FenwickTree,
+}
+
+impl NumArray {
+    fn new(nums: Vec<i32>) -> Self {
+        let mut fenwick_tree = FenwickTree {
+            sums: vec![0; nums.len() + 1],
+        };
+        for i in 0..nums.len() {
+            fenwick_tree.update(i + 1, nums[i]);
+        }
+
+        Self { nums, fenwick_tree }
+    }
+
+    fn update(&mut self, index: i32, val: i32) {
+        self.fenwick_tree
+            .update(index as usize + 1, val - self.nums[index as usize]);
+        self.nums[index as usize] = val;
+    }
+
+    fn sum_range(&self, left: i32, right: i32) -> i32 {
+        self.fenwick_tree.query(right as usize + 1) - self.fenwick_tree.query(left as usize)
+    }
+}
+```
+
