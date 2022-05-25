@@ -214,7 +214,7 @@ impl FenwickTree {
     }
 
     fn lowbit(&self, x: usize) -> usize {
-        x & (!x + 1) as usize // x & (-x)
+        x & (!x + 1) // x & (-x)
     }
 }
 
