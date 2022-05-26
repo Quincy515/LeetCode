@@ -1115,6 +1115,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [319l]:https://leetcode.cn/problems/bulb-switcher/
 [322l]:https://leetcode.cn/problems/coin-change/
 [326l]:https://leetcode.cn/problems/power-of-three/
+[327l]:https://leetcode.cn/problems/count-of-range-sum/
 [328l]:https://leetcode.cn/problems/odd-even-linked-list/
 [336l]:https://leetcode.cn/problems/palindrome-pairs/
 [337l]:https://leetcode.cn/problems/house-robber-iii/
@@ -1266,6 +1267,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [677l]:https://leetcode.cn/problems/map-sum-pairs/
 [680l]:https://leetcode.cn/problems/valid-palindrome-ii/
 [682l]:https://leetcode.cn/problems/baseball-game/
+[684l]:https://leetcode.cn/problems/redundant-connection/
 [686l]:https://leetcode.cn/problems/repeated-string-match/
 [687l]:https://leetcode.cn/problems/longest-univalue-path/
 [690l]:https://leetcode.cn/problems/employee-importance/
@@ -1351,6 +1353,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [883l]:https://leetcode.cn/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode.cn/problems/uncommon-words-from-two-sentences/
 [885l]:https://leetcode.cn/problems/spiral-matrix-iii/
+[886l]:https://leetcode.cn/problems/possible-bipartition/
 [888l]:https://leetcode.cn/problems/fair-candy-swap/
 [889l]:https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 [892l]:https://leetcode.cn/problems/surface-area-of-3d-shapes/
@@ -1398,6 +1401,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [985l]:https://leetcode.cn/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.cn/problems/interval-list-intersections/
 [989l]:https://leetcode.cn/problems/add-to-array-form-of-interger/
+[990l]:https://leetcode.cn/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.cn/problems/broken-calculator/
 [993l]:https://leetcode.cn/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.cn/problems/rotting-oranges/
@@ -1505,6 +1509,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1315l]:https://leetcode.cn/problems/sum-of-nodes-with-even-valued-grandparent/
 [1317l]:https://leetcode.cn/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1318l]:https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+[1319l]:https://leetcode.cn/problems/number-of-operations-to-make-network-connected/
 [1323l]:https://leetcode.cn/problems/maximum-69-number/
 [1324l]:https://leetcode.cn/problems/print-words-vertically/
 [1325l]:https://leetcode.cn/problems/delete-leaves-with-a-given-value/
