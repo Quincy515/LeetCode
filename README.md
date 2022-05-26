@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | [208][208l] | Trie 前缀树 字典树 | [208. 实现 Trie (前缀树)][208]|
 | [307][307l] | 线段树/树状数组 | [307. 区域和检索 - 数组可修改][307]|
+| [684][684l] | 并查集 |[684. 冗余连接][684]|
 
 ## Rust 算法相关仓库
 
@@ -566,11 +567,17 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[421][421l]|[421. 数组中两个数的最大异或值][421]|![rs]&nbsp;&nbsp;|
 |[1707][1707l]|[1707. 与数组中元素的最大异或值][1707]|![rs]&nbsp;&nbsp;|
 |**第24天：线段树**|||
-|||![rs]&nbsp;&nbsp;|
+|[303][303l]|[303. 区域和检索 - 数组不可变][303]|![rs]&nbsp;&nbsp;|
+|[307][307l]|[307. 区域和检索 - 数组可修改][307]|![rs]&nbsp;&nbsp;|
+|[850][850l]|[850. 矩形面积 II][850]|![rs]&nbsp;&nbsp;|
 |**第25天：树状数组**|||
-|||![rs]&nbsp;&nbsp;|
+|[307][307l]|[307. 区域和检索 - 数组可修改][307]|![rs]&nbsp;&nbsp;|
+|[327][327l]|[327. 区间和的个数][327]|![rs]&nbsp;&nbsp;|
 |**第26天：并查集**|||
-|||![rs]&nbsp;&nbsp;|
+|[684][684l]|[684. 冗余连接][684]|![rs]&nbsp;&nbsp;|
+|[990][990l]|[990. 等式方程的可满足性][990]|![rs]&nbsp;&nbsp;|
+|[1319][1319l]|[1319. 连通网络的操作次数][1319]|![rs]&nbsp;&nbsp;|
+|[886][886l]|[886. 可能的二分法][886]|![rs]&nbsp;&nbsp;|
 |**第27天：图**|||
 |||![rs]&nbsp;&nbsp;|
 |**第28天：动态规划**|||
@@ -690,6 +697,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [307]:./0307-range-sum-query-mutable
 [309]:./0309-best-time-to-buy-and-sell-stock-with-cooldown
 [322]:./0322-coin-change
+[327]:./0327-count-of-range-sum
 [328]:./0328-odd-even-linked-list
 [337]:./0337-house-robber-iii
 [344]:./0344-reverse-string
@@ -712,6 +720,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [565]:./0565-array-nesting
 [641]:./0641-design-circular-deque
 [658]:./0658-find-k-closest-elements
+[684]:./0684-redundant-connection
 [700]:./0700-search-in-a-binary-search-tree
 [701]:./0701-insert-into-a-binary-search-tree
 [704]:./0704-binary-search
@@ -731,6 +740,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [933]:./0933-number-of-recent-calls
 [942]:./0942-di-string-match
 [977]:./0977-squares-of-a-sorted-array
+[990]:./0990-satisfiability-of-equality-equations
 [1019]:./1019-next-greater-node-in-linked-list
 [1021]:./1021-remove-outermost-parentheses
 [1047]:./1047-remove-all-adjacent-duplicates-in-string
@@ -748,6 +758,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1268]:./1268-search-suggestions-system
 [1290]:./1290-convert-binary-number-in-a-linked-list-to-integer
 [1306]:./1306-jump-game-iii
+[1319]:./1319-number-of-operations-to-make-network-connected
 [1329]:./1329-sort-the-matrix-diagonally
 [1347]:./1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1351]:./1351-count-negative-numbers-in-a-sorted-matrix
@@ -1318,6 +1329,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [844l]:https://leetcode.cn/problems/backspace-string-compare/
 [848l]:https://leetcode.cn/problems/shifting-letters/
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
+[850l]:https://leetcode.cn/problems/rectangle-area-ii/
 [852l]:https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.cn/problems/car-fleet/
 [858l]:https://leetcode.cn/problems/mirror-reflection/
