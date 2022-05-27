@@ -579,9 +579,15 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1319][1319l]|[1319. 连通网络的操作次数][1319]|![rs]&nbsp;&nbsp;|
 |[886][886l]|[886. 可能的二分法][886]|![rs]&nbsp;&nbsp;|
 |**第27天：图**|||
-|||![rs]&nbsp;&nbsp;|
+|[1791][1791l]|[1791. 找出星型图的中心节点][1791]|![rs]&nbsp;&nbsp;|
+|[797][797l]|[797. 所有可能的路径][797]|![rs]&nbsp;&nbsp;|
+|[851][851l]|[851. 喧闹和富有][851]|![rs]&nbsp;&nbsp;|
+|[959][959l]|[959. 由斜杠划分区域][959]|![rs]&nbsp;&nbsp;|
 |**第28天：动态规划**|||
-|||![rs]&nbsp;&nbsp;|
+|[70][70l]|[70. 爬楼梯][70]|![rs]&nbsp;&nbsp;|
+|[53][53l]|[53. 最大子数组和][53]|![rs]&nbsp;&nbsp;|
+|[1706][1706l]|[1706. 球会落何处][1706]|![rs]&nbsp;&nbsp;|
+|[][l]|[][]|![rs]&nbsp;&nbsp;|
 |**第29天：分而治之**|||
 |||![rs]&nbsp;&nbsp;|
 |**第30天：拓扑排序**|||
@@ -730,7 +736,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [739]:./0739-daily-temperatures
 [744]:./0744-find-smallest-letter-greater-than-target
 [752]:./0752-open-the-lock
+[797]:./0797-all-paths-from-source-to-target
 [832]:./0832-flipping-an-image
+[851]:./0851-loud-and-rich
 [852]:./0852-peak-index-in-a-mountain-array
 [875]:./0875-koko-eating-bananas
 [876]:./0876-middle-of-the-linked-list
@@ -739,6 +747,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [917]:./0917-reverse-only-letters
 [933]:./0933-number-of-recent-calls
 [942]:./0942-di-string-match
+[959]:./0959-regions-cut-by-slashes
 [977]:./0977-squares-of-a-sorted-array
 [990]:./0990-satisfiability-of-equality-equations
 [1019]:./1019-next-greater-node-in-linked-list
@@ -779,7 +788,9 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1670]:./1670-design-front-middle-back-queue
 [1672]:./1672-richest-customer-wealth
 [1700]:./1700-number-of-students-unable-to-eat-lunch
+[1706]:./1706-where-will-the-ball-fall
 [1707]:./1707-maximum-xor-with-an-element-from-array
+[1791]:./1791-find-center-of-star-graph
 [1792]:./1792-maximum-average-pass-ratio
 [1827]:./1827-minimum-operations-to-make-the-array-increasing
 [1839]:./1839-longest-substring-of-all-vowels-in-order
@@ -1311,6 +1322,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [789l]:https://leetcode.cn/problems/escape-the-ghosts/
 [791l]:https://leetcode.cn/problems/custom-sort-string/
 [796l]:https://leetcode.cn/problems/rotate-string/
+[797l]:https://leetcode.cn/problems/all-paths-from-source-to-target/
 [804l]:https://leetcode.cn/problems/unique-morse-code-words/
 [806l]:https://leetcode.cn/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode.cn/problems/max-increase-to-keep-city-skyline/
@@ -1332,6 +1344,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [848l]:https://leetcode.cn/problems/shifting-letters/
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
 [850l]:https://leetcode.cn/problems/rectangle-area-ii/
+[851l]:https://leetcode.cn/problems/loud-and-rich/
 [852l]:https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.cn/problems/car-fleet/
 [858l]:https://leetcode.cn/problems/mirror-reflection/
@@ -1390,6 +1403,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [951l]:https://leetcode.cn/problems/flip-equivalent-binary-trees/
 [953l]:https://leetcode.cn/problems/verifying-an-alien-dictionary/
 [957l]:https://leetcode.cn/problems/prison-cells-after-n-days/
+[959l]:https://leetcode.cn/problems/regions-cut-by-slashes/
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.cn/problems/maximum-width-ramp/
 [965l]:https://leetcode.cn/problems/univalued-binary-tree/
@@ -1647,6 +1661,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1694l]:https://leetcode.cn/problems/reformat-phone-number/
 [1700l]:https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
+[1706l]:https://leetcode.cn/problems/where-will-the-ball-fall/
 [1707l]:https://leetcode.cn/problems/maximum-xor-with-an-element-from-array/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
@@ -1656,6 +1671,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
 [1753l]:https://leetcode.cn/problems/maximum-score-from-removing-stones/
+[1791l]:https://leetcode.cn/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
 [1827l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/
 [1839l]:https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/
