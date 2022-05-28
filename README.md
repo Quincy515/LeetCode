@@ -587,7 +587,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[70][70l]|[70. 爬楼梯][70]|![rs]&nbsp;&nbsp;|
 |[53][53l]|[53. 最大子数组和][53]|![rs]&nbsp;&nbsp;|
 |[1706][1706l]|[1706. 球会落何处][1706]|![rs]&nbsp;&nbsp;|
-|[][l]|[][]|![rs]&nbsp;&nbsp;|
+|[1420][1420l]|[1420.生成数组][1420]|![rs]&nbsp;&nbsp;|
 |**第29天：分而治之**|||
 |||![rs]&nbsp;&nbsp;|
 |**第30天：拓扑排序**|||
@@ -775,6 +775,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1382]:./1382-balance-a-binary-search-tree
 [1400]:./1400-construct-k-palindrome-strings
 [1418]:./1418-display-table-of-food-orders-in-a-restaurant
+[1420]:./1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 [1441]:./1441-build-an-array-with-stack-operations
 [1442]:./1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1472]:./1472-design-browser-history
@@ -1568,6 +1569,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1413l]:https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
 [1418l]:https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/
+[1420l]:https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.cn/problems/diagonal-traverse-ii/
