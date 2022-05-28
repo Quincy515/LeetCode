@@ -14,9 +14,25 @@
 ## 题解：
 ### Rust
 ```rust
-
-
 impl Solution {
+    // 动态规划
+    pub fn max_sub_array(nums: Vec<i32>) -> i32 {
+        let n = nums.len();
+        let mut result = i32::MIN;
+        let mut dp = vec![0; n];
+        // base case
+        // 第一个元素前面没有子数组
+        dp[0] = nums[0];
+        // 状态转移方程
+        for i in 1..n {
+            dp[i] = nums[i].max(nums[i] + dp[i - 1]);
+        }
+        // 得到 nums 的最大子数组
+        for i in 0..n {
+            result = result.max(dp[i]);
+        }
+        result
+    }
     // 滑动窗口
     pub fn max_sub_array(nums: Vec<i32>) -> i32 {
         let n = nums.len();
@@ -34,7 +50,7 @@ impl Solution {
         max_sum
     }
     // 前后缀
-    pub fn max_sub_array2(nums: Vec<i32>) -> i32 {
+    pub fn max_sub_array(nums: Vec<i32>) -> i32 {
         if nums.len() == 1 {
             return nums[0];
         }
