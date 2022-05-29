@@ -2,6 +2,9 @@ struct Solution;
 
 impl Solution {
     pub fn can_finish(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
+        
+    }
+    pub fn can_finis_dfsh(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
         let mut adjs = vec![vec![]; num_courses as usize];
         let mut indegrees = vec![0; num_courses as usize];
         for i in 0..prerequisites.len() {
