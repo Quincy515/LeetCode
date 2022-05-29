@@ -39,14 +39,6 @@
 
 [Discussion](https://leetcode.cn/problems/merge-two-sorted-lists/comments/) | [Solution](https://leetcode.cn/problems/merge-two-sorted-lists/solution/)
 
-**思路**
-
-
-
-**题解**
-
-### Rust
-
 ```rust
 // Definition for singly-linked list.
 #[derive(PartialEq, Eq, Clone, Debug)]
