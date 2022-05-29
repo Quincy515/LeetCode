@@ -1397,6 +1397,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [925l]:https://leetcode.cn/problems/long-pressed-name/
 [929l]:https://leetcode.cn/problems/unique-email-addresses/
 [931l]:https://leetcode.cn/problems/minimum-falling-path-sum/
+[932l]:https://leetcode.cn/problems/beautiful-array/
 [933l]:https://leetcode.cn/problems/number-of-recent-calls/
 [937l]:https://leetcode.cn/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.cn/problems/range-sum-of-bst/
@@ -1688,6 +1689,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
 [1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[1985l]:https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
