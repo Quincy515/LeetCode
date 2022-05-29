@@ -7,6 +7,7 @@
 | [208][208l] | Trie 前缀树 字典树 | [208. 实现 Trie (前缀树)][208]|
 | [307][307l] | 线段树/树状数组 | [307. 区域和检索 - 数组可修改][307]|
 | [684][684l] | 并查集 |[684. 冗余连接][684]|
+| [215][215l] | [归并排序]() | [215. 数组中的第K个最大元素][215] |
 
 ## Rust 算法相关仓库
 
@@ -589,7 +590,10 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 |[1706][1706l]|[1706. 球会落何处][1706]|![rs]&nbsp;&nbsp;|
 |[1420][1420l]|[1420.生成数组][1420]|![rs]&nbsp;&nbsp;|
 |**第29天：分而治之**|||
-|||![rs]&nbsp;&nbsp;|
+|[21][21l]|[21. 合并两个有序链表][21]|![rs]&nbsp;&nbsp;|
+|[1985][1985l]|[1985. 找出数组中的第 K 大整数][1985]|![rs]&nbsp;&nbsp;|
+|[558][558l]|[558. 四叉树交集][558]||
+|[932][932l]|[932. 漂亮数组][932]|![rs]&nbsp;&nbsp;|
 |**第30天：拓扑排序**|||
 |||![rs]&nbsp;&nbsp;|
 |**第31天：状态压缩**|||
@@ -686,6 +690,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [208]:./0208-implement-trie-prefix-tree
 [211]:./0211-design-add-and-search-words-data-structure
 [213]:./0213-house-robber-ii
+[215]:./0215-kth-largest-element-in-an-array
 [216]:./0216-combination-sum-iii
 [230]:./0230-kth-smallest-element-in-a-bst
 [231]:./0231-power-of-two
@@ -745,6 +750,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [885]:./0885-spiral-matrix-iii
 [911]:./0911-online-election
 [917]:./0917-reverse-only-letters
+[932]:./0932-beautiful-array
 [933]:./0933-number-of-recent-calls
 [942]:./0942-di-string-match
 [959]:./0959-regions-cut-by-slashes
@@ -797,6 +803,7 @@ https://articles.zsxq.com/id_zvp7okck88w9.html
 [1839]:./1839-longest-substring-of-all-vowels-in-order
 [1876]:./1876-substrings-of-size-three-with-distinct-characters
 [1984]:./1984-minimum-difference-between-highest-and-lowest-of-k-scores
+[1985]:./1985-find-the-kth-largest-integer-in-the-array
 [2006]:./2006-count-number-of-pairs-with-absolute-difference-k
 [2073]:./2073-time-needed-to-buy-tickets
 [2099]:./2099-find-subsequence-of-length-k-with-the-largest-sum
