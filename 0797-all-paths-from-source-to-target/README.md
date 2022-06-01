@@ -71,3 +71,44 @@ impl Solution {
 }
 ```
 
+**图的遍历**
+
+[labuladong 的算法小抄 > 第一章、手把手刷数据结构 > 手把手刷图算法 > 图论基础](https://labuladong.github.io/algo/2/20/47/)
+
+**代码**
+
+```rust
+impl Solution {
+    pub fn all_paths_source_target(graph: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
+        // 记录所有路径
+        let mut result = vec![];
+        traverse(&graph, 0, &mut vec![], &mut result);
+        result
+    }
+}
+
+// path: 维护递归过程中经过的路径
+fn traverse(graph: &[Vec<i32>], s: i32, path: &mut Vec<i32>, result: &mut Vec<Vec<i32>>) {
+    // 添加节点 s 到路径
+    path.push(s);
+
+    let n = graph.len() as i32;
+    if s == n - 1 {
+        // 到达终点
+        result.push(path.clone());
+        // 可以在这直接 return，但要 removeLast 正确维护 path
+        // path.pop();
+        // return;
+        // 不 return 也可以，因为图中不包含环，不会出现无限递归
+    }
+
+    // 递归每个相邻节点
+    for &v in graph[s as usize].iter() {
+        traverse(graph, v, path, result);
+    }
+
+    // 从路径移出节点 s
+    path.pop();
+}
+```
+
