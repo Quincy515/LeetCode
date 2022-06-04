@@ -2,7 +2,18 @@ struct Solution;
 
 impl Solution {
     pub fn can_finish(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
-        
+        let graph = build_graph(num_courses, prerequisites);
+        let mut result = false;
+        for i in 0..num_courses {
+            traverse(
+                &graph,
+                i as usize,
+                &mut vec![],
+                &mut vec![false; num_courses as usize],
+                &mut result,
+            );
+        }
+        !result
     }
     pub fn can_finis_dfsh(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
         let mut adjs = vec![vec![]; num_courses as usize];
@@ -33,6 +44,41 @@ impl Solution {
     }
 }
 
+// 构建具有依赖关系的有向图
+fn build_graph(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> Vec<Vec<usize>> {
+    // 图中共有 numCourses 个节点
+    let mut graph = vec![Vec::new(); num_courses as usize];
+
+    for edge in prerequisites.iter() {
+        let (from, to) = (edge[1] as usize, edge[0] as usize);
+        // 添加一条从 from 指向 to 的有向边
+        // 边的方向是「被依赖」关系，即修完课程 from 才能修课程 to
+        graph[from].push(to);
+    }
+
+    graph
+}
+fn traverse(
+    graph: &[Vec<usize>],
+    v: usize,
+    path: &mut Vec<usize>,
+    visited: &mut Vec<bool>,
+    result: &mut bool,
+) {
+    if path.iter().any(|x| x == &v) {
+        *result = true;
+    }
+    if visited[v] || *result {
+        return;
+    }
+    visited[v] = true;
+    path.push(v);
+
+    for &w in graph[v].iter() {
+        traverse(graph, w, path, visited, result);
+    }
+    path.pop();
+}
 #[cfg(test)]
 mod tests {
     use super::*;
