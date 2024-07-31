@@ -37,7 +37,7 @@ impl Solution {
         }
     }
 
-    pub fn merge_two_lists(
+    pub fn merge_two_lists_v2(
         l1: Option<Box<ListNode>>,
         l2: Option<Box<ListNode>>,
     ) -> Option<Box<ListNode>> {
@@ -83,17 +83,34 @@ impl Solution {
         // 最后返回虚拟节点的 next 指针
         dummy.unwrap().next
     }
-}
 
-#[cfg(test)]
-mod tests {
-    use super::*;
-    #[test]
-    fn it_works() {
-        assert_eq!(
-            linked![1, 1, 2, 3, 4, 4],
-            Solution::merge_two_lists(linked![1, 2, 4], linked![1, 3, 4])
-        );
+    pub fn merge_two_lists_v3(
+        mut list1: Option<Box<ListNode>>,
+        mut list2: Option<Box<ListNode>>,
+    ) -> Option<Box<ListNode>> {
+        let mut dummy = Box::new(ListNode::new(0));
+        let mut current = &mut dummy;
+        while list1.is_some() && list2.is_some() {
+            let l1 = list1.as_mut().unwrap();
+            let l2 = list2.as_mut().unwrap();
+
+            if l1.val <= l2.val {
+                let next = l1.next.take();
+                current.next = list1.take();
+                list1 = next;
+            } else {
+                let next = l2.next.take();
+                current.next = list2.take();
+                list2 = next;
+            }
+            current = current.next.as_mut().unwrap();
+        }
+        if list1.is_some() {
+            current.next = list1;
+        } else if list2.is_some() {
+            current.next = list2;
+        }
+        dummy.next
     }
 }
 
@@ -112,4 +129,24 @@ pub fn to_list(vec: Vec<i32>) -> Option<Box<ListNode>> {
 macro_rules! linked {
   ($($e:expr),*) => {to_list(vec![$($e.to_owned()), *])};
   ($($e:expr,)*) => {to_list(vec![$($e.to_owned()), *])};
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    #[test]
+    fn it_works() {
+        assert_eq!(
+            linked![1, 1, 2, 3, 4, 4],
+            Solution::merge_two_lists(linked![1, 2, 4], linked![1, 3, 4])
+        );
+        assert_eq!(
+            linked![1, 1, 2, 3, 4, 4],
+            Solution::merge_two_lists_v3(linked![1, 2, 4], linked![1, 3, 4])
+        );
+        assert_eq!(
+            linked![1, 1, 2, 3, 4, 4],
+            Solution::merge_two_lists_v3(linked![1, 2, 4], linked![1, 3, 4])
+        );
+    }
 }
