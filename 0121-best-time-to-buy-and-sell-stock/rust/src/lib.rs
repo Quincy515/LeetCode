@@ -1,6 +1,6 @@
 struct Solution;
 impl Solution {
-    pub fn max_profit(prices: Vec<i32>) -> i32 {
+    pub fn max_profit_v1(prices: Vec<i32>) -> i32 {
         let (n, mut max, mut cur_max) = (prices.len(), vec![0; prices.len()], 0);
         for i in (0..=n - 1).rev() {
             max[i] = cur_max;
@@ -15,6 +15,18 @@ impl Solution {
             }
         }
         result
+    }
+
+    pub fn max_profit(prices: Vec<i32>) -> i32 {
+        let mut max = 0;
+        let mut min = prices[0];
+
+        for p in prices {
+            max = max.max(p - min);
+            min = min.min(p);
+        }
+
+        max
     }
 }
 
