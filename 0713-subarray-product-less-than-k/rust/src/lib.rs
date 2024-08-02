@@ -1,7 +1,7 @@
 struct Solution;
 
 impl Solution {
-    pub fn num_subarray_product_less_than_k(nums: Vec<i32>, k: i32) -> i32 {
+    pub fn num_subarray_product_less_than_k_v1(nums: Vec<i32>, k: i32) -> i32 {
         let (mut left, mut right) = (0, 0);
         let mut result = 0;
         let mut val = i32::MAX;
@@ -31,6 +31,27 @@ impl Solution {
             }
         }
         result
+    }
+
+    pub fn num_subarray_product_less_than_k(nums: Vec<i32>, k: i32) -> i32 {
+        if k <= 1 {
+            return 0;
+        }
+
+        let (mut left, mut right) = (0, 0);
+        let (mut prod, mut ans) = (1, 0);
+        // 开始滑动窗口
+        while right < nums.len() {
+            prod *= nums[right];
+            // 缩小左窗口
+            while prod >= k {
+                prod /= nums[left];
+                left += 1;
+            }
+            ans += right - left + 1;
+            right += 1;
+        }
+        ans as i32
     }
 }
 
